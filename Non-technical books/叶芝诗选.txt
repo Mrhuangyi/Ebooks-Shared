@@ -1,0 +1,14773 @@
+Copyright © Foreign Language Teaching and Research Press 2012
+
+All rights reserved. No part of this publication may be reproduced or distributed by any means, or stored in a database or retrieval system, without the prior written permission of Foreign Language Teaching and Research Press.
+
+本书版权由外语教学与研究出版社独家所有。如未获得该社书面同意，书中任何部分之文字及图片，不得用任何方式抄袭、节录、翻印或存储利用于任何数据库及检索系统等。
+
+
+
+
+
+Published by Foreign Language Teaching and Research Press
+
+No. 19 Xisanhuan Beilu
+
+Beijing, China 100089
+
+http://www.fltrp.com
+
+
+
+
+
+图书在版编目(CIP)数据
+
+叶芝诗选：英汉对照/ (爱尔兰) 叶芝(Yeats, W. B. ) 著：袁可嘉译. — 北京： 外语教学与研究出版社, 2012. 3 (2012. 7 重印)
+
+(英诗经典名家名译)
+
+书名原文：Selected Poems of William Butler Yeats
+
+ISBN 978-7-5135-1732-4
+
+Ⅰ. ①叶… Ⅱ. ①叶… ②袁… Ⅲ. ①英语—汉语—对照读物②诗集—爱尔兰—现代 Ⅳ. ①H319. 4: I
+
+中国版本图书馆CIP数据核字(2012)第041230号
+
+
+
+
+
+出 版 人：蔡剑峰
+
+系列策划：吴 浩
+
+责任编辑：易 璐
+
+执行编辑：付 帅
+
+装帧设计：赵 欣
+
+出版发行：外语教学与研究出版社
+
+社  址：北京市西三环北路19号(100089)
+
+网  址：http：//www.fltrp.com
+
+版  次：2012年3月第1版 2012 年7月第2次印刷
+
+书  号：ISBN 978-7-5135-1732-4
+
+*  *  *
+
+制售盗版必究 举报查实奖励
+
+版权保护办公室举报电话：(010)88817519
+
+
+
+
+
+意切情深信达雅
+
+——序《英诗经典名家名译》
+
+上小学前，爷爷就教导我要爱劳动，爱念诗。“劳动”是让我拾粪、浇菜、割驴草……“诗”是学念他一生中读过的唯一“诗集”《三字经》中的“人之初，性本善”等。我还算听话，常下地帮着干零活，偶尔也念诗。上中学后喜出望外地得知，最早的诗歌便是俺乡下人干重活时有意无意发出的“哎哟、哎哟”之类的号子声。老师说，这是鲁迅先生发现的。后来糊里糊涂考进北大，便懵懵懂懂向冯至、李赋宁、闻家驷等老师学习一些欧洲国家的诗歌。
+
+大约十二天前，我正准备出访东欧和中亚时，北大、北外、党校三重校友兼教育部副部长郝平指示我为外语教学与研究出版社即将付印的《英诗经典名家名译》写篇序言。基于上述背景，我竟不自量力，欣欣然应允，飞机起飞不久就边拜读边写体会了。
+
+一看目录，我在万米高空立即激动不已。译者全是令我肃然起敬又感到亲切的名字。
+
+冰心是我初中时代的“作家奶奶”，我工作后曾专门找借口去拜访她在福建的故居。袁可嘉半个世纪前应邀从南大到北大讲英国文学史，我是自己搬着凳子硬挤进去旁听的幸运学生之一。王佐良先生是我读研究生时教授英国诗歌的。同学们爱听他的课，他大段引用原文从不看讲稿，我们常觉得他的汉语译文会比原文更精彩……穆旦、屠岸、江枫、杨德豫等我未曾有幸当面请教，从他们的作品中却受益良多，感激恨晚。
+
+前辈翻译家们追求“信、达、雅”。落实这“三字经”却并非易事。
+
+第一，在丰富多彩、良莠不齐的英文诗林中，译者要有足够高的先进理念和真知灼见去发现和选择思想水平高的作品。国产千里马尚需伯乐去认同，意识形态领域里的诗就更需要了。看诗的高下、文野，境界和情感永远是最重要的因素。我国《诗经》历久不衰，首先因为里面有“硕鼠，硕鼠，无食我黍！”这样政治上合民心的诗句，有“关关雎鸠，在河之洲……”这样传递真情的佳句。这套诗集选了许多跨世纪思想性极强的好诗。如雪莱《普罗米修斯的解放》中的警句：“国王、教士与政客们摧毁了人类之花，当它还只是柔嫩的蓓蕾……”今天读起来仍发人深省。如莎士比亚在其第107号十四行诗中将和平与橄榄树的葱郁有机相连，上承两千多年前中国先哲“和为贵”的真谛，下接联合国大会此时此刻的紧急议题。这样的诗自然有人爱，有人信。
+
+第二，诗源于生活。诗作者和译者都最好与百姓血肉相连。马克思曾与诗友调侃：诗人也得吃饭，别奢望写诗写饿了上帝会把盛着面包的篮子从天堂递下来。这套诗选中有许多生活气息浓醇、情意真切的诗。如出身佃农的彭斯在18世纪法国大革命后写的政治讽刺诗：“我赞美主的威力无边！主将千万人丢在黑暗的深渊……”，“……阔人们日子过得真舒泰，穷人们活得比鬼还要坏！”，“……有的书从头到尾都是谎言，有的大谎还没有见于笔端。”写实和预言都相当准确。
+
+
+
+第三，译文要忠实于原作，自身又要通畅、简洁、优美。这套诗集中，英文原作都是名符其实的经典。读诗最好读原文，但世界上大约有三千种语言，一个人会用来读诗的语言肯定少得可怜。为开阔视野、加强交流、增进友谊，读外国诗大多还得靠翻译。这套诗选中的译者都治学严谨，都酷爱祖国和外国优秀文化，译文是他们辛勤劳动的杰出成果。他们把拜伦的奔放、纪伯伦的靓丽、济慈的端庄、布莱克的纯真、华兹华斯的素净、叶芝的淡定、狄金森和弗罗斯特的质朴译得惟妙惟肖。读这样的译作，哲学上可受启迪，美学上可得滋润。这有益于读者的身心健康，能满足青年学生的好奇心和求知欲，也能为有关专家的进一步研讨提供方便。
+
+不妨说，这套诗集中外皆宜，老少咸宜，会书中两种语文或其中一种的人皆宜。
+
+
+
+
+
+李肇星
+
+
+
+
+
+2011年9月14日至25日自乌兰巴托（意为“红色勇士”）上空经莫斯科、明斯克（“交易地”）、塔什干（“石头城”）飞阿拉木图（“苹果城”）途中。
+
+
+
+
+
+目 录
+
+译序
+
+The Song of the Happy Shepherd
+
+快乐的牧人之歌
+
+The Stolen Child
+
+被盗的孩子
+
+Down by the Salley Gardens
+
+柳园里
+
+From Crossways (1889)
+
+以上选自《十字路口》（1889）
+
+
+
+
+
+To the Rose upon the Rood of Time
+
+致时间十字架上的玫瑰
+
+The Lake Isle of Innisfree
+
+茵纳斯弗利岛
+
+When You are Old
+
+当你老了
+
+The White Birds
+
+白鸟
+
+To Ireland in the Coming Times
+
+致未来爱尔兰
+
+From Rose (1893)
+
+以上选自《玫瑰》（1893）
+
+
+
+
+
+The Lover Tells of the Rose in his Heart
+
+情人诉说他心中的玫瑰
+
+Into the Twilight
+
+进入曙光来
+
+The Song of Wandering Aengus
+
+安格斯漫游歌
+
+He Tells of the Perfect Beauty
+
+他诉说十全的美
+
+The Fiddler of Dooney
+
+杜纳的琴手
+
+From The Wind among the Reeds (1899)
+
+以上选自《芦苇丛中的风》（1899）
+
+
+
+
+
+The arrow
+
+箭
+
+Adam's Curse
+
+亚当的恶运
+
+O do not Love Too Long
+
+噢，别爱太久
+
+From In the Seven Woods (1904)
+
+以上选自《七片树林中》（1904）
+
+
+
+
+
+A Woman Homer Sung
+
+一个荷马讴歌的女人
+
+No Second Troy
+
+没有第二个特洛伊
+
+All Things can Tempt Me
+
+什么都可诱使我
+
+Brown Penny
+
+铜便士
+
+From The Green Helmet and Other Poems (1910)
+
+以上选自《绿色头盔及其他》（1910）
+
+
+
+
+
+September 1913
+
+1913年9月
+
+Beggar to Beggar Cried
+
+乞儿向丐儿呼叫
+
+Fallen Majesty
+
+沦落的女王
+
+From Responsibilities (1914)
+
+以上选自《责任》（1914）
+
+
+
+
+
+The Wild Swans at Coole
+
+柯尔庄园的野天鹅
+
+A Song
+
+歌
+
+The Scholars
+
+学者
+
+On Woman
+
+论女人
+
+The Fisherman
+
+渔翁
+
+Her Praise
+
+对她的赞美
+
+A Deep-sworn Vow
+
+重誓
+
+From The Wild Swans at Coole (1919)
+
+以上选自《柯尔庄园的野天鹅》（1919）
+
+
+
+
+
+Easter 1916
+
+1916年复活节
+
+Towards Break of Day
+
+天亮之隙
+
+The Second Coming
+
+基督重临
+
+A Prayer for my Daughter
+
+为吾女祈祷
+
+From Michael Robartes and the Dancer (1921)
+
+以上选自《麦克尔·罗伯蒂斯及舞者》（1921）
+
+
+
+
+
+Sailing to Byzantium
+
+驶向拜占庭
+
+The Tower
+
+塔楼
+
+Meditations in Time of Civil War
+
+内战时期的沉思
+
+Leda and the Swan
+
+丽达和天鹅
+
+Among School Children
+
+在学童中间
+
+A Man Young and Old
+
+一个男人：青年和老年
+
+From The Tower (1928)
+
+以上选自《塔楼》（1928）
+
+
+
+
+
+Spilt Milk
+
+撒了的奶
+
+Coole Park and Ballylee, 1931
+
+柯尔庄园和贝列里，1931年
+
+Byzantium
+
+拜占庭
+
+Vacillation
+
+摇摆
+
+Words for Music Perhaps
+
+也许可谱曲的歌词（选段）
+
+A Woman Young and Old
+
+一个女人：青年和老年（选段）
+
+From The Winding Stair and Other Poems (1933)
+
+以上选自《旋梯及其他》（1933）
+
+
+
+
+
+The Gyres
+
+旋锥体
+
+Lapis Lazuli(For Harry Clifton)
+
+天青石雕（为哈利·克里夫顿而作）
+
+The Spur
+
+激刺
+
+Those Images
+
+那样的意象
+
+The Municipal Gallery Revisited
+
+重访市立美术馆
+
+Long-legged Fly
+
+长脚蚊
+
+Why should not Old Men be Mad?
+
+为什么老年人不该癫狂？
+
+The Circus Animals' Desertion
+
+马戏团驯兽的逃遁
+
+Politics
+
+政治
+
+Under Ben Bulben
+
+Under Ben Bulben本·布尔本山下
+
+From Last Poems (1936-1939)
+
+以上选自《最后的诗》（1936-1939）
+
+
+
+
+
+译 序
+
+
+威廉·勃特勒·叶芝（William Butler Yeats，1865—1939）是爱尔兰有史以来最杰出的诗人，也是20世纪英语诗坛最卓越的诗人之一。他所走过的道路是曲折、复杂而又富于启发意义的。在长达半个多世纪的创作生涯中，他从理想主义和唯美主义出发，历尽艰苦的探索，在晚年终于登上诗的高峰。他紧紧拥抱爱尔兰的民族传统和现实生活，不断吸收民间和外国的优秀诗艺，刷新自己的创作方法，最终以理性和感性的高度融化、象征手法和写实手法的巧妙结合，写出了为数不少的卓越诗篇，以及出色的诗论和几十出诗剧，成为影响深远的一代宗师。
+
+理想主义和唯美主义（1885—1899）
+
+叶芝于1865年6月13日出生于爱尔兰首府都柏林一个肖像画家的家庭。他儿童时代，就从家乡的农民和水手口中听到过无数民间故事，可说从小就接触到爱尔兰的民间文学传统。同时，父亲又引导他阅读英国古典文学，如斯宾塞和莎士比亚的作品。他在中学时代曾学了两年绘画，不久就放弃画事，专心从事文学创作，立志当一个大诗人。1888年，叶芝编写了《民间传说故事集》，后来又研究爱尔兰神话和历史，使它们成为他创作的主要题材。
+
+19世纪八九十年代爱尔兰民族主义运动（即芬尼亚运动）逐步高涨，这个运动的领袖之一约翰·奥利瑞在被监禁5年、流放15年之后，于1885年回到都柏林。叶芝是奥利瑞的崇拜者，在1886年初识奥利瑞以后，受到他很大的影响。叶芝承认是通过奥利瑞，“我才找到了创作主题”，即古代爱尔兰的神话传说——它们代表一个民族向另一个民族讲话。叶芝第一部重要作品《奥辛漫游记及其它》（1889）描写一个姑娘（爱尔兰）被魔鬼（英格兰）所俘获，奥辛为她的解放奋战了一百年，表现出诗人对爱尔兰民族文化和民族独立运动的热爱和向往。1891年，叶芝创办了伦敦爱尔兰文艺协会，次年又在都柏林建立民族文艺协会。他号召回到古代爱尔兰的传奇和神话中去，寻找库胡林这样的英雄人物来建立一个美好统一的国家。叶芝强调取材于自己的国家、民族和生活，“我的大部分作品是建立在古老的爱尔兰文学上的……古老的爱尔兰文学成了我一生想象力的主要启发”（1923年叶芝在爱尔兰上议院的讲话）。
+
+
+
+19世纪的最后十年，英国和欧洲唯美主义盛行，叶芝也受到影响。叶芝和他的诗友们在1891年和1892年建立的“诗人俱乐部”和“爱尔兰文艺协会”，一方面通过戏剧、音乐、民歌、语言创造出一个民族实体的形象，另一方面也带有唯美主义色彩，表现出世纪末的悲哀和逃避现实的倾向。叶芝的早期创作中就有把古代爱尔兰理想化而脱离现实社会的两种并存的倾向，《被盗的孩子》召唤人们和神仙一道逃向仙境，“因世界充满泪水非你能知晓”。著名的《茵纳斯弗利岛》表明他厌恶都市社会的不协调，希望远离现实去湖中岛上过隐居生活。《快乐的牧人之歌》认为“只有你心中存在真理”，万物皆空，“唯有词章真正美丽”。叶芝自己后来在给拉塞尔的一封信中说，他的早期诗歌“有一种夸大了的伤感，一种多愁善感的美，现在我认为这是懦弱的”。
+
+1889年对叶芝具有重要意义。这年的1月30日他会见了毛特·冈，一位毕生献身民族自治运动、丰姿绰约的女活动家，使叶芝深陷情网长达15年不能自拔。这场持久的苦恋伤透了诗人的心，却使他写出了不少优秀的诗章，如著名的《当你老了》。叶芝的情诗包含许多不同时期的情绪状态，如初恋时的狂热、中期的自责到后期的体谅理解，真挚而深刻，有感情也有智慧，是他抒情诗中数量大、质量高的部分。叶芝爱母及女，在遭到毛特·冈的几次拒绝后，又向其养女伊瑟尔德求婚，又遭到对方的两次拒绝，迟至1917年叶芝才与乔治·海德 — 李斯结婚，时已52岁。
+
+叶芝不曾获得毛特·冈的爱，却得到了诗和别的益处。这位女革命家还推动叶芝参加群众集会和现实斗争。他在1892年发表的《致未来爱尔兰》中表明他和历史上爱国的民族主义诗人是站在一起的，“要为抚慰爱尔兰的伤痛而歌唱”。
+
+1894年，叶芝的著名诗剧《心愿之乡》在伦敦上演，他的诗名大振。1896年，他参加爱尔兰共和国革命组织，但他反对暴力革命，自称决不是一般的“民族主义者”，他主要是在文化、文学活动方面支持独立运动。
+
+
+
+爱尔兰文艺复兴运动（1900—1914）
+
+本世纪初，爱尔兰在新芬党领导下，开展了要求脱离英帝国统治、实现民族自治的运动。叶芝与剧作家格雷戈里夫人和约翰·辛格在1904年创办了阿贝剧院，自己出任院长，上演关于爱尔兰历史和农民生活的戏剧。这个后来被称为“爱尔兰文艺复兴”的运动有维护民族文化和语言、描绘农民生活的一面，是自治运动在文化领域的一个反映。叶芝自己写过几十出诗剧，专为毛特·冈而写的《胡拉罕的凯瑟琳》通过一个妇女号召人民参加民族斗争的故事表达了爱国主义精神。1896年，叶芝在巴黎会见穷愁潦倒的约翰·辛格，力劝他回到爱尔兰的阿兰群岛生活和创作，使他成为现代爱尔兰最著名的剧作家之一。
+
+叶芝这时积极参加社会活动，发表演说，并主持剧院工作。社会实践和庞德的劝告使他的诗风为之一变，从早期虚幻朦胧的境地走向坚实明朗的世界，写出了不少佳作。现实主义的因素大大加强了，象征主义的手法却还保持着，只是洗脱了原先的浮泛含混的弊病，而与写实手法结合了起来，先前的梦呓式语言为明确具体的日常口语所代替了。这时他写下的情诗就完全是另外一个味儿的了。例如《没有第二个特洛伊》（1910），抒写的还是那个令他心碎的毛特·冈，但他用的是冷静、平实的口吻，理解对方的性格，体谅对方的难处，而不是昔日虚幻、朦胧、唉声叹气、自作多情的味道。语言上再也没有风花雪月那一套，形象上增加了新奇有力的因素，如说毛特的崇高信仰“单纯得像火一样”，“又像拉紧了的弓那样美貌”，叶芝从唯美派走向了现代派。对于这一诗风的转变，叶芝自己也有所记载，如《一件外套》（1914）中他说要脱掉那“缀满锦绣珠宝”的外套，“赤裸着身子走路了”。他努力使诗的语言与热情洋溢、正常的语言相一致，这就给他的诗带来了极大的真实性和力量。
+
+
+
+攀登诗艺的顶峰（1914—1928）
+
+第一次世界大战及其后果，1916年复活节起义，1917年俄国十月革命以及天主教和新教两派教徒之间的内战（1922—1923）——这些社会生活中的重大事件，吸引了诗人的注意力，进一步推动他的诗作向广阔纵深处拓展。这时他已是英语诗坛上的知名人物了。1914年，他应邀赴北美讲学，同年发表诗集《柯尔庄园的野天鹅》。1922年，出任爱尔兰自由邦参议员，接受都柏林两所著名大学授予的荣誉文学博士学位。1923年12月12日，荣获诺贝尔文学奖。瑞典颁发的奖状中说叶芝写出了“始终富于灵感的诗歌……并以精美的艺术形式表达了整个民族的精神”。这话大体上是允当的。
+
+这个时期，叶芝写出了许多名篇佳作，如《柯尔庄园的野天鹅》、《驶向拜占庭》、《丽达和天鹅》和《在学童中间》等等。1916年4月24日的复活节起义是民族独立斗争中的一个重大事件，参与其事的有不少是叶芝的朋友，包括他追求多年的毛特·冈。当时叶芝并不在都柏林。起义惨遭镇压，许多人被捕，5月间，15名起义领导人（包括毛特·冈已分居的丈夫），被处极刑。这件事，论公论私，都使叶芝受到极大的震撼和感动。他在著名诗篇《1916年复活节》中欢呼，“一切都变了，彻底变了：/一种可怖的美已经诞生”。他虽仍寄幻想于英方的妥协，怀疑这种牺牲是否必要，但对起义壮举还是作了肯定，赞美烈士们的英雄行为改变了死气沉沉的爱尔兰社会，带来了一种“可怖的美”。
+
+叶芝的世界观是很复杂的。他对新柏拉图主义和东方神秘主义都深感兴趣。1925年初版的《幻象》用几何图形解释历史循环的理论以及印度教的灵魂转世说。他认为人类历史是由正旋锥体（代表道德、空间、客观）和反旋锥体（代表美感、时间、主观）交错渗透构成的，已经有了两千年历史的西方文明，如今气数已尽，将在不久为一种狂暴粗野的文明所替代，二百年后再转变为另一种贵族文明。他这种历史观点可以说是机械的循环论，承认变化，不承认螺旋式的推进。他对贵族文化的崇拜也杂有片面的理解。他从艺术家的需要出发，认为只有贵族阶级拥有财富，深明礼仪，才能产生伟大的统治者和廉洁的政府，才能保护艺术，使艺术家有闲暇来创造艺术，使人民有知识来欣赏艺术。这种观点使叶芝在作品中屡屡歌颂以中古拜占庭为代表的贵族文明，认为在公元6世纪查士丁尼皇帝统治下的拜占庭王朝（527—565），精神与特质、文艺与政教、个人与社会得到了和谐的统一。著名的姐妹诗篇《驶向拜占庭》和《拜占庭》从一个角度要求摆脱物欲和时间的限制，通过净化，走向理性和不朽。这时叶芝的诗歌艺术有了很大的发展，他把抽象观念和丰富的形象结合起来，使诗作包含多层次的涵义，语言雄辩有力，这就是一种后期象征主义或正统现代主义的诗了。在《驶向拜占庭》中，主要象征体是拜占庭，涵义复杂已如上述，每诗段又各有辅助形象，如第一段中以各类生物（鸟类、鲑鱼、鲭鱼）象征物欲和暂存的世界；第二段以老年人歌吟人世破烂的衣裳（有限的生命）与音乐院校诵吟里程碑作品（不朽的艺术）相对照；第三段以教堂镶嵌砖上的圣徒形象（不朽的人物和艺术）与自己“迷于六欲七情”的心灵相烘托；第四段总结全诗，提出超脱自然，臻于不朽的愿望（金鸟）都明确硬朗，而且涵义深远，不再是浪漫派末流的虚幻朦胧、松散模糊的形象。从这些方面，我们可以看到叶芝诗艺的推进实际上是一场艺术革新运动，从唯美主义发展到现代主义，更好地体现了现代人的思想感情。
+
+
+
+
+
+返璞归真：对生活的最终肯定
+
+      一生诗艺的最后闪光
+
+
+
+
+
+叶芝早期的诗歌，由于失恋和对工业社会的不满，也由于世纪末唯美主义思潮的感染，是有脱离现实和生活的倾向的；过多的哀怨和眼泪冲淡了生活的光辉。进入本世纪以后，经历过社会活动和艺术实践的考验，他日益肯定生活和现实的意义。在他最后的十年中，他摆脱了象征主义的繁复，转而追求“浪漫主义和现实主义的结合”，向传统歌谣的单纯学习，终于登上返璞归真的更高境界，但那是现代化的歌谣，而非中古时代的牧歌。此时，他的一只眼睛已经失明，耳朵也开始聋了，疾病增多加剧。但这位银发满头、年逾七旬的老诗翁愈老迈，愈爱生活，愈加颂扬人情世俗，诗歌风格愈简洁粗放，语言愈斩钉截铁，对于歌谣重唱句的应用到了得心应手的程度。也有一些真挚的怀旧之作，如《重访市立美术馆》和《马戏团驯兽的逃遁》等。著名作品《天青石雕》认为时间虽然破坏一切，包括艺术品，但一切又会被人们重建，而重建的人们是快乐的，因此悲剧也是欢乐。
+
+叶芝晚年的诗是乐观的、明朗的、雄辩的。《本·布尔本山下》虽不是他最后的绝唱，但因带有遗嘱的性质，它总排在诗集的最后 ：
+
+
+
+
+
+爱尔兰诗人们要学好本领，
+
+只把制作精美的歌唱吟，
+
+蔑视正在涌现的那种
+
+从头到脚不成样子的作品，
+
+他们数典忘祖的头脑心灵
+
+
+
+是卑劣床榻的卑劣产品。
+
+歌咏农民和拼命
+
+骑马奔驰的乡村士绅，
+
+歌咏神圣的僧人
+
+和饮酒者的狂笑豪情；
+
+把欢乐的老爷太太歌咏，
+
+他们已被埋入土中
+
+长达七个英雄的世纪；
+
+用过去的模子来铸造自己
+
+使未来时代的我们这些人
+
+依然是不可征服的爱尔兰人。
+
+
+
+
+
+在本·布尔本秃山下面，
+
+叶芝在鼓崖坟地安眠。
+
+许多年前，他的祖先
+
+曾经是牧师，教堂在近边，
+
+路旁还有古老十字架。
+
+不要大理石，不用俗套话，
+
+在当地采来的石碑上方，
+
+他嘱咐把这些话刻上：
+
+  冷眼看待
+
+  生与死
+
+  骑士们，前进！
+
+
+
+
+
+1939年1月18日，叶芝因心脏病去世，终年73岁。1月31日，他的遗体被葬于法国居山面海的罗盖勃罗纳的墓地，在场的仅有他夫人等寥寥数人。24小时后，来了一个迟到的也是唯一的花圈，那是叶芝的同乡、著名小说家詹姆士·乔伊斯送来的。1948年，按照他生前的愿望，叶芝的灵柩被驱逐舰护送到故乡，安葬于斯拉哥的鼓崖陵园，墓碑上镌刻着他生前撰就的雄壮诗行。
+
+不但骑士们要继续前进，英国现代诗歌，由于叶芝为首的一群诗人的努力，也从唯美主义向现代主义跨进了一大步，这个事件的巨大历史意义已经载入爱尔兰、英国、欧洲以至全世界的诗歌史中。就在相隔遥远的中国，叶芝也对一部分诗人（如20世纪40年代的“九叶诗人”）产生过影响。叶芝的诗作正在得到更多中国读者的喜爱。
+
+这个译本是根据麦克米兰公司1985年出版的《威·勃·叶芝诗结集》选译而成的。注释部分曾参考傅浩同志编译的《叶芝抒情诗全集》（中国工人出版社，1994），谨此致谢。
+
+
+
+
+
+袁可嘉
+
+2004年1月
+
+于纽约
+
+
+
+
+
+承蒙中国社会科学院外国文学研究所傅浩研究员为本书编选篇目，袁晓敏女士对编辑工作给予了热心指导，特此一并感谢。——编者
+
+
+
+
+
+The Song of the Happy Shepherd
+
+
+The woods of Arcady are dead,
+
+And over is their antique joy;
+
+Of old the world on dreaming fed;
+
+Grey Truth is now her painted toy;
+
+Yet still she turns her restless head:
+
+But O, sick children of the world,
+
+Of all the many changing things
+
+In dreary dancing past us whirled,
+
+To the cracked tune that Chronos sings,
+
+Words alone are certain good.
+
+Where are now the warring kings,
+
+Word be-mockers?—By the Rood,
+
+Where are now the warring kings?
+
+An idle word is now their glory,
+
+By the stammering schoolboy said,
+
+Reading some entangled story:
+
+The kings of the old time are dead;
+
+The wandering earth herself may be
+
+Only a sudden flaming word,
+
+In clanging space a moment heard,
+
+Troubling the endless reverie.
+
+Then nowise worship dusty deeds,
+
+Nor seek, for this is also sooth,
+
+To hunger fiercely after truth,
+
+Lest all thy toiling only breeds
+
+
+
+New dreams, new dreams; there is no truth
+
+Saving in thine own heart. Seek, then,
+
+No learning from the starry men,
+
+Who follow with the optic glass
+
+The whirling ways of stars that pass—
+
+Seek, then, for this is also sooth,
+
+No word of theirs—the cold star-bane
+
+Has cloven and rent their hearts in twain,
+
+And dead is all their human truth.
+
+Go gather by the humming sea
+
+Some twisted, echo-harbouring shell,
+
+And to its lips thy story tell,
+
+And they thy comforters will be,
+
+Rewording in melodious guile
+
+Thy fretful words a little while,
+
+Till they shall singing fade in ruth
+
+And die a pearly brotherhood;
+
+For words alone are certain good:
+
+Sing, then, for this is also sooth.
+
+
+
+I must be gone: there is a grave
+
+Where daffodil and lily wave,
+
+And I would please the hapless faun,
+
+Buried under the sleepy ground,
+
+With mirthful songs before the dawn.
+
+His shouting days with mirth were crowned;
+
+And still I dream he treads the lawn,
+
+Walking ghostly in the dew,
+
+Pierced by my glad singing through,
+
+
+
+My songs of old earth's dreamy youth:
+
+But ah! she dreams not now; dream thou!
+
+For fair are poppies on the brow:
+
+Dream, dream, for this is also sooth.
+
+
+
+
+
+快乐的牧人之歌
+
+
+
+
+
+阿卡狄的丛林已经死去，[1]
+
+
+
+他们古老的欢乐也已过去；
+
+世界靠梦想怀古不已，
+
+
+
+
+
+灰色真理是她涂彩的玩具；[2]
+
+
+
+但她那不安的头仍在转动；
+
+噢，世上有病的孩儿们，
+
+所有一切变动的事物中，
+
+
+
+
+
+按克罗诺斯的陈腔滥调[3]
+
+
+
+令人厌倦地旋舞而去，
+
+唯有词章真正美丽。
+
+黩武的君王如今安在，
+
+他们嘲弄词章——老天爷，
+
+黩武的君王如今安在？
+
+儿童读纠缠不清的故事，
+
+结结巴巴说出的一句废话，
+
+就是那些君王的光荣，
+
+旧时代的君王已经死了。
+
+也许转悠的地球本身
+
+不过是突然燃烧的字眼，
+
+一瞬间听见克朗一声，
+
+惊扰了无穷无尽的梦幻。
+
+
+
+
+
+因此崇拜尘封的遗迹
+
+并不聪明，这也是真的，
+
+毋须去奋力追求真理，
+
+你一切辛劳只会在梦上加梦。
+
+只有你心中存在真理。
+
+因此不必向占星家学习，
+
+他们用天文镜追踪流星旋转的路——
+
+因此这也是真的，不去听
+
+他们的话——冰冷的星毒
+
+已经劈开了、分裂了他们的心灵，
+
+他们关于人的真理已经死尽。
+
+到浅吟轻唱的海边
+
+去捡些曲折的、暗藏着回音的贝壳，
+
+将你的故事对着它的唇诉说，
+
+他们会成为你的安慰者，
+
+一瞬间把你烦恼的字句
+
+重铸成优美的曲调，
+
+直到他们哀伤地唱着消隐，
+
+和珍珠兄弟死在一道。
+
+因为唯有词章真正美丽，
+
+唱吧，因为这也是真理。
+
+
+
+
+
+我得走了！在一座坟上，
+
+百合和黄水仙飘荡，
+
+我将取悦于不幸的牧神，
+
+用快乐的歌声迎接曙光，
+
+
+
+
+
+他葬身于睡意浓浓的土下方；
+
+我还梦见他行走草地，
+
+
+
+在露水间幽魂般游荡，
+
+浸透了我快乐的歌吟，
+
+关于古老土地的多梦的青春。
+
+啊，她不再做梦了，你做梦吧！
+
+因为山崖上罂粟花开得美丽，
+
+梦吧，梦吧，因为这也是真理。
+
+
+
+
+
+[1]  阿卡狄：古希腊高原地区，相传是风俗淳朴的牧歌之乡。
+
+
+
+
+
+[2]  灰色真理：指一般世俗的关于物质的真理。在叶芝看来，世俗真理是相对的、暂时的，只有关于精神的真理才是绝对的、永恒的。
+
+
+
+
+
+[3]  克罗诺斯（Chronos）：希腊文，时间。
+
+
+
+
+
+The Stolen Child
+
+
+Where dips the rocky highland
+
+Of Sleuth Wood in the lake,
+
+There lies a leafy island
+
+Where flapping herons wake
+
+The drowsy water-rats;
+
+There we've hid our faery vats,
+
+Full of berries
+
+And of reddest stolen cherries.
+
+Come away, O human child!
+
+To the waters and the wild
+
+With a faery, hand in hand,
+
+For the world's more full of weeping than you
+
+  can understand.
+
+
+
+
+
+Where the wave of moonlight glosses
+
+The dim grey sands with light,
+
+Far off by furthest Rosses
+
+We foot it all the night,
+
+Weaving olden dances,
+
+Mingling hands and mingling glances
+
+Till the moon has taken flight;
+
+To and fro we leap
+
+And chase the frothy bubbles,
+
+
+
+
+
+While the world is full of troubles
+
+And is anxious in its sleep.
+
+Come away, O human child!
+
+To the waters and the wild
+
+With a faery, hand in hand,
+
+For the world's more full of weeping than you
+
+  can understand.
+
+
+
+
+
+Where the wandering water gushes
+
+From the hills above Glen-Car,
+
+In pools among the rushes
+
+That scarce could bathe a star,
+
+We seek for slumbering trout
+
+And whispering in their ears
+
+Give them unquiet dreams;
+
+Leaning softly out
+
+From ferns that drop their tears
+
+Over the young streams.
+
+Come away, O human child!
+
+To the waters and the wild
+
+With a faery, hand in hand,
+
+For the world's more full of weeping than you
+
+  can understand.
+
+
+
+
+
+Away with us he's going,
+
+The solemn-eyed:
+
+He'll hear no more the lowing
+
+Of the calves on the warm hillside
+
+Or the kettle on the hob
+
+
+
+Sing peace into his breast,
+
+Or see the brown mice bob
+
+Round and round the oatmeal-chest.
+
+For he comes, the human child,
+
+To the waters and the wild
+
+With a faery, hand in hand,
+
+From a world more full of weeping than he
+
+  can understand.
+
+
+
+
+
+被盗的孩子
+
+
+
+
+
+湖中的斯硫斯丛林[1]
+
+
+
+嶙峋高地下沉的地方，
+
+有一个枝叶繁茂的小岛，
+
+苍鹭拍打着翅膀，
+
+把瞌睡的小鼠惊醒；
+
+那里隐藏着仙人的大桶，
+
+装满了草莓
+
+和偷来的鲜红樱桃；
+
+来，人之子呀，
+
+到湖滨旷野来吧，
+
+手拉手，与仙人一道，
+
+因世界充满泪水非你能知晓。
+
+
+
+
+
+月波用光照亮
+
+朦胧的灰色沙滩，
+
+
+
+
+
+在罗赛斯最远的远方[2]
+
+
+
+我们通宵跳舞
+
+交织着古老的舞蹈，
+
+手握着手，眼波相交，
+
+直到月儿遁逃；
+
+我们蹦蹦跳跳
+
+追逐那浪花水泡，
+
+
+
+而世界充满苦恼
+
+连觉也睡不好。
+
+来，人之子呀，
+
+到湖滨旷野来吧，
+
+手拉手，与仙人一道，
+
+因世界充满泪水非你能知晓。
+
+
+
+
+
+弯弯曲曲的流水
+
+
+
+
+
+从格伦卡上的山头喷涌，[3]
+
+
+
+穿过芦苇成了水潭，
+
+不见星星沐浴水中，
+
+我们寻找睡中的鳟鱼
+
+在它们耳边悄悄诉说，
+
+给它们不安的梦；
+
+年轻的溪水上
+
+蕨类在垂泪，
+
+我们悄悄侧身走出来；
+
+来，人之子呀，
+
+到湖滨旷野来吧，
+
+手拉手，与仙人一道，
+
+因世界充满泪水非你能知晓。
+
+
+
+
+
+他跟着我们来了，
+
+神色庄重；
+
+他不想再听小牛犊
+
+在暖洋洋的山腰低鸣，
+
+也不想炉架上的水壶
+
+为他的心带来安宁，
+
+
+
+或者看棕色的鼠
+
+绕着燕麦柜跳蹦，
+
+因为他来了，人之子，
+
+来到了湖滨和旷野，
+
+手拉手，和仙人一道，
+
+从一个充满泪水的非他能知晓的世界。
+
+
+
+
+
+[1]  硫斯丛林：位于斯拉哥郡境内。
+
+
+
+
+
+[2]  罗赛斯：斯拉哥附近一个海滨渔村。
+
+
+
+
+
+[3]  格伦卡：斯拉哥境内的一个湖名。
+
+
+
+
+
+Down by the Salley Gardens
+
+
+Down by the salley gardens my love and I did meet;
+
+She passed the salley gardens with little snow-white feet.
+
+She bid me take love easy, as the leaves grow on the tree;
+
+But I, being young and foolish, with her would not agree.
+
+
+
+
+
+In a field by the river my love and I did stand,
+
+And on my leaning shoulder she laid her snow-white hand.
+
+She bid me take life easy, as the grass grows on the weirs;
+
+But I was young and foolish, and now am full of tears.
+
+
+
+
+
+柳园里
+
+柳园里我和心爱者曾经相遇，
+
+她雪白的小脚从柳园走过去。
+
+她要我把爱情看淡些，像树上长绿叶；
+
+但我年轻而愚蠢，却不肯同意。
+
+
+
+
+
+我和心爱者站在河边草地上，
+
+她把雪白的手往我前倾的肩头放。
+
+她要我把人生看淡些，像坟上长绿草；
+
+但我年轻而愚蠢，如今泪如潮。
+
+
+
+
+
+To the Rose upon the Rood of Time
+
+
+Red Rose, proud Rose, sad Rose of all my days!
+
+Come near me, while I sing the ancient ways:
+
+Cuchulain battling with the bitter tide;
+
+The Druid, grey, wood-nurtured, quiet-eyed,
+
+Who cast round Fergus dreams, and ruin untold;
+
+And thine own sadness, whereof stars, grown old
+
+In dancing silver-sandalled on the sea,
+
+Sing in their high and lonely melody.
+
+Come near, that no more blinded by man's fate,
+
+I find under the boughs of love and hate,
+
+In all poor foolish things that live a day,
+
+Eternal beauty wandering on her way.
+
+
+
+Come near, come near, come near—Ah, leave me still
+
+A little space for the rose-breath to fill!
+
+Lest I no more hear common things that crave;
+
+The weak worm hiding down in its small cave,
+
+The field-mouse running by me in the grass,
+
+And heavy mortal hopes that toil and pass;
+
+But seek alone to hear the strange things said
+
+By God to the bright hearts of those long dead,
+
+And learn to chaunt a tongue men do not know.
+
+Come near; I would, before my time to go,
+
+Sing of old Eire and the ancient ways:
+
+Red Rose, proud Rose, sad Rose of all my days.
+
+
+
+
+
+致时间十字架上的玫瑰[1]
+
+
+
+伴我终生的玫瑰，骄傲的玫瑰，悲哀的玫瑰！
+
+当我歌唱古代的生活，请走近来：
+
+
+
+
+
+和险恶的海浪战斗的库胡林勇士；[2]
+
+
+
+那头发灰白，眼神平静，丛林哺育的祭司，
+
+
+
+
+
+他为弗格斯制造了梦和无穷之灾；[3]
+
+
+
+你自己的关于星群变老的悲哀，
+
+穿着银色木屐在海上舞蹈，
+
+唱他们高亢而孤独的曲调。
+
+走近来，不要再为人类的命运迷误，
+
+我发现在爱和恨的枝条下面，
+
+在一切可怜的只活一天的蠢物之间，
+
+永恒之美一路漫游向前。
+
+
+
+
+
+走近来，走近来，走近来——啊，给我留一点
+
+玫瑰气息充填的空间！
+
+免得我听不到平凡事物渴求之声：
+
+躲在小洞里衰弱的虫子，
+
+从我身边草地上跑过的老鼠，
+
+人类为之奋斗终成过去的沉重希望；
+
+而只要求听到那些怪事情
+
+上帝说给长逝者明亮的心灵谛听，
+
+
+
+
+
+学会唱一支人们不知的曲调。
+
+走近来，在我离开以前我想要
+
+把古老的爱尔兰和古代故事唱一回：
+
+伴我终生的红玫瑰，骄傲的玫瑰，悲哀的玫瑰。
+
+
+
+
+
+[1]  “玫瑰”在叶芝诗中有复杂的象征意义，一般是比喻永恒的精神之美，有时也比喻爱尔兰传奇中古代英雄或叶芝对毛特·冈的爱情。“十字架”则比喻苦难。
+
+
+
+
+
+[2]  库胡林：爱尔兰传奇中的伟大武士。
+
+
+
+
+
+[3]  弗格斯：爱尔兰传说中的北爱尔兰王，被人用计骗去王位，进入林中隐居。
+
+
+
+
+
+The Lake Isle of Innisfree
+
+
+I will arise and go now, and go to Innisfree,
+
+And a small cabin build there, of clay and wattles made:
+
+Nine bean-rows will I have there, a hive for the honey-bee,
+
+And live alone in the bee-loud glade.
+
+
+
+
+
+And I shall have some peace there, for peace comes dropping
+
+  slow,
+
+Dropping from the veils of the morning to where the cricket
+
+  sings;
+
+There midnight's all a glimmer, and noon a purple glow,
+
+And evening full of the linnet's wings.
+
+
+
+
+
+I will arise and go now, for always night and day
+
+I hear lake water lapping with low sounds by the shore;
+
+While I stand on the roadway, or on the pavements grey,
+
+I hear it in the deep heart's core.
+
+
+
+
+
+茵纳斯弗利岛[1]
+
+
+
+我就要动身走了，去茵纳斯弗利岛，
+
+搭起一个小屋子，筑起泥巴房；
+
+支起九行芸豆架，一排蜜蜂巢，
+
+独自住着，荫阴下听蜂群歌唱。
+
+
+
+
+
+我就会得到安宁，因它徐徐下降，
+
+从朝露落到蟋蟀歌唱的地方；
+
+午夜是一片闪亮，正午是一片紫光，
+
+傍晚到处飞舞着红雀的翅膀。
+
+
+
+
+
+我就要动身走了，因为我听到
+
+那水声日日夜夜轻拍着湖滨；
+
+不管我站在车行道或灰暗的人行道，
+
+都在我心灵的深处听见这声音。
+
+
+
+
+
+[1]  茵纳斯弗利岛：爱尔兰一个湖中小岛。
+
+
+
+
+
+When You are Old
+
+
+When you are old and grey and full of sleep,
+
+And nodding by the fire, take down this book,
+
+And slowly read, and dream of the soft look
+
+Your eyes had once, and of their shadows deep;
+
+
+
+
+
+How many loved your moments of glad grace,
+
+And loved your beauty with love false or true,
+
+But one man loved the pilgrim soul in you,
+
+And loved the sorrows of your changing face;
+
+
+
+
+
+And bending down beside the glowing bars,
+
+Murmur, a little sadly, how Love fled
+
+And paced upon the mountains overhead
+
+And hid his face amid a crowd of stars.
+
+
+
+
+
+当你老了[1]
+
+
+
+当你老了，头白了，睡思昏沉，
+
+炉火旁打盹，请取下这部诗歌，
+
+慢慢读，回想你过去眼神的柔和，
+
+回想它们昔日浓重的阴影；
+
+
+
+
+
+多少人爱你青春欢畅的时辰，
+
+爱慕你的美丽，假意或真心，
+
+
+
+
+
+只有一个人爱你那朝圣者的灵魂，[2]
+
+
+
+爱你衰老了的脸上痛苦的皱纹；
+
+
+
+
+
+垂下头来，在红光闪耀的炉子旁，
+
+凄然地轻轻诉说那爱情的消逝，
+
+在头顶的山上它缓缓踱着步子，
+
+在一群星星中间隐藏着脸庞。
+
+
+
+
+
+[1]  为毛特·冈而作，她是爱尔兰自治运动中主要人物之一，曾是叶芝长期追求的对象。
+
+
+
+
+
+[2]  毛特·冈热爱爱尔兰的独立事业，曾为之进行终生的斗争。
+
+
+
+
+
+The White Birds
+
+
+I would that we were, my beloved, white birds on the
+
+  foam of the sea!
+
+We tire of the flame of the meteor, before it can fade
+
+  and flee;
+
+And the flame of the blue star of twilight, hung low
+
+  on the rim of the sky,
+
+Has awaked in our hearts, my beloved, a sadness
+
+  that may not die.
+
+
+
+A weariness comes from those dreamers, dew-
+
+  dabbled, the lily and rose;
+
+Ah, dream not of them, my beloved, the flame of the
+
+  meteor that goes,
+
+Or the flame of the blue star that lingers hung low
+
+  in the fall of the dew:
+
+For I would we were changed to white birds on the
+
+  wandering foam: I and you!
+
+
+
+I am haunted by numberless islands, and many a
+
+  Danaan shore,
+
+Where Time would surely forget us, and Sorrow
+
+  come near us no more;
+
+Soon far from the rose and the lily and fret of the
+
+  flames would we be,
+
+Were we only white birds, my beloved, buoyed out
+
+
+
+  on the foam of the sea!
+
+
+
+
+
+白 鸟
+
+但愿我俩是，亲爱的，飞翔海波上的一对白鸟，
+
+流星的火焰叫我们厌倦，虽说它尚未隐消；
+
+金星的蓝色火焰，低垂于天空的边上，
+
+在我们心中，亲爱的，引起了永不消逝的哀伤。
+
+
+
+
+
+厌倦来自梦幻者，沾上雾珠的百合和玫瑰，
+
+噢，别梦想他们，亲爱的，那消逝的流星的光彩，
+
+也不要梦想蓝星的残焰，低垂于下降的露里，
+
+但愿我俩是一对白鸟，飞翔于海波上，我和你！
+
+
+
+
+
+无数的岛屿和优美的海岸使我陶醉，
+
+时间会忘却我们，痛苦也不会再来，
+
+快快离开百合和玫瑰，那愁人的星光，
+
+但愿我们是一对白鸟，亲爱的，飞翔于海波上。
+
+
+
+
+
+To Ireland in the Coming Times
+
+
+Know, that I would accounted be
+
+True brother of a company
+
+That sang, to sweeten Ireland's wrong,
+
+Ballad and story, rann and song;
+
+Nor be I any less of them,
+
+Because the red-rose-bordered hem
+
+Of her, whose history began
+
+Before God made the angelic clan,
+
+Trails all about the written page.
+
+When Time began to rant and rage
+
+The measure of her flying feet
+
+Made Ireland's heart begin to beat;
+
+And Time bade all his candles flare
+
+To light a measure here and there;
+
+And may the thoughts of Ireland brood
+
+Upon a measured quietude.
+
+
+
+Nor may I less be counted one
+
+With Davis, Mangan, Ferguson,
+
+Because, to him who ponders well,
+
+My rhymes more than their rhyming tell
+
+Of things discovered in the deep,
+
+Where only body's laid asleep.
+
+For the elemental creatures go
+
+About my table to and fro,
+
+
+
+That hurry from unmeasured mind
+
+To rant and rage in flood and wind;
+
+Yet he who treads in measured ways
+
+May surely barter gaze for gaze.
+
+Man ever journeys on with them
+
+After the red-rose-bordered hem.
+
+Ah, faeries, dancing under the moon,
+
+A Druid land, a Druid tune!
+
+
+
+While still I may, I write for you
+
+The love I lived, the dream I knew.
+
+From our birthday, until we die,
+
+Is but the winking of an eye;
+
+And we, our singing and our love,
+
+What measurer Time has lit above,
+
+And all benighted things that go
+
+About my table to and fro,
+
+Are passing on to where may be,
+
+In truth's consuming ecstasy,
+
+No place for love and dream at all;
+
+For God goes by with white footfall.
+
+I cast my heart into my rhymes,
+
+That you, in the dim coming times,
+
+May know how my heart went with them
+
+After the red-rose-bordered hem.
+
+
+
+
+
+致未来爱尔兰
+
+要明白，我愿意被大家认同
+
+是那一伙人的忠实弟兄，
+
+他们唱着歌使爱尔兰伤痛减轻，
+
+用民谣，故事，俚曲，歌行；
+
+而且，我也不愿比哪一个逊色，
+
+
+
+
+
+因为她那红玫瑰镶边的服饰，[1]
+
+
+
+在上帝创造这天使般的民族之前，
+
+就把自己的历史写在书页之间；
+
+因为在世界最初的开花年代，
+
+她飞奔的双脚轻轻下坠，
+
+使爱尔兰的心儿开始跳跃；
+
+如今星光之烛仍在闪耀，
+
+帮助她的脚轻轻地起落；
+
+如今，爱尔兰之魂
+
+仍在神圣的静谧中沉吟。
+
+
+
+
+
+也不要把我这个人当成
+
+
+
+
+
+不如台维斯，曼根，费格生，[2]
+
+
+
+因为对一个深思熟虑的人，
+
+我的诗比他们讲得更鲜明。
+
+
+
+那隐约的智慧，古老而深沉，
+
+
+
+
+
+上帝把它只给睡中人。
+
+四大元素引来的种种，
+
+在我桌子旁来回走动，
+
+化为水，火，土，风，
+
+从未曾测知的人的头脑向外涌。
+
+狂嘶暴吼的洪水巨风。
+
+但肃步行进的人
+
+准会遇到他们古老的眼神。
+
+人类永远和他们一道前进，
+
+追随那红玫瑰镶边的衣襟。
+
+啊，仙女们，在月光下舞蹈，
+
+巫师的故国，巫师的曲调！
+
+
+
+
+
+只要我能够，我要为你歌诵
+
+我经历的爱，我做过的梦。
+
+从我们诞生一直到死亡
+
+不过是一眨眼时光，
+
+而我们，我们的歌唱和爱情，
+
+能在时间洪流闪耀多久，
+
+并且那引来的种种，
+
+在我桌子旁来回走动，
+
+这一切正走向该去的地点，
+
+那真理之融化一切的极乐天，
+
+那绝不是谈爱做梦之地，
+
+上帝踩着雪白的脚走去。
+
+我把心铸入了我的诗行，
+
+使你们在隐约的未来时光，
+
+
+
+会明白我的心与他们同往，
+
+追随那红玫瑰镶边的衣裳。
+
+
+
+
+
+[1]  借喻神秘的永恒之美。叶芝认为自己的诗作歌咏永恒之美，包括爱尔兰民族之美，足以与历史上的爱国主义诗篇相比，甚或过之。
+
+
+
+
+
+[2]  托麦斯·台维斯（1814—1845）：诗人，青年爱尔兰组织的领导人；詹姆斯·曼根（1803—1849），当年最著名的诗人；萨缪尔·费格生（1810—1886），爱尔兰史诗作者——这三位诗人都与民族主义运动有联系。
+
+
+
+
+
+The Lover Tells of the Rose in his Heart
+
+
+All things uncomely and broken, all things worn out
+
+  and old,
+
+The cry of a child by the roadway, the creak of a
+
+  lumbering cart,
+
+The heavy steps of the ploughman, splashing the
+
+  wintry mould,
+
+Are wronging your image that blossoms a rose in
+
+  the deeps of my heart.
+
+
+
+
+
+The wrong of unshapely things is a wrong too great
+
+  to be told;
+
+I hunger to build them anew and sit on a green knoll
+
+  apart,
+
+With the earth and the sky and the water, re-made,
+
+  like a casket of gold
+
+For my dreams of your image that blossoms a rose
+
+  in the deeps of my heart.
+
+
+
+
+
+情人诉说他心中的玫瑰
+
+所有的破烂丑陋，所有的陈旧荒芜，
+
+路旁孩儿的啼哭，嘎吱的笨重货车，
+
+耕者的沉重脚步粉碎着冬天的泥土，
+
+都扭曲你的形象——我心底怒放的玫瑰。
+
+
+
+
+
+不美之物的坏处，坏得没法讲明，
+
+我渴望重建它们，独坐在翠绿的山丘，
+
+土地、太阳、河水重铸为一匣黄金，
+
+为梦中你的形象——玫瑰怒放在心头。
+
+
+
+
+
+Into the Twilight
+
+
+Out-worn heart, in a time out-worn,
+
+Come clear of the nets of wrong and right;
+
+Laugh, heart, again in the grey twilight,
+
+Sigh, heart, again in the dew of the morn.
+
+
+
+
+
+Your mother Eire is always young,
+
+Dew ever shining and twilight grey;
+
+Though hope fall from you and love decay,
+
+Burning in fires of a slanderous tongue.
+
+
+
+
+
+Come, heart, where hill is heaped upon hill:
+
+For there the mystical brotherhood
+
+Of sun and moon and hollow and wood
+
+And river and stream work out their will;
+
+
+
+
+
+And God stands winding His lonely horn,
+
+And time and the world are ever in flight;
+
+And love is less kind than the grey twilight,
+
+And hope is less dear than the dew of the morn.
+
+
+
+
+
+进入曙光来
+
+衰老的心，衰老的时代，
+
+来，跳出是非的罗网；
+
+叹息吧，心啊，又见到朝露，
+
+笑吧，心啊，又见到灰色曙光。
+
+
+
+
+
+你母亲爱林永远年轻，[1]
+
+
+
+曙光灰灰，露珠晶晶；
+
+希望虽失落，爱情虽衰退，
+
+在蜚言诽语的火中燃尽。
+
+
+
+
+
+心呵，到深山叠峦来，
+
+那里日月幽谷和丛林、
+
+河流和溪水的意愿
+
+正表现为神秘的友情。
+
+
+
+
+
+上帝站着吹他寂寞的号角，
+
+时间和世界流逝无尽，
+
+爱情不如灰灰的曙光和善，
+
+希望不如朝露可亲。
+
+
+
+
+
+[1]  爱林：即爱尔兰古称。
+
+
+
+
+
+The Song of Wandering Aengus
+
+
+I went out to the hazel wood,
+
+Because a fire was in my head,
+
+And cut and peeled a hazel wand,
+
+And hooked a berry to a thread;
+
+And when white moths were on the wing,
+
+And moth-like stars were flickering out,
+
+I dropped the berry in a stream
+
+And caught a little silver trout.
+
+
+
+When I had laid it on the floor
+
+I went to blow the fire aflame,
+
+But something rustled on the floor,
+
+And some one called me by my name:
+
+It had become a glimmering girl
+
+With apple blossom in her hair
+
+Who called me by my name and ran
+
+And faded through the brightening air.
+
+
+
+Though I am old with wandering
+
+Through hollow lands and hilly lands,
+
+I will find out where she has gone,
+
+And kiss her lips and take her hands;
+
+
+
+
+
+And walk among long dappled grass,
+
+And pluck till time and times are done
+
+The silver apples of the moon,
+
+The golden apples of the sun.
+
+
+
+
+
+安格斯漫游歌[1]
+
+
+
+走出门到榛树林，
+
+胸中憋着一窝火，
+
+割削一根榛树棍，
+
+悬上一线挂个果；
+
+此时白蛾正四飞，
+
+蛾般星群正闪耀，
+
+我把果子掷下溪，
+
+银色鳟鱼捉一条。
+
+
+
+
+
+我把鳟鱼放地上，
+
+吹得炉火旺又高，
+
+什么东西地上响，
+
+有人把我姓名叫；
+
+光彩闪闪姑娘显，
+
+一头秀发苹果颜，
+
+边呼我名边奔前，
+
+一片光亮不再见。
+
+
+
+
+
+穿过低谷和高山，
+
+垂垂老矣四方游，
+
+我要找到这姑娘，
+
+吻她唇来握她手。
+
+
+
+
+
+长草驳杂我走过，
+
+采摘月亮银苹果，
+
+采摘太阳金苹果，
+
+采到时间成虚无。
+
+
+
+
+
+[1]  叶芝认为安格斯是“青春、美和诗歌之神”。
+
+
+
+
+
+He Tells of the Perfect Beauty
+
+
+O cloud-pale eyelids, dream-dimmed eyes,
+
+The poets labouring all their days
+
+To build a perfect beauty in rhyme
+
+Are overthrown by a woman's gaze
+
+
+
+
+
+And by the unlabouring brood of the skies:
+
+And therefore my heart will bow, when dew
+
+Is dropping sleep, until God burn time,
+
+Before the unlabouring stars and you.
+
+
+
+
+
+他诉说十全的美
+
+呵，白皙的眼睑，迷惘的眼，
+
+为了用韵文塑出十全的美，
+
+诗人们终生辛劳不停，
+
+却被一个女人的注视而毁，
+
+
+
+
+
+也被天空逍遥的部族所毁；
+
+因此当露水撒下睡意，我的心
+
+愿向你和自在的星星致敬，
+
+直到上帝把时间烧尽。
+
+
+
+
+
+The Fiddler of Dooney
+
+
+When I play on my fiddle in Dooney,
+
+Folk dance like a wave of the sea;
+
+My cousin is priest in Kilvarnet,
+
+
+
+
+
+My brother in Mocharabuiee.[1]
+
+
+
+
+
+I passed my brother and cousin:
+
+They read in their books of prayer;
+
+I read in my book of songs
+
+I bought at the Sligo fair.
+
+
+
+
+
+When we come at the end of time
+
+To Peter sitting in state,
+
+He will smile on the three old spirits,
+
+But call me first through the gate;
+
+
+
+
+
+For the good are always the merry,
+
+Save by an evil chance,
+
+And the merry love the fiddle,
+
+And the merry love to dance:
+
+
+
+
+
+And when the folk there spy me,
+
+They will all come up to me,
+
+With 'Here is the fiddler of Dooney!'
+
+
+
+And dance like a wave of the sea.
+
+
+
+
+
+[1]  Pronounced as if spelt ‘mockrabwee’.
+
+
+
+
+
+杜纳的琴手
+
+我在杜纳奏起琴，
+
+乡亲舞蹈如浪滚，
+
+表兄在乡当牧师，
+
+兄弟布道毛克镇；
+
+
+
+
+
+兄弟表亲身边过，
+
+他们埋头读《圣经》，
+
+我诵我的歌谣本，
+
+斯拉市上新商品。
+
+
+
+
+
+一生终于到尽头，
+
+
+
+
+
+彼得肃坐天门口，[1]
+
+
+
+面对三老露微笑，
+
+彼得叫我领先走。
+
+
+
+
+
+好人永远得欢乐，
+
+除非恶运临了门，
+
+欢乐热爱舞蹈人，
+
+欢乐热爱小提琴；
+
+
+
+
+
+那里人们一见我，
+
+全都来到我面前，
+
+“这是杜纳好琴手！”
+
+
+
+跳起舞来浪飞旋。
+
+
+
+
+
+[1]  据《圣经》记载，彼得系天使长，守在天堂大门口。
+
+
+
+
+
+The arrow
+
+
+I thought of your beauty, and this arrow,
+
+Made out of a wild thought, is in my marrow.
+
+There's no man may look upon her, no man,
+
+As when newly grown to be a woman,
+
+Tall and noble but with face and bosom
+
+Delicate in colour as apple blossom.
+
+This beauty's kinder, yet for a reason
+
+I could weep that the old is out of season.
+
+
+
+
+
+箭
+
+我想到你的美，而这支箭
+
+由狂想构成，落在我骨髓间。
+
+没哪个男人敢看她，没有人，
+
+当她刚成长为一个女人
+
+颀长而崇高，脸和胸膛
+
+色泽柔和如苹果花一样。
+
+这种美更善良，但我有道理
+
+哀哭那昔日之美的谢去。
+
+
+
+
+
+Adam's Curse
+
+
+We sat together at one summer's end,
+
+That beautiful mild woman, your close friend,
+
+And you and I, and talked of poetry.
+
+I said, 'A line will take us hours maybe;
+
+Yet if it does not seem a moment's thought,
+
+Our stitching and unstitching has been naught.
+
+Better go down upon your marrow-bones
+
+And scrub a kitchen pavement, or break stones
+
+Like an old pauper, in all kinds of weather;
+
+For to articulate sweet sounds together
+
+Is to work harder than all these, and yet
+
+Be thought an idler by the noisy set
+
+Of bankers, schoolmasters, and clergymen
+
+The martyrs call the world.'
+
+
+
+
+
+           And thereupon
+
+That beautiful mild woman for whose sake
+
+There's many a one shall find out all heartache
+
+On finding that her voice is sweet and low
+
+Replied, 'To be born woman is to know—
+
+Although they do not talk of it at school—
+
+That we must labour to be beautiful.'
+
+
+
+
+
+I said, 'It's certain there is no fine thing
+
+Since Adam's fall but needs much labouring.
+
+
+
+There have been lovers who thought love should be
+
+So much compounded of high courtesy
+
+That they would sigh and quote with learned looks
+
+Precedents out of beautiful old books;
+
+Yet now it seems an idle trade enough.'
+
+
+
+
+
+We sat grown quiet at the name of love;
+
+We saw the last embers of daylight die,
+
+And in the trembling blue-green of the sky
+
+A moon, worn as if it had been a shell
+
+Washed by time's waters as they rose and fell
+
+About the stars and broke in days and years.
+
+
+
+
+
+I had a thought for no one's but your ears:
+
+That you were beautiful, and that I strove
+
+To love you in the old high way of love;
+
+That it had all seemed happy, and yet we'd grown
+
+As weary-hearted as that hollow moon.
+
+
+
+
+
+亚当的恶运[1]
+
+
+
+我们坐一道，夏日将尽，
+
+你的好朋友，美丽温柔的女人，
+
+还有你和我，一起议论诗。
+
+我说：“一行诗常常得花几小时，
+
+要是它读来不像神来之笔，
+
+再修修补补也总是无益。
+
+倒不如弯腰屈躬，
+
+擦厨房地板，当采石工，
+
+像个老叫化，不管春夏秋冬；
+
+因为把美丽的声音吟成调，
+
+要比那一切更辛劳，
+
+而校长，银行家，牧师那闹嚷嚷的一帮
+
+志士们所谓世俗界却嫌咱闲得慌。”
+
+
+
+
+
+那女子轻声说，声音娇嫩又温存，
+
+为了她许多人害上相思病，
+
+那声音多娇嫩，柔和而低沉，
+
+“有一桩，女人们个个记在心——
+
+虽说学校里从没教我们——
+
+要当美人儿可得费大劲。”
+
+
+
+
+
+我说道，“没问题，只要是好事情，
+
+
+
+亚当堕落后，没有不费劲。
+
+有些情人们以为爱情
+
+总该大显优雅的风韵，
+
+带着学者的神色，一面叹息，
+
+一面引证美丽的古书上的先例，
+
+如今看来，这真是无聊的玩意。”
+
+
+
+
+
+一提到爱字，我们就不再说话，
+
+眼看着夕阳发出最后的火花，
+
+颤栗的天空蓝得发绿，
+
+像时光之流冲洗的贝壳，一轮残月；
+
+这流水在星球间升起又降落，
+
+最后破碎成岁岁月月。
+
+
+
+
+
+我有个想法，只说给你一人听，
+
+你是美丽的，我竭力尽心，
+
+用古老的高尚方式来爱你；
+
+仿佛是皆大欢喜，但我和你
+
+却像那轮残月深感倦意。
+
+
+
+
+
+[1]  据《圣经·旧约·创世记》记载，亚当被逐出伊甸园后，上帝罚他一生辛苦工作。诗中提到的两个女人，一指毛特·冈，另一指其姊凯瑟琳。
+
+
+
+
+
+O do not Love Too Long
+
+
+Sweetheart, do not love too long:
+
+I loved long and long,
+
+And grew to be out of fashion
+
+Like an old song.
+
+
+
+All through the years of our youth
+
+Neither could have known
+
+Their own thought from the other's,
+
+We were so much at one.
+
+
+
+But O, in a minute she changed—
+
+O do not love too long,
+
+Or you will grow out of fashion
+
+Like an old song.
+
+
+
+
+
+噢，别爱太久
+
+亲爱的，可别爱太久；
+
+我爱得又长又久，
+
+就像一支老歌曲
+
+人们不再记心头。
+
+
+
+
+
+我们青春时代
+
+谁也不能分辨
+
+你的或我的思想，
+
+我们是一致无间。
+
+
+
+
+
+不过噢，一瞬间她就变——
+
+噢，可别爱太久，
+
+你会像一支老歌曲
+
+人们不再记心头。
+
+
+
+
+
+A Woman Homer Sung
+
+
+If any man drew near
+
+When I was young,
+
+I thought, 'He holds her dear,'
+
+And shook with hate and fear.
+
+But O! 'twas bitter wrong
+
+If he could pass her by
+
+With an indifferent eye.
+
+
+
+
+
+Whereon I wrote and wrought,
+
+And now, being grey,
+
+I dream that I have brought
+
+To such a pitch my thought
+
+That coming time can say,
+
+'He shadowed in a glass
+
+What thing her body was.'
+
+
+
+
+
+For she had fiery blood
+
+When I was young,
+
+And trod so sweetly proud
+
+As 'twere upon a cloud,
+
+A woman Homer sung,
+
+That life and letters seem
+
+But an heroic dream.
+
+
+
+
+
+一个荷马讴歌的女人
+
+当我还年轻，
+
+有哪个男人走近来，
+
+我想“他对她有情”
+
+就浑身是恐惧仇恨。
+
+但是噢，如他走过，
+
+眼神满不在乎，
+
+那是最大的过错。
+
+
+
+
+
+为此我写了又编，
+
+如今，头发灰白，
+
+我梦想，我已把思想
+
+提到这个高度，
+
+未来时代会讲：
+
+“他把她的身姿
+
+投影于一面镜子。”
+
+
+
+
+
+当我年轻时
+
+她热血沸腾，
+
+走路又美又傲，
+
+就如在云端飞升，
+
+对一个荷马讴歌的女人
+
+生命和文学不过是
+
+一场英雄的梦。
+
+
+
+
+
+No Second Troy
+
+
+Why should I blame her that she filled my days
+
+With misery, or that she would of late
+
+Have taught to ignorant men most violent ways,
+
+Or hurled the little streets upon the great,
+
+Had they but courage equal to desire?
+
+What could have made her peaceful with a mind
+
+That nobleness made simple as a fire,
+
+With beauty like a tightened bow, a kind
+
+That is not natural in an age like this,
+
+Being high and solitary and most stern?
+
+Why, what could she have done, being what she is?
+
+Was there another Troy for her to burn?
+
+
+
+
+
+没有第二个特洛伊[1]
+
+
+
+我为什么要怪她使我的生命
+
+充满苦恼，怨她这一阵
+
+教唆蠢人们搞最大的暴行，
+
+
+
+
+
+让区区小民来反对伟人，[2]
+
+
+
+如他们的勇气和欲望相当；
+
+她怎么会安分，有了那心肠，崇高
+
+使她单纯得像火一样，
+
+又像拉紧了的弓那样美貌，
+
+这个时代罕见的景象；
+
+孤独，庄严，高贵，
+
+哦，她能干啥，生就这个样，
+
+还有第二个特洛伊等她去焚毁？
+
+
+
+
+
+[1]  据希腊神话记载，特洛伊王子帕里斯诱使斯巴达王后海伦私奔，引起十年战争，最终希腊人焚毁特洛伊城。
+
+
+
+
+
+[2]  毛特·冈鼓动爱尔兰人民起来争取民族独立。
+
+
+
+
+
+All Things can Tempt Me
+
+
+All things can tempt me from this craft of verse:
+
+One time it was a woman's face, or worse —
+
+The seeming needs of my fool-driven land;
+
+Now nothing but comes readier to the hand
+
+Than this accustomed toil. When I was young,
+
+I had not given a penny for a song
+
+Did not the poet sing it with such airs
+
+That one believed he had a sword upstairs;
+
+Yet would be now, could I but have my wish,
+
+Colder and dumber and deafer than a fish.
+
+
+
+
+
+什么都可诱使我
+
+什么都可诱使我不再写诗，
+
+一度是一个女子的脸庞，更糟的是，
+
+这蠢人领导之国的表面需求；
+
+如今什么都不如这工作来得顺手，
+
+它已习以为常。我年轻时
+
+不曾付一分钱为一支歌子，
+
+诗人吟起诗来总神气十足，
+
+叫人相信他有雄剑在楼屋；
+
+到如今，我如得遂所愿的话，
+
+我想比一条鱼更冷更聋更哑。
+
+
+
+
+
+Brown Penny
+
+
+I whispered, 'I am too young,'
+
+And then, 'I am old enough';
+
+Wherefore I threw a penny
+
+To find out if I might love.
+
+'Go and love, go and love, young man,
+
+If the lady be young and fair.'
+
+Ah, penny, brown penny, brown penny,
+
+I am looped in the loops of her hair.
+
+
+
+
+
+O love is the crooked thing,
+
+There is nobody wise enough
+
+To find out all that is in it,
+
+For he would be thinking of love
+
+Till the stars had run away
+
+And the shadows eaten the moon.
+
+Ah, penny, brown penny, brown penny,
+
+One cannot begin it too soon.
+
+
+
+
+
+铜便士
+
+我悄悄说：“我还太年轻，”
+
+接着又说，“我也不小了。”
+
+我投出一个便士，
+
+看看我可否谈爱了。
+
+“去爱吧、去爱吧，年轻人，
+
+如那姑娘又年轻又美丽。”
+
+啊，便士，铜便士，铜便士，
+
+我卷进了她卷发的圈里。
+
+
+
+
+
+噢，爱情是狡猾的东西，
+
+没有人有足够的聪明
+
+去发现它全部的涵义，
+
+因他会思念着爱情，
+
+直到天上不见星星，
+
+阴影把月亮吞掉。
+
+啊，便士，铜便士，铜便士，
+
+一个人不会爱得太早。
+
+
+
+
+
+September 1913
+
+
+What need you, being come to sense,
+
+But fumble in a greasy till
+
+And add the halfpence to the pence
+
+And prayer to shivering prayer, until
+
+You have dried the marrow from the bone?
+
+For men were born to pray and save:
+
+Romantic Ireland's dead and gone,
+
+It's with O'Leary in the grave.
+
+
+
+
+
+Yet they were of a different kind,
+
+The names that stilled your childish play,
+
+They have gone about the world like wind,
+
+But little time had they to pray
+
+For whom the hangman's rope was spun,
+
+And what, God help us, could they save?
+
+Romantic Ireland's dead and gone,
+
+It's with O'Leary in the grave.
+
+
+
+
+
+Was it for this the wild geese spread
+
+The grey wing upon every tide;
+
+For this that all that blood was shed,
+
+For this Edward Fitzgerald died,
+
+And Robert Emmet and Wolfe Tone,
+
+All that delirium of the brave?
+
+Romantic Ireland's dead and gone,
+
+
+
+It's with O'Leary in the grave.
+
+
+
+
+
+Yet could we turn the years again,
+
+And call those exiles as they were
+
+In all their loneliness and pain,
+
+You'd cry, 'Some woman's yellow hair
+
+Has maddened every mother's son':
+
+They weighed so lightly what they gave.
+
+But let them be, they're dead and gone,
+
+They're with O'Leary in the grave.
+
+
+
+
+
+1913年9月[1]
+
+
+
+一明白过来，你们就只要
+
+在油腻的钱柜里摸去摸来，
+
+把五角加一元，颤声地祷告
+
+又祷告，直到吸尽骨髓，
+
+不用干别的，人生来
+
+就为祷告和攒钱；
+
+罗曼蒂克的爱尔兰已死灭完蛋，
+
+
+
+
+
+和奥利瑞躺在墓里面。[2]
+
+
+
+
+
+但他们是不同的一类，
+
+那些名字使你们的儿戏告终。
+
+他们像一阵风吹过世界，
+
+很少时间去做祷告，
+
+刽子手的吊索为他们架起，
+
+老天啊，他们又有什么钱好攒？
+
+罗曼蒂克的爱尔兰已死灭完蛋，
+
+和奥利瑞躺在墓里面。
+
+
+
+
+
+是为这个，野鹅们一逢涨潮[3]
+
+
+
+
+
+便展开灰翅飞过海洋？
+
+是为这个，让那么多血流掉，
+
+
+
+
+
+为这个，费兹格拉尔德把命丧，[4]
+
+
+
+
+
+还有艾麦特和土恒[5]
+
+
+
+以及所有大勇者的疯狂？
+
+罗曼蒂克爱尔兰已死灭完蛋，
+
+和奥利瑞躺在墓里面。
+
+
+
+
+
+我们也可把岁月倒拨，
+
+称他们亡命者，当他们
+
+受尽苦难和寂寞，
+
+你会喊，“有些女人的黄发
+
+曾使人之子个个迷惑”，
+
+他们把代价看得很轻。
+
+让他们去吧，他们已死灭完蛋，
+
+和奥利瑞躺在墓里面。
+
+
+
+
+
+[1]  原题《爱尔兰罗曼斯，读反对艺术画廊的众多报导有感》。当时，休·莱恒爵士曾拟将珍藏的法兰西印象派绘画赠送都柏林市，只要该市能建立一个合格的画廊，但遭到许多人反对。叶芝赋诗以讽刺这些庸人。
+
+
+
+
+
+[2]  约翰·奥利瑞（1830—1907）：爱尔兰民族主义英雄，在监禁5年、流亡15年后，于1885年回到都柏林。叶芝深受其影响，积极从事文艺复兴活动。
+
+
+
+
+
+[3]  野鹅们：指那些因反天主教法案的颁布被迫离开爱尔兰逃往欧洲的人。
+
+
+
+
+
+[4]  爱德华·费兹格拉尔德（1763—1798）：爱尔兰爱国志士，因图谋起义在拒捕时受伤而死。
+
+
+
+
+
+[5]  罗伯特·艾麦特（1778—1803）：1802年发动起义，后被处决；华尔夫·土恒（1763—1798）：曾带领法国武装支援爱尔兰起义，被俘后死于狱中。
+
+
+
+
+
+Beggar to Beggar Cried
+
+
+'Time to put off the world and go somewhere
+
+And find my health again in the sea air,'
+
+Beggar to beggar cried, being frenzy-struck,
+
+'And make my soul before my pate is bare.'
+
+
+
+
+
+'And get a comfortable wife and house
+
+To rid me of the devil in my shoes,'
+
+Beggar to beggar cried, being frenzy-struck,
+
+'And the worse devil that is between my thighs.'
+
+
+
+
+
+'And though I'd marry with a comely lass,
+
+She need not be too comely—let it pass,'
+
+Beggar to beggar cried, being frenzy-struck,
+
+'But there's a devil in a looking-glass.'
+
+
+
+
+
+'Nor should she be too rich, because the rich
+
+Are driven by wealth as beggars by the itch,'
+
+Beggar to beggar cried, being frenzy-struck,
+
+'And cannot have a humorous happy speech.'
+
+
+
+
+
+'And there I'll grow respected at my ease,
+
+And hear amid the garden's nightly peace.'
+
+Beggar to beggar cried, being frenzy-struck,
+
+'The wind-blown clamour of the barnacle-geese.'
+
+
+
+
+
+乞儿向丐儿呼叫
+
+“是丢下世界，另走他方的时光，
+
+到海边空气中找我的健康；”
+
+乞儿向丐儿呼叫，他们发了狂，
+
+“铸造我的灵魂，趁头颅未光。”
+
+
+
+
+
+“娶一个好妻，筑一所好房，
+
+
+
+
+
+不再让鞋中鬼把我缠上；”[1]
+
+
+
+乞儿向丐儿呼叫，他们发了狂，
+
+
+
+“还有那更大的恶鬼，居双腿中央。”
+
+
+
+
+
+“虽说我愿意娶一个美丽的女人，
+
+她不必太美——过得去就行；”
+
+乞儿向丐儿呼叫，他们发了狂，
+
+“美容镜中准会有妖魔附身。”
+
+
+
+
+
+“她也不要太富，因为富有者
+
+被钱财摆布，如虱子捉弄乞丐；”
+
+乞儿向丐儿呼叫，他们发了狂，
+
+“诙言谐语出不了富人的嘴。”
+
+
+
+
+
+“这样我舒适自在，受人尊敬，
+
+宁静的夜里在花园倾听，”
+
+乞儿向丐儿呼叫，他们发了狂，
+
+
+
+“风吹来北极鹅一阵阵叫唤的声音。”
+
+
+
+
+
+[1]  指不再有出门流浪的欲望。
+
+
+
+
+
+Fallen Majesty
+
+
+Although crowds gathered once if she but
+
+  showed her face,
+
+And even old men's eyes grew dim, this hand
+
+  alone,
+
+Like some last courtier at a gypsy camping-place
+
+Babbling of fallen majesty, records what's gone.
+
+
+
+
+
+The lineaments, a heart that laughter has made
+
+  sweet,
+
+These, these remain, but I record what's gone.
+
+  A crowd
+
+Will gather, and not know it walks the very street
+
+Whereon a thing once walked that seemed a
+
+  burning cloud.
+
+
+
+
+
+沦落的女王
+
+过去只要她显示她的脸庞，
+
+人们就云集，甚至老人们眼睛迷惘，
+
+只有这双手，像吉普赛营地最后的朝臣，
+
+记录下以往的事情，叨念着沦落的女王。
+
+
+
+
+
+那脸容，那欢笑使之甜蜜的心，
+
+这些，这些还在，但我记录下以往的事情。
+
+人们会云集，不知他们走的就是那条街，
+
+那里曾有人走过，像一片燃烧的赤云。
+
+
+
+
+
+The Wild Swans at Coole
+
+
+The trees are in their autumn beauty,
+
+The woodland paths are dry,
+
+Under the October twilight the water
+
+Mirrors a still sky;
+
+Upon the brimming water among the stones
+
+Are nine-and-fifty swans.
+
+
+
+
+
+The nineteenth autumn has come upon me
+
+Since I first made my count;
+
+I saw, before I had well finished,
+
+All suddenly mount
+
+And scatter wheeling in great broken rings
+
+Upon their clamorous wings.
+
+
+
+
+
+I have looked upon those brilliant creatures,
+
+And now my heart is sore.
+
+All's changed since I, hearing at twilight,
+
+The first time on this shore,
+
+The bell-beat of their wings above my head,
+
+Trod with a lighter tread.
+
+
+
+
+
+Unwearied still, lover by lover,
+
+They paddle in the cold
+
+Companionable streams or climb the air;
+
+Their hearts have not grown old;
+
+Passion or conquest, wander where they will,
+
+Attend upon them still.
+
+
+
+
+
+But now they drift on the still water,
+
+Mysterious, beautiful;
+
+Among what rushes will they build,
+
+By what lake's edge or pool
+
+Delight men's eyes when I awake some day
+
+To find they have flown away?
+
+
+
+
+
+柯尔庄园的野天鹅[1]
+
+
+
+树林里一片秋天的美景，
+
+林中的小径很干燥，
+
+十月的黄昏笼罩的流水
+
+把寂静的天空映照：
+
+盈盈的流水间隔着石头，
+
+五十九只天鹅浮游。
+
+
+
+
+
+自从我最初为它们计数，
+
+这是第十九个秋天，
+
+我发现，计数还不曾结束，
+
+猛一下飞上了天边，
+
+大声地拍打着翅膀盘旋，
+
+勾划出大而碎的圆圈。
+
+
+
+
+
+我见过这群光辉的天鹅，
+
+如今却叫我真心疼，
+
+全变了，自从第一次在池边，
+
+也是个黄昏的时分，
+
+我听见头上翅膀拍打声，
+
+我那时脚步还轻盈。
+
+
+
+
+
+还没有厌倦，一对对情侣，
+
+
+
+友好的冷水中行进，
+
+或者向天空奋力地飞升，
+
+它们的心灵还年轻，
+
+也不管它们上哪儿浮行，
+
+总有着激情和雄心。
+
+
+
+
+
+它们在静寂的水上浮游，
+
+何等的神秘和美丽！
+
+有一天醒来，它们已飞去，
+
+在哪个芦苇丛筑居？
+
+哪一个池边，哪一个湖滨，
+
+取悦于人们的眼睛？
+
+
+
+
+
+[1]  柯尔庄园位于爱尔兰西部，是叶芝的好友、剧作家奥古斯塔·格雷戈里夫人的产业，叶芝于1897年初访该地，距写作本诗的1916年恰好19年。在此期间，爱尔兰自治运动高涨，柯尔庄园即将收归国有。
+
+
+
+
+
+A Song
+
+
+I thought no more was needed
+
+Youth to prolong
+
+Than dumb-bell and foil
+
+To keep the body young.
+
+O who could have foretold
+
+That the heart grows old?
+
+
+
+
+
+Though I have many words,
+
+What woman's satisfied,
+
+I am no longer faint
+
+Because at her side?
+
+O who could have foretold
+
+That the heart grows old?
+
+
+
+
+
+I have not lost desire
+
+But the heart that I had;
+
+I thought 'twould burn my body
+
+Laid on the death-bed,
+
+For who could have foretold
+
+That the heart grows old?
+
+
+
+
+
+歌
+
+我想再不用别的
+
+来延长青春，
+
+除了哑铃和钝剑
+
+使身体健壮。
+
+噢，哪个能预告
+
+我那颗心已变老？
+
+
+
+
+
+我虽有千言万语
+
+使女人满心欢喜，
+
+我躺在她身边
+
+却不再目昏神迷，
+
+噢，哪个能预告
+
+我那颗心已变老？
+
+
+
+
+
+我并未丧失欲望，
+
+但我失去了我的心，
+
+我以为陈尸床上，
+
+它会炙燃我身。
+
+噢，哪个能预告
+
+我那颗心已变老？
+
+
+
+
+
+The Scholars
+
+
+Bald heads forgetful of their sins,
+
+Old, learned, respectable bald heads
+
+Edit and annotate the lines
+
+That young men, tossing on their beds,
+
+Rhymed out in love's despair
+
+To flatter beauty's ignorant ear.
+
+
+
+
+
+All shuffle there; all cough in ink;
+
+All wear the carpet with their shoes;
+
+All think what other people think;
+
+All know the man their neighbour knows.
+
+Lord, what would they say
+
+Did their Catullus walk that way?
+
+
+
+
+
+学 者
+
+秃脑瓜忘却了自己的罪孽，
+
+博学可敬的老脑瓜秃又光，
+
+编辑呀，注释呀那些诗集，
+
+青年人夜不寐，爱恋中绝望，
+
+写下来，把诗句吟吟唱唱，
+
+去奉承美人无知的耳囊。
+
+
+
+
+
+全都蹒跚走，冲墨水咳嗽，
+
+全都用鞋子把地毯磨损，
+
+全想着别人转过的念头，
+
+全认得邻居认识的人。
+
+老天爷，他们有什么好讲，
+
+
+
+
+
+难道伽图走路也这个样？[1]
+
+
+
+
+
+[1]  伽图：公元前1世纪罗马爱国志士。
+
+
+
+
+
+On Woman
+
+
+May God be praised for woman
+
+That gives up all her mind,
+
+A man may find in no man
+
+A friendship of her kind
+
+That covers all he has brought
+
+As with her flesh and bone,
+
+Nor quarrels with a thought
+
+Because it is not her own.
+
+
+
+
+
+Though pedantry denies,
+
+It's plain the Bible means
+
+That Solomon grew wise
+
+While talking with his queens,
+
+Yet never could, although
+
+They say he counted grass,
+
+Count all the praises due
+
+When Sheba was his lass,
+
+When she the iron wrought, or
+
+When from the smithy fire
+
+It shuddered in the water:
+
+Harshness of their desire
+
+That made them stretch and yawn,
+
+Pleasure that comes with sleep,
+
+Shudder that made them one.
+
+What else He give or keep
+
+
+
+God grant me—no, not here,
+
+For I am not so bold
+
+To hope a thing so dear
+
+Now I am growing old,
+
+But when, if the tale's true,
+
+The Pestle of the moon
+
+That pounds up all anew
+
+Brings me to birth again—
+
+To find what once I had
+
+And know what once I have known,
+
+Until I am driven mad,
+
+Sleep driven from my bed,
+
+By tenderness and care,
+
+Pity, an aching head,
+
+Gnashing of teeth, despair;
+
+And all because of some one
+
+Perverse creature of chance,
+
+And live like Solomon
+
+That Sheba led a dance.
+
+
+
+
+
+论女人
+
+愿大家赞美上帝
+
+为那放弃了自己头脑的女人，
+
+一个男人不能在别的男人中
+
+找到她那样的友情，
+
+它包含他带来的一切
+
+和她的骨头和肉体，
+
+她不会同你争吵，
+
+因为那个想法不属于她自己。
+
+
+
+
+
+虽然学究们否认，
+
+明明白白，《圣经》表明，
+
+所罗门与女后们谈话，
+
+他就变得聪明。
+
+虽说他数过杂草，
+
+他不可能认为给了足够的赞美，
+
+当示巴是他的心爱。
+
+当她把铁冶炼，
+
+或从炉火中取出，
+
+让它在冷水中发颤；
+
+他们欲望的强烈
+
+使他们伸腰打呵欠，
+
+快乐随睡眠而来，
+
+两个人一块儿发颤。
+
+什么别的他给了或留下，
+
+上帝别让我——不，不在这里讲，
+
+
+
+因为我已经衰老，
+
+我没有那么大胆量
+
+去希望那么亲密的事情，
+
+不过，要是传说是真，
+
+那月亮的碾槌
+
+能把一切捣碎成新，
+
+会使我重获新生——
+
+去发现我曾有过的东西，
+
+知道我曾经知道的东西，
+
+直到不能在床上安睡，
+
+温情的关怀，
+
+怜悯，疼痛的脑袋，
+
+咬牙切齿和绝望
+
+逼得我疯狂。
+
+这一切全是为了某个
+
+偶逢的刚愎的人，
+
+我活着像示巴领舞的
+
+那个所罗门。
+
+
+
+
+
+The Fisherman
+
+
+Although I can see him still,
+
+The freckled man who goes
+
+To a grey place on a hill
+
+In grey Connemara clothes
+
+At dawn to cast his flies,
+
+It's long since I began
+
+To call up to the eyes
+
+This wise and simple man.
+
+All day I'd looked in the face
+
+What I had hoped 'twould be
+
+To write for my own race
+
+And the reality;
+
+The living men that I hate,
+
+The dead man that I loved,
+
+The craven man in his seat,
+
+The insolent unreproved,
+
+And no knave brought to book
+
+Who has won a drunken cheer,
+
+The witty man and his joke
+
+Aimed at the commonest ear,
+
+The clever man who cries
+
+The catch-cries of the clown,
+
+The beating down of the wise
+
+And great Art beaten down.
+
+
+
+
+
+Maybe a twelvemonth since
+
+Suddenly I began,
+
+In scorn of this audience,
+
+Imagining a man,
+
+And his sun-freckled face,
+
+And grey Connemara cloth,
+
+Climbing up to a place
+
+Where stone is dark under froth,
+
+And the down-turn of his wrist
+
+When the flies drop in the stream;
+
+A man who does not exist,
+
+A man who is but a dream;
+
+And cried, 'Before I am old
+
+I shall have written him one
+
+Poem maybe as cold
+
+And passionate as the dawn.'
+
+
+
+
+
+渔 翁
+
+虽然他我还看得见
+
+
+
+
+
+穿着灰康尼马拉装，[1]
+
+
+
+长着雀斑的脸，
+
+到山上昏暗的地方，
+
+一清早把钓饵垂下去；
+
+已过去很久的时光，
+
+自从我第一次回想起
+
+这纯朴的智者的脸庞。
+
+整天我望着他的脸，
+
+希望能找到我想要
+
+为我种族和现实表现
+
+写下的人情风貌：
+
+我所仇视的活人，
+
+我所爱慕的死者，
+
+那未遭谴责的恶棍，
+
+那在位的胆小鬼；
+
+那逍遥法外的白痴，
+
+他赢得了醉人的叫好，
+
+那花言巧语的才子，
+
+他那媚俗的笑料；
+
+那狡黠者喊出了
+
+丑角煽动的口号，
+
+
+
+要把智者打倒，
+
+把伟大的艺术取消。
+
+
+
+
+
+也许十二个月后，
+
+无视读者的心情，
+
+我又突然开头
+
+幻想起这么个人，
+
+他穿一身灰康尼马拉装，
+
+太阳晒得他一脸黑斑，
+
+到岩石受潮变黑的地方，
+
+他一步一步登攀，
+
+把钓饵向水中一沉，
+
+他手腕往下一翻；
+
+并不存在这个人
+
+不过是一场梦幻。
+
+我喊道：“我老去以前
+
+要为他写一首诗，
+
+热情和冰冷相间，
+
+恰好和黎明相似。”
+
+
+
+
+
+[1]  康尼马拉：爱尔兰风景区。幻想中，穿康尼马拉装的渔翁以其简朴单纯的智者形象成为叶芝崇拜的对象。在别的诗里，叶芝曾把垂钓和写诗看作同样需要耐心和功力的事。
+
+
+
+
+
+Her Praise
+
+
+She is foremost of those that I would hear praised.
+
+I have gone about the house, gone up and down
+
+As a man does who has published a new book,
+
+Or a young girl dressed out in her new gown,
+
+And though I have turned the talk by hook or crook
+
+Until her praise should be the uppermost theme,
+
+A woman spoke of some new tale she had read,
+
+A man confusedly in a half dream
+
+As though some other name ran in his head.
+
+She is foremost of those that I would hear praised.
+
+
+
+
+
+I will talk no more of books or the long war
+
+But walk by the dry thorn until I have found
+
+Some beggar sheltering from the wind, and there
+
+Manage the talk until her name come round.
+
+If there be rags enough he will know her name
+
+And be well pleased remembering it, for in the old days,
+
+Though she had young men's praise and old men's blame,
+
+Among the poor both old and young gave her praise.
+
+
+
+
+
+对她的赞美
+
+我想听到受赞美的，她是第一人。
+
+我在房子里走来走去，下下上上，
+
+像一个刚发表了一本新书的人，
+
+或者年轻姑娘穿上了新装；
+
+虽然我把谈话引来转去，
+
+直到赞美她成为最高主题，
+
+一个女人讲她读到的新故事，
+
+一个男人半梦半醒，神志迷离，
+
+似乎他脑中另有别个名字。
+
+我想听到受赞美的，她是第一人。
+
+
+
+
+
+我不想再谈论书本或长期战争，
+
+而在干燥的荆木旁行进，
+
+直到我发现一个丐儿在避风，
+
+谈话间出现了她的大名，
+
+他知道她的大名，虽然一身破烂，
+
+而且高兴地重提起她；在旧时代，
+
+她得到青年的赞扬，老人的责难，
+
+穷苦人不论老少却都为她赞美。
+
+
+
+
+
+A Deep-sworn Vow
+
+
+Others because you did not keep
+
+That deep-sworn vow have been friends of mine;
+
+Yet always when I look death in the face,
+
+When I clamber to the heights of sleep,
+
+Or when I grow excited with wine,
+
+Suddenly I meet your face.
+
+
+
+
+
+重 誓
+
+因为你没把重誓守住，
+
+别的人成了我的朋友；
+
+但是每一次我面对死亡，
+
+或者攀登梦乡高处，
+
+或心情振奋，喝了点酒，
+
+突然间我总看见你脸庞。
+
+
+
+
+
+Easter 1916
+
+
+I have met them at close of day
+
+Coming with vivid faces
+
+From counter or desk among grey
+
+Eighteenth-century houses.
+
+I have passed with a nod of the head
+
+Or polite meaningless words,
+
+Or have lingered awhile and said
+
+Polite meaningless words,
+
+And thought before I had done
+
+Of a mocking tale or a gibe
+
+To please a companion
+
+Around the fire at the club,
+
+Being certain that they and I
+
+But lived where motley is worn:
+
+All changed, changed utterly:
+
+A terrible beauty is born.
+
+
+
+
+
+That woman's days were spent
+
+In ignorant good-will,
+
+Her nights in argument
+
+Until her voice grew shrill.
+
+What voice more sweet than hers
+
+When, young and beautiful,
+
+She rode to harriers?
+
+This man had kept a school
+
+
+
+And rode our wingèd horse;
+
+This other his helper and friend
+
+Was coming into his force;
+
+He might have won fame in the end,
+
+So sensitive his nature seemed,
+
+So daring and sweet his thought.
+
+This other man I had dreamed
+
+A drunken, vainglorious lout.
+
+He had done most bitter wrong
+
+To some who are near my heart,
+
+Yet I number him in the song;
+
+He, too, has resigned his part
+
+In the casual comedy;
+
+He, too, has been changed in his turn,
+
+Transformed utterly:
+
+A terrible beauty is born.
+
+
+
+
+
+Hearts with one purpose alone
+
+Through summer and winter seem
+
+Enchanted to a stone
+
+To trouble the living stream.
+
+The horse that comes from the road,
+
+The rider, the birds that range
+
+From cloud to tumbling cloud,
+
+Minute by minute they change;
+
+A shadow of cloud on the stream
+
+Changes minute by minute;
+
+A horse-hoof slides on the brim,
+
+And a horse plashes within it;
+
+
+
+The long-legged moor-hens dive,
+
+And hens to moor-cocks call;
+
+Minute by minute they live:
+
+The stone's in the midst of all.
+
+
+
+
+
+Too long a sacrifice
+
+Can make a stone of the heart.
+
+O when may it suffice?
+
+That is Heaven's part, our part
+
+To murmur name upon name,
+
+As a mother names her child
+
+When sleep at last has come
+
+On limbs that had run wild.
+
+What is it but nightfall?
+
+No, no, not night but death;
+
+Was it needless death after all?
+
+
+
+
+
+For England may keep faith
+
+For all that is done and said.
+
+We know their dream; enough
+
+To know they dreamed and are dead;
+
+And what if excess of love
+
+Bewildered them till they died?
+
+I write it out in a verse—
+
+MacDonagh and MacBride
+
+And Connolly and Pearse
+
+Now and in time to be,
+
+Wherever green is worn,
+
+Are changed, changed utterly:
+
+
+
+A terrible beauty is born.
+
+
+
+
+
+September 25, 1916
+
+
+
+
+
+1916年复活节[1]
+
+
+
+日暮时分我看见他们
+
+带着活泼的神采，
+
+从灰暗的十八世纪房子，
+
+越过柜台、办公桌出来。
+
+我走过去，点一点头，
+
+说些无意义的客套，
+
+或逗留一会，说几句
+
+无意义的话，表示礼貌；
+
+交谈未完，我已想到
+
+讽刺故事或挖苦话，
+
+好在俱乐部炉火一旁
+
+逗朋友们乐一下。
+
+我相信，他们和我一样，
+
+不过在小丑之乡营生；
+
+一切都变了，彻底变了：
+
+一种可怖的美已经诞生。
+
+
+
+
+
+那个女人大白天[2]
+
+
+
+办事凭愚昧的好心肠，
+
+到晚上则与人争辩
+
+直到嗓门沙沙响；
+
+当她年轻又漂亮，
+
+
+
+追捕野兔骑着马，
+
+没谁的嗓子赛过她。
+
+
+
+
+
+这男子办了一所学校[3]
+
+
+
+
+
+他骑着我们的天马[4] ，
+
+
+
+
+
+那一位是他助手和朋友，[5]
+
+
+
+他的部队他参加；
+
+也许他最终把名望争到，
+
+他天性善感多愁，
+
+他思想大胆而美好。
+
+
+
+
+
+另一个，我曾认为[6]
+
+
+
+是个酒鬼，爱虚荣的蠢人，
+
+他对我那位心爱者，
+
+干过最痛心的恶行。
+
+但我在歌中还要提到他，
+
+他也从偶然的喜剧里，
+
+
+
+
+
+把自己的角色辞掉，[7]
+
+
+
+轮到他，他也变了样，
+
+彻底改变了：
+
+一种可怖的美已经诞生。
+
+
+
+
+
+众心灵只怀一个目标，
+
+经过一夏又一冬，
+
+似乎中邪成岩石，
+
+使活跃的河水不通。
+
+从大路过来的马匹，
+
+
+
+骑马者和从云霞
+
+飞向云霞翻滚的鸟
+
+一分一秒地变化；
+
+落在河水中的云影
+
+一分一秒地改变，
+
+一只马蹄从水边滑落，
+
+一匹马拍打于水间；
+
+长脚母松鸡往下冲，
+
+对着公松鸡啼鸣，
+
+一分一秒地活着，
+
+岩石居于一切的中心。
+
+
+
+
+
+历时太久的牺牲，
+
+能使心硬如岩石，
+
+哦，何时牺牲算到头？
+
+那要上帝来回答。
+
+我们只能把人名轻唤，
+
+如母亲叫唤孩儿名，
+
+当睡眠终于来临，
+
+使撒野的四肢安静。
+
+难道这就是夜晚降临？
+
+不，不，这不是夜而是死；
+
+难道这不是多余的死？
+
+
+
+
+
+英国也许会恪守信义，
+
+
+
+
+
+不管她说过做过什么事。[8]
+
+
+
+我们深知他们的梦想，
+
+知道他们做过梦，已去世，
+
+
+
+也就够了，兴许是过度的爱
+
+使他们迷乱而致死？
+
+我要在诗中写道——
+
+麦克唐纳和麦克布拉德，
+
+康诺利和皮尔斯，
+
+今天和未来的日子，
+
+
+
+
+
+凡悬挂绿色标帜之城，[9]
+
+
+
+他们都变了，彻底变了：
+
+一种可怖的美已经诞生。
+
+
+
+
+
+[1]  1916年4月24日，爱尔兰共和兄弟会在都柏林发动起义，反对英国统治，成立爱尔兰共和国，惨遭英军镇压，殉难者中颇多叶芝的友好。
+
+
+
+
+
+[2]  那个女人：指麦克显微支伯爵夫人（1868—1927），她参加起义，被判死刑，后改为长期监禁。
+
+
+
+
+
+[3]  这男子：指派屈力克·皮尔斯（1879—1916），起义军领袖，被处极刑。
+
+
+
+
+
+[4]  天马：指希腊神话中的珀加索斯，它长有双翼，足到之处有泉水涌出，诗人饮之，可得灵感。
+
+
+
+
+
+[5]  那一位：指托麦斯·麦克唐纳（1878—1916），诗人兼创作家。
+
+
+
+
+
+[6]  另一个：指约翰·麦克布拉特上校，毛特·冈之夫。起义时，他们已分居多年。
+
+
+
+
+
+[7]  偶然的喜剧：指起义前爱尔兰的平庸生活。意思是说，他也摆脱了无聊的生活，投入起义的悲剧。
+
+
+
+
+
+[8]  英国政府曾允诺爱尔兰有自治权。
+
+
+
+
+
+[9]  爱尔兰人习惯以绿色为民族喜庆的标志。
+
+
+
+
+
+Towards Break of Day
+
+
+Was it the double of my dream
+
+The woman that by me lay
+
+Dreamed, or did we halve a dream
+
+Under the first cold gleam of day?
+
+
+
+
+
+I thought: 'There is a waterfall
+
+Upon Ben Bulben side
+
+That all my childhood counted dear;
+
+Were I to travel far and wide
+
+I could not find a thing so dear.'
+
+My memories had magnified
+
+So many times childish delight.
+
+
+
+
+
+I would have touched it like a child
+
+But knew my finger could but have touched
+
+Cold stone and water. I grew wild,
+
+Even accusing Heaven because
+
+It had set down among its laws:
+
+Nothing that we love over-much
+
+Is ponderable to our touch.
+
+
+
+
+
+I dreamed towards break of day,
+
+The cold blown spray in my nostril.
+
+But she that beside me lay
+
+Had watched in bitterer sleep
+
+
+
+The marvellous stag of Arthur,
+
+That lofty white stag, leap
+
+From mountain steep to steep.
+
+
+
+
+
+天亮之隙
+
+那躺在我边上的女人做的梦，
+
+是我梦的重现，
+
+还是我们各做一半梦
+
+在白昼最初的冷光下面？
+
+
+
+
+
+我想：“有一条瀑布
+
+在本·布尔本山旁，
+
+我小时最最喜爱；
+
+要是我云游四面八方，
+
+也找不到这么可爱的东西。”
+
+我的记忆已放大了好多倍，
+
+我童年时代的乐趣。
+
+
+
+
+
+我想像个孩子摸摸它，
+
+但我知道我的手只能摸到
+
+冰冷的石头和水。我火了，
+
+甚至责骂老天，因它
+
+定下了律令一条：
+
+我们爱得太深的东西，
+
+没一样可以摸到。
+
+
+
+
+
+天亮之际我梦见
+
+鼻孔中冰凉的黄水沫，
+
+在我旁边躺着的她
+
+却在更痛苦的睡眠中，
+
+
+
+
+
+看着亚瑟了不起的牡鹿，[1]
+
+
+
+那只高大的白牡鹿，
+
+从山坡向山坡跳跃。
+
+
+
+
+
+[1]  亚瑟：传说中的英国国王，活动于5—6世纪。
+
+
+
+
+
+The Second Coming
+
+
+Turning and turning in the widening gyre
+
+The falcon cannot hear the falconer;
+
+Things fall apart; the centre cannot hold;
+
+Mere anarchy is loosed upon the world,
+
+The blood-dimmed tide is loosed, and everywhere
+
+The ceremony of innocence is drowned;
+
+The best lack all conviction, while the worst
+
+Are full of passionate intensity.
+
+
+
+
+
+Surely some revelation is at hand;
+
+Surely the Second Coming is at hand.
+
+The Second Coming! Hardly are those words out
+
+When a vast image out of Spiritus Mundi
+
+Troubles my sight: somewhere in sands of the desert
+
+A shape with lion body and the head of a man,
+
+A gaze blank and pitiless as the sun,
+
+Is moving its slow thighs, while all about it
+
+Reel shadows of the indignant desert birds.
+
+The darkness drops again; but now I know
+
+That twenty centuries of stony sleep
+
+Were vexed to nightmare by a rocking cradle,
+
+And what rough beast, its hour come round at last,
+
+Slouches towards Bethlehem to be born?
+
+
+
+
+
+基督重临[1]
+
+
+
+
+
+在向外扩张的旋锥体上旋转呀旋转，[2]
+
+
+
+
+
+猎鹰再也听不见主人的呼唤，[3]
+
+
+
+一切都四散了，再也保不住中心，
+
+世界上到处弥漫着一片混乱，
+
+血色迷糊的潮流奔腾汹涌，
+
+
+
+
+
+到处把纯真的礼仪淹没其中，[4]
+
+
+
+优秀的人们信心尽失，
+
+坏蛋们则充满了炽烈的狂热。
+
+
+
+
+
+无疑神的启示就要显灵，
+
+无疑基督就将重临。
+
+基督重临！这几个字还未出口，
+
+
+
+
+
+刺眼的是从大记忆来的巨兽：[5]
+
+
+
+荒漠中，人首狮身的形体，
+
+如太阳漠然而无情地相视，
+
+慢慢挪动腿，它的四周一圈圈，
+
+
+
+沙漠上愤怒的鸟群阴影飞旋。
+
+
+
+
+
+黑暗又下降了，如今我明白
+
+二十个世纪的沉沉昏睡，
+
+在转动的摇篮里做起了恼人的噩梦，
+
+何种狂兽，终于等到了时辰，
+
+懒洋洋地倒向圣地来投生？
+
+
+
+
+
+[1]  根据基督教传说，基督将在世界末日重临人间主持审判，叶芝认为古希腊罗马传下来的西方文明今天已接近毁灭时期，200年内即将出现一种粗野狂暴的反文明，作为走向另一种贵族文明的过渡。本诗表现了叶芝这种历史循环的理论，艺术上已从唯美主义转入后期象征主义，用复杂而有质感的形象表达抽象的哲理。
+
+
+
+
+
+[2]  叶芝在《幻象》一书中认为人类历史是由正旋锥体（代表道德、空间、客观）和反旋锥体（代表美感、时间、主观）两个圆锥体渗透构成的，这里所谓“旋锥体”即指历史。
+
+
+
+
+
+[3]  猎鹰：喻人类；主人：喻基督。
+
+
+
+
+
+[4]  叶芝经常把“纯真的礼仪”作为贵族文化的表征之一。
+
+
+
+
+
+[5]  叶芝认为宇宙间存在一个“大记忆”，世代相传，它是一个神秘而汇集一切知识经验的大海；巨兽（即诗末所谓“狂兽”）：指即将到来的粗野狂暴的“反文明”。
+
+
+
+
+
+A Prayer for my Daughter
+
+
+Once more the storm is howling, and half hid
+
+Under this cradle-hood and coverlid
+
+My child sleeps on. There is no obstacle
+
+But Gregory's wood and one bare hill
+
+Whereby the haystack- and roof-levelling wind,
+
+Bred on the Atlantic, can be stayed;
+
+And for an hour I have walked and prayed
+
+Because of the great gloom that is in my mind.
+
+
+
+
+
+I have walked and prayed for this young child an hour
+
+And heard the sea-wind scream upon the tower,
+
+And under the arches of the bridge, and scream
+
+In the elms above the flooded stream;
+
+Imagining in excited reverie
+
+That the future years had come,
+
+Dancing to a frenzied drum,
+
+Out of the murderous innocence of the sea.
+
+
+
+
+
+May she be granted beauty and yet not
+
+Beauty to make a stranger's eye distraught,
+
+Or hers before a looking-glass, for such,
+
+Being made beautiful overmuch,
+
+
+
+
+
+Consider beauty a sufficient end,
+
+Lose natural kindness and maybe
+
+
+
+The heart-revealing intimacy
+
+That chooses right, and never find a friend.
+
+
+
+
+
+Helen being chosen found life flat and dull
+
+And later had much trouble from a fool,
+
+While that great Queen, that rose out of the spray,
+
+Being fatherless could have her way
+
+Yet chose a bandy-leggèd smith for man.
+
+It's certain that fine women eat
+
+A crazy salad with their meat
+
+Whereby the Horn of Plenty is undone.
+
+
+
+
+
+In courtesy I'd have her chiefly learned;
+
+Hearts are not had as a gift but hearts are earned
+
+By those that are not entirely beautiful;
+
+Yet many, that have played the fool
+
+For beauty's very self, has charm made wise,
+
+And many a poor man that has roved,
+
+Loved and thought himself beloved,
+
+From a glad kindness cannot take his eyes.
+
+
+
+
+
+May she become a flourishing hidden tree
+
+That all her thoughts may like the linnet be,
+
+And have no business but dispensing round
+
+Their magnanimities of sound,
+
+Nor but in merriment begin a chase,
+
+Nor but in merriment a quarrel.
+
+O may she live like some green laurel
+
+Rooted in one dear perpetual place.
+
+
+
+
+
+My mind, because the minds that I have loved,
+
+The sort of beauty that I have approved,
+
+Prosper but little, has dried up of late,
+
+Yet knows that to be choked with hate
+
+May well be of all evil chances chief.
+
+If there's no hatred in a mind
+
+Assault and battery of the wind
+
+Can never tear the linnet from the leaf.
+
+
+
+
+
+An intellectual hatred is the worst,
+
+So let her think opinions are accursed.
+
+Have I not seen the loveliest woman born
+
+Out of the mouth of Plenty's horn,
+
+Because of her opinionated mind
+
+Barter that horn and every good
+
+By quiet natures understood
+
+For an old bellows full of angry wind?
+
+Considering that, all hatred driven hence,
+
+The soul recovers radical innocence
+
+And learns at last that it is self-delighting,
+
+Self-appeasing, self-affrighting,
+
+And that its own sweet will is Heaven's will;
+
+She can, though every face should scowl
+
+And every windy quarter howl
+
+Or every bellows burst, be happy still.
+
+
+
+
+
+And may her bridegroom bring her to a house
+
+Where all's accustomed, ceremonious;
+
+
+
+For arrogance and hatred are the wares
+
+Peddled in the thoroughfares.
+
+How but in custom and in ceremony
+
+Are innocence and beauty born?
+
+Ceremony's a name for the rich horn,
+
+And custom for the spreading laurel tree.
+
+
+
+
+
+June 1919
+
+
+
+
+
+为吾女祈祷[1]
+
+
+
+又一次风在怒吼，半隐
+
+摇篮篷顶下，床单盖上身，
+
+我孩子睡着。没别的阻拦，
+
+除了格雷戈里的树林，一座秃山，
+
+能把这大西洋的狂风阻止；
+
+它吹翻草垛，掀掉屋顶，
+
+因为我心头有密密愁云，
+
+我边走边祷告，有一个小时。
+
+
+
+
+
+有一个小时，我边走边祈祷，
+
+我听见海风在塔楼上呼叫，
+
+风在桥的拱洞下长嚎，
+
+在汹涌河水上的榆树间哀号；
+
+激动人心的梦幻里我想到
+
+未来的年代已经来临，
+
+出自大海的凶恶的纯真，
+
+它伴着疯狂的鼓点舞蹈。
+
+
+
+
+
+但愿她长得俊，但不要那么美。
+
+陌生人一见就目迷心醉，
+
+或望着明镜，由于这原因，
+
+由于长得太美太俊，
+
+以为有美貌就一切足够，
+
+
+
+从此失去慈爱的天性
+
+和流露真心的亲切之情，
+
+选不准，永远交不上朋友。
+
+
+
+
+
+海伦被选中，感人生平庸，
+
+
+
+
+
+后来又为一傻瓜受苦痛，[2]
+
+
+
+那伟大的女王，从海中跃出，
+
+生来没父亲，她随心所欲，
+
+
+
+
+
+却挑了跛脚铁匠做男人。[3]
+
+
+
+没问题，漂亮女子吃肉，
+
+总得有可怕的沙拉拌着，
+
+
+
+
+
+丰饶角由此断送个干净。[4]
+
+
+
+
+
+我主要祝愿她深明礼仪；[5]
+
+
+
+那些并非美得很的妇女
+
+赢得人的心，不靠人恩赐，
+
+许多人为了美做尽蠢事，
+
+终于使俊美变成智慧相；
+
+许多可怜虫东游西荡，
+
+爱上人，又以为自己被爱上，
+
+眼睛总离不开好心肠姑娘。
+
+
+
+
+
+愿她像一棵盛开的隐蔽树[6]
+
+
+
+像红雀一般是她的思路，
+
+别的不做，只管向四周
+
+
+
+播送宏亮美妙的歌喉；
+
+只是为高兴才东赶西追，
+
+只是为高兴才和人拌嘴；
+
+噢，愿她活着像翠桂，
+
+在可爱的地方植根永栽。
+
+
+
+
+
+因为我爱过的那种头脑，
+
+我赞赏过的那种美貌，
+
+只略见繁荣，如今我心枯死；
+
+我知道，心中充塞了仇视
+
+可能是恶运的主要原因，
+
+如没有什么郁愤积胸，
+
+不管风雨怎么打，怎么攻，
+
+红雀都不会离开枝头。
+
+
+
+
+
+理性的仇恨是最坏的一种，
+
+要让她明白偏见最可憎。
+
+难道我没见到最可爱的女人，
+
+从丰饶角的口中出生，
+
+因为她偏见存在胸中，
+
+把丰饶角和种种德性
+
+——天性安分者都承认——
+
+
+
+
+
+换来了老风箱，怒吹狂风。[7]
+
+
+
+想到一旦把仇恨除尽，
+
+心灵就恢复绝对的纯真，
+
+最后省悟须自我欢娱，
+
+自我惊惧，自我安抚，
+
+
+
+自己的好心即上天的好心，
+
+即使风箱尽裂，人人皱眉，
+
+四面八方狂风怒吹，
+
+我女儿还会觉得高兴。
+
+
+
+
+
+祝愿她新郎带她到家里，
+
+一切都合乎习俗、礼仪；
+
+这些货色，狂傲和怨仇
+
+都只在大街广场出售；
+
+纯真和美岂不靠寄生
+
+于习俗和礼仪而蔚然长成？
+
+礼仪乃丰饶角的好名称，
+
+习俗乃繁茂桂树的美名。
+
+
+
+
+
+[1]  叶芝的女儿安·勃特勒·叶芝生于1919年2月24日，本诗作于1919年6月，发表于1921年。
+
+
+
+
+
+[2]  古希腊美人海伦嫁给斯巴达国王墨涅拉奥斯，他为人平庸，终被海伦所弃。
+
+
+
+
+
+[3]  指维纳斯，相传自海中诞生，她丈夫伏尔肯系天上的铁匠师傅，腿有毛病。
+
+
+
+
+
+[4]  丰饶角：相传希腊天神宙斯幼年以吸羊乳长大，故以羊角象征丰饶。
+
+
+
+
+
+[5]  她：指女儿。
+
+
+
+
+
+[6]  隐蔽树：指桂树，象征叶芝赞许的井然有序的习俗。
+
+
+
+
+
+[7]  以上两段暗指叶芝曾经热烈追求过的毛特·冈，她主张用武装斗争来争取爱尔兰民族独立，这是叶芝所不赞同的。
+
+
+
+
+
+Sailing to Byzantium
+
+
+I
+
+That is no country for old men. The young
+
+In one another's arms, birds in the trees
+
+—Those dying generations—at their song,
+
+The salmon-falls, the mackerel-crowded seas,
+
+Fish, flesh, or fowl, commend all summer long
+
+Whatever is begotten, born, and dies.
+
+Caught in that sensual music all neglect
+
+Monuments of unageing intellect.
+
+II
+
+An aged man is but a paltry thing,
+
+A tattered coat upon a stick, unless
+
+Soul clap its hands and sing, and louder sing
+
+For every tatter in its mortal dress,
+
+Nor is there singing school but studying
+
+Monuments of its own magnificence;
+
+And therefore I have sailed the seas and come
+
+To the holy city of Byzantium.
+
+
+
+III
+
+O sages standing in God's holy fire
+
+As in the gold mosaic of a wall,
+
+Come from the holy fire, perne in a gyre,
+
+And be the singing-masters of my soul.
+
+Consume my heart away; sick with desire
+
+And fastened to a dying animal
+
+It knows not what it is; and gather me
+
+Into the artifice of eternity.
+
+IV
+
+Once out of nature I shall never take
+
+My bodily form from any natural thing,
+
+But such a form as Grecian goldsmiths make
+
+Of hammered gold and gold enamelling
+
+To keep a drowsy Emperor awake;
+
+Or set upon a golden bough to sing
+
+To lords and ladies of Byzantium
+
+Of what is past, or passing, or to come.
+
+
+
+
+
+1927
+
+
+
+
+
+驶向拜占庭[1]
+
+
+
+1
+
+那地方可不是老年人待的。青年人
+
+互相拥抱着，树上的鸟类
+
+——那些垂死的世代——在歌吟，
+
+有鲑鱼的瀑布，有鲭鱼的大海，
+
+鱼肉禽整个夏天都赞扬个不停
+
+一切被养育、降生和死亡者。
+
+他们都迷恋于种种肉感的音乐，
+
+忽视了不朽的理性的杰作。
+
+2
+
+一个老年人不过是卑微的物品，
+
+披在一根拐杖上的破衣裳，
+
+除非他那颗心灵拍手来歌吟，
+
+
+
+
+
+为人世衣衫的破烂而大唱；[2]
+
+
+
+
+
+世界上没什么音乐院校不诵吟
+
+自己辉煌的里程碑作品，
+
+因此我驶过汪洋和大海万顷，
+
+来到了这一个圣城拜占庭。
+
+3
+
+啊，上帝圣火中站立的圣徒们，
+
+
+
+
+
+如墙上金色的镶嵌砖所显示，[3]
+
+
+
+请走出圣火来，参加那旋锥体的运行，
+
+成为教我灵魂歌唱的老师。
+
+销毁掉我的心，它执迷于六欲七情，
+
+捆绑在垂死的动物身上而不知
+
+它自己的本性；请求你把我收进
+
+
+
+
+
+那永恒不朽的手工艺精品。[4]
+
+
+
+4
+
+一旦我超脱了自然，我再也不要
+
+从任何自然物取得体形，
+
+而是要古希腊时代金匠所铸造
+
+镀金或锻金那样的体形，
+
+使那个昏昏欲睡的皇帝清醒；
+
+
+
+
+
+或把我放在那金枝上唱吟，[5]
+
+
+
+歌唱那过去和未来或者当今，
+
+唱给拜占庭的老爷太太听。
+
+
+
+
+
+[1]  叶芝认为公元6世纪查士丁尼皇帝统治下的拜占庭王朝（527—565）是贵族文化的代表，那时精神与物质、文艺与政教、个人与社会得到了和谐的统一。本诗表达他对情欲、现代物质文明的厌恶和对理性、古代贵族文明的向往。
+
+
+
+
+
+[2]  人世衣衫的破烂：指短暂而痛苦的人间生活。
+
+
+
+
+
+[3]  教堂墙上镶嵌砖上有圣徒受圣火煎烤的图案。
+
+
+
+
+
+[4]  叶芝认为人工的东西（如工艺品）、理性的东西（如哲学、诗歌）是不朽的，自然生长之物（如生物）则是暂时的。
+
+
+
+
+
+[5]  拜占庭王宫中有金铸的树，上有金鸟歌唱。
+
+
+
+
+
+The Tower
+
+
+I
+
+What shall I do with this absurdity—
+
+O heart, O troubled heart—this caricature,
+
+Decrepit age that has been tied to me
+
+As to a dog's tail?
+
+        Never had I more
+
+Excited, passionate, fantastical
+
+Imagination, nor an ear and eye
+
+That more expected the impossible—
+
+No, not in boyhood when with rod and fly,
+
+Or the humbler worm, I climbed Ben Bulben's back
+
+And had the livelong summer day to spend.
+
+It seems that I must bid the Muse go pack,
+
+Choose Plato and Plotinus for a friend
+
+Until imagination, ear and eye,
+
+Can be content with argument and deal
+
+In abstract things; or be derided by
+
+A sort of battered kettle at the heel.
+
+
+
+II
+
+I pace upon the battlements and stare
+
+On the foundations of a house, or where
+
+Tree, like a sooty finger, starts from the earth;
+
+And send imagination forth
+
+Under the day's declining beam, and call
+
+Images and memories
+
+From ruin or from ancient trees,
+
+For I would ask a question of them all.
+
+
+
+
+
+Beyond that ridge lived Mrs. French, and once
+
+When every silver candlestick or sconce
+
+Lit up the dark mahogany and the wine,
+
+A serving-man, that could divine
+
+That most respected lady's every wish,
+
+Ran and with the garden shears
+
+Clipped an insolent farmer's ears
+
+And brought them in a little covered dish.
+
+
+
+
+
+Some few remembered still when I was young
+
+A peasant girl commended by a song,
+
+Who'd lived somewhere upon that rocky place,
+
+And praised the colour of her face,
+
+And had the greater joy in praising her,
+
+Remembering that, if walked she there,
+
+Farmers jostled at the fair
+
+So great a glory did the song confer.
+
+
+
+
+
+And certain men, being maddened by those rhymes,
+
+Or else by toasting her a score of times,
+
+Rose from the table and declared it right
+
+To test their fancy by their sight;
+
+But they mistook the brightness of the moon
+
+For the prosaic light of day—
+
+Music had driven their wits astray—
+
+And one was drowned in the great bog of Cloone.
+
+
+
+
+
+Strange, but the man who made the song was blind;
+
+Yet, now I have considered it, I find
+
+That nothing strange; the tragedy began
+
+With Homer that was a blind man,
+
+And Helen has all living hearts betrayed.
+
+O may the moon and sunlight seem
+
+One inextricable beam,
+
+For if I triumph I must make men mad.
+
+
+
+
+
+And I myself created Hanrahan
+
+And drove him drunk or sober through the dawn
+
+From somewhere in the neighbouring cottages.
+
+Caught by an old man's juggleries
+
+He stumbled, tumbled, fumbled to and fro
+
+And had but broken knees for hire
+
+And horrible splendour of desire;
+
+I thought it all out twenty years ago:
+
+
+
+
+
+Good fellows shuffled cards in an old bawn;
+
+And when that ancient ruffian's turn was on
+
+
+
+He so bewitched the cards under his thumb
+
+That all but the one card became
+
+A pack of hounds and not a pack of cards,
+
+And that he changed into a hare.
+
+Hanrahan rose in frenzy there
+
+And followed up those baying creatures towards—
+
+
+
+
+
+O towards I have forgotten what-enough!
+
+I must recall a man that neither love
+
+Nor music nor an enemy's clipped ear
+
+Could, he was so harried, cheer;
+
+A figure that has grown so fabulous
+
+There's not a neighbour left to say
+
+When he finished his dog's day:
+
+An ancient bankrupt master of this house.
+
+
+
+
+
+Before that ruin came, for centuries,
+
+Rough men-at-arms, cross-gartered to the knees
+
+Or shod in iron, climbed the narrow stairs,
+
+And certain men-at-arms there were
+
+Whose images, in the Great Memory stored,
+
+Come with loud cry and panting breast
+
+To break upon a sleeper's rest
+
+While their great wooden dice beat on the board.
+
+
+
+
+
+As I would question all, come all who can;
+
+Come old, necessitous, half-mounted man;
+
+And bring beauty's blind rambling celebrant;
+
+The red man the juggler sent
+
+
+
+Through God-forsaken meadows; Mrs. French,
+
+Gifted with so fine an ear;
+
+The man drowned in a bog's mire,
+
+When mocking Muses chose the country wench.
+
+
+
+
+
+Did all old men and women, rich and poor,
+
+Who trod upon these rocks or passed this door,
+
+Whether in public or in secret rage
+
+As I do now against old age?
+
+But I have found an answer in those eyes
+
+That are impatient to be gone;
+
+Go therefore; but leave Hanrahan,
+
+For I need all his mighty memories.
+
+
+
+
+
+Old lecher with a love on every wind,
+
+Bring up out of that deep considering mind
+
+All that you have discovered in the grave,
+
+For it is certain that you have
+
+Reckoned up every unforeknown, unseeing
+
+Plunge, lured by a softening eye,
+
+Or by a touch or a sigh,
+
+Into the labyrinth of another's being;
+
+
+
+
+
+Does the imagination dwell the most
+
+Upon a woman won or woman lost?
+
+If on the lost, admit you turned aside
+
+From a great labyrinth out of pride,
+
+Cowardice, some silly over-subtle thought
+
+Or anything called conscience once;
+
+
+
+And that if memory recur, the sun's
+
+Under eclipse and the day blotted out.
+
+III
+
+It is time that I wrote my will;
+
+I choose upstanding men
+
+That climb the streams until
+
+The fountain leap, and at dawn
+
+Drop their cast at the side
+
+Of dripping stone; I declare
+
+They shall inherit my pride,
+
+The pride of people that were
+
+Bound neither to Cause nor to State,
+
+Neither to slaves that were spat on,
+
+Nor to the tyrants that spat,
+
+The people of Burke and of Grattan
+
+That gave, though free to refuse—
+
+Pride, like that of the morn,
+
+When the headlong light is loose,
+
+Or that of the fabulous horn,
+
+Or that of the sudden shower
+
+When all streams are dry,
+
+Or that of the hour
+
+When the swan must fix his eye
+
+Upon a fading gleam,
+
+Float out upon a long
+
+Last reach of glittering stream
+
+
+
+
+
+And there sing his last song.
+
+And I declare my faith:
+
+I mock Plotinus' thought
+
+And cry in Plato's teeth,
+
+Death and life were not
+
+Till man made up the whole,
+
+Made lock, stock and barrel
+
+Out of his bitter soul,
+
+Aye, sun and moon and star, all,
+
+And further add to that
+
+That, being dead, we rise,
+
+Dream and so create
+
+Translunar paradise.
+
+I have prepared my peace
+
+With learned Italian things
+
+And the proud stones of Greece,
+
+Poet's imaginings
+
+And memories of love,
+
+Memories of the words of women
+
+All those things whereof
+
+Man makes a superhuman
+
+Mirror-resembling dream.
+
+
+
+
+
+As at the loophole there
+
+The daws chatter and scream,
+
+And drop twigs layer upon layer.
+
+When they have mounted up,
+
+The mother bird will rest
+
+
+
+On their hollow top,
+
+And so warm her wild nest.
+
+
+
+
+
+I leave both faith and pride
+
+To young upstanding men
+
+Climbing the mountain-side,
+
+That under bursting dawn
+
+They may drop a fly;
+
+Being of that metal made
+
+Till it was broken by
+
+This sedentary trade.
+
+
+
+
+
+Now shall I make my soul,
+
+Compelling it to study
+
+In a learned school
+
+Till the wreck of body,
+
+Slow decay of blood,
+
+Testy delirium
+
+Or dull decrepitude,
+
+Or what worse evil come—
+
+The death of friends, or death
+
+Of every brilliant eye
+
+That made a catch in the breath—
+
+Seem but the clouds of the sky
+
+When the horizon fades;
+
+Or a bird's sleepy cry
+
+Among the deepening shades.
+
+
+
+
+
+1926
+
+
+
+
+
+塔 楼[1]
+
+
+
+1
+
+我要这荒谬之物做什么——
+
+心呵，苦恼的心呵——这幅漫画
+
+衰老之年挂在我身上
+
+如同挂在一只狗的尾巴上？
+
+我从未有过
+
+更为兴奋、激情、奇异的想象，
+
+也没有耳目
+
+更企盼着不可能的事物——
+
+不，就在少年时也不，那时我带着钓竿和苍蝇
+
+或更卑微的虫子，我上本·布尔本后山
+
+去度过悠悠长日的夏天。
+
+
+
+
+
+看来，我必须让缪思打点行装了，[2]
+
+
+
+
+
+选择柏拉图和普洛提诺斯为友，[3]
+
+
+
+直到想象力、耳朵和眼睛
+
+满足于论证和处理
+
+抽象观念，或被脚后
+
+一个损坏了的水壶所嘲弄。
+
+
+
+2
+
+我在雉堞上漫步，注视
+
+房子的地基，或是一棵树，
+
+像熏黑的指头从地面崛起；
+
+我派出想象
+
+在白昼渐暗的光线下，
+
+从废墟或古老的树丛
+
+召回记忆和意象，
+
+因为我要问他们全体一个问题。
+
+
+
+
+
+在那个山脊的后面住着个法兰契太太，
+
+有一次当所有银烛台或灯台
+
+照亮黑黝黝的红木桌或酒，
+
+一个侍者他能测知
+
+那位最被尊敬的夫人的任何愿望，
+
+他跑出去，用修枝剪刀
+
+剪下一个傲慢农民的双耳，
+
+装在一个盖好了的小碟里送来。
+
+
+
+
+
+有些人还记得我年轻时，
+
+有支歌称道一个农家姑娘，
+
+她住在那多石头的地方，
+
+称赞她鲜艳的脸庞，
+
+我越赞美，越是高兴，
+
+记得起，她一来到，
+
+赶集的农民就你挤我推，
+
+那支歌给了她那么大荣耀。
+
+
+
+
+
+有些人听这歌发了疯，
+
+或再三再四地为她干杯，
+
+从桌旁站起，直接宣称
+
+要亲眼证明这个幻想；
+
+但他们把月色的光辉
+
+误作白昼无味的光亮，
+
+音乐迷了他们的心神——
+
+有一个在克罗恒的大沼泽里丧命。
+
+
+
+
+
+奇怪，作这歌的是个盲人；
+
+但现在，我考虑了一番，觉得
+
+没什么奇怪，悲剧一开始，
+
+荷马就是个瞎子，
+
+海伦背叛了所有活人的心。
+
+噢，但愿月亮和太阳光
+
+看来是不可分拆的光，
+
+如我成功了，必使人们发狂。
+
+
+
+
+
+我自己创造了罕拉汉，[4]
+
+
+
+黎明中把他，醉或醒
+
+从临近的某处村庄中赶过。
+
+为一个老者的魔法着了迷，
+
+他跌倒，翻滚，摸索着来去，
+
+只剩下破膝头可以出工
+
+和欲望的可怕的壮丽，
+
+二十年前我构想出这一切：
+
+
+
+
+
+好朋友们在旧场院里玩牌；
+
+
+
+轮到那古代的老无赖发牌，
+
+他指头下的牌做得这么怪，
+
+所有的牌除了一张以外，
+
+变成了一群猎犬，而不是一束牌，
+
+他自己变成了野兔子。
+
+罕拉汉一生气站起来，
+
+就去追赶那些呼叫而去的狗子到——
+
+
+
+
+
+噢，到我忘了的什么地方——够了！
+
+我必须回想起一个人，
+
+他是这样困厄，爱情、音乐
+
+或剪下敌人的耳朵都不能使他快乐；
+
+这样一个传奇式的人物
+
+没留下一个邻居来说，
+
+何时他过完他的狗日子；
+
+他是这房子破产的老主人。
+
+
+
+
+
+在它成为废墟以前，多少世纪，
+
+带枪的粗人，绑腿齐膝，
+
+脚穿铁靴，爬上狭小的楼梯，
+
+那里有些持枪者来了，
+
+
+
+
+
+他们的意象保存于大记忆，[5]
+
+
+
+大声叫着，胸部喘息，
+
+用大木棒子敲打桌子，
+
+打破睡眠者的安息。
+
+
+
+
+
+我想问问大家，能来的都来吧；
+
+来吧，贫困的，登上一半楼梯的人，
+
+
+
+带来歌颂美人的盲目的闲游者，
+
+被魔术家赶出，上帝遗弃的
+
+草原的红种人，获得如此
+
+优美耳朵的法兰契太太，
+
+那个在沼泽地淹死的人，
+
+他嘲弄缪思，选择了村姑。
+
+
+
+
+
+所有这些男人女人，穷人富人，
+
+他们踏过这些山石或经过这座门，
+
+不管在公众面前或内心，
+
+都像我现在那样怒斥老龄？
+
+但我从那些急于离去的人们
+
+眼里得到了一个回答：
+
+那么，去吧，但留下罕拉汉，
+
+因我需要他全部强大的记忆。
+
+
+
+
+
+四面八方都有爱人的老色鬼，
+
+从深思熟虑的心中倒出来
+
+你在坟墓中的全部发现，
+
+因为你肯定已计量过每一个
+
+对别个生命迷宫的投入，
+
+它们不可预知，不可见，
+
+为一个温柔的目光，
+
+一个抚摸或叹息所迷惑。
+
+
+
+
+
+想象最执着于
+
+一个赢得的女人或失去的女人？
+
+如是失去的，承认你离开了
+
+一个伟大的迷宫，出于骄傲，
+
+
+
+怯懦、愚蠢的过分精明的思想；
+
+或者人们一度所谓的良心；
+
+如果记忆复归，太阳
+
+就会消失，白昼就会泯灭。
+
+3
+
+这是立遗嘱的时候了，
+
+我喜欢正直的人们，
+
+他们逆流勇进一直到
+
+急流喷涌，黎明时分
+
+在滴水崖旁投下钓饵；
+
+我宣告，他们将继承我的豪气：
+
+不受事业或国的管束，
+
+不做啐人的暴君的奴隶，
+
+也不向被啐的奴隶屈服；
+
+
+
+
+
+我们是勃克、格拉丹的子民，[6]
+
+
+
+有权拒绝，却还是施舍
+
+豪迈如朝阳初醒，
+
+光芒劈头盖脑而来；
+
+豪迈如神奇的丰饶角一般，
+
+或突如其来的阵雨，
+
+当大河小溪全枯干；
+
+或如天鹅它必须
+
+眼盯着隐退的光芒，
+
+在最后一长段溪水上，
+
+
+
+那溪流还在闪光，
+
+
+
+
+
+它浮游，把终曲歌唱。
+
+我把信仰宣告：
+
+
+
+
+
+我蔑视普洛提诺斯，[7]
+
+
+
+我针对柏拉图狂叫，
+
+人生无所谓生与死，
+
+除非人成为整体，
+
+从人的痛苦心灵
+
+把种种连在一起，
+
+对，还有日月星辰。
+
+还得加上一点，
+
+死后我们腾身向上，
+
+做梦，并且创建
+
+横穿月球的天堂。
+
+我心安理得，
+
+有讲究的意大利工艺，
+
+有珍贵的希腊雕刻，
+
+有诗人的幻想梦呓，
+
+有爱情的种种回忆，
+
+有女人们话语的回音，
+
+依靠这一切东西，
+
+人成为一个超人，
+
+镜子般真实的梦境。
+
+
+
+
+
+就像在透光孔旁，
+
+穴鸟唧唧喳喳叫，
+
+
+
+把枝叶层层投放，
+
+等枝条铺得高高，
+
+母鸟就飞到树端，
+
+栖息于高悬的空巢
+
+使它的野窝温暖。
+
+
+
+
+
+我把信心和自豪
+
+留给正直的年轻人，
+
+他们攀登山腰
+
+在黎明破晓时分
+
+放下蝇饵钓鱼；
+
+既是那钢材所造，
+
+他们将坚持下去
+
+
+
+
+
+直到这不动的行业[8]
+
+
+
+最终使它破灭。
+
+
+
+
+
+如今我把灵魂铸造，
+
+强迫它去学习，
+
+进一个渊博的学校
+
+直到体力衰竭，
+
+筋血慢慢衰退，
+
+变得疯狂或暴躁，
+
+或老朽痴呆，
+
+或最坏的坏事来到——
+
+朋友亡故，所有
+
+俊眼丽目消失，
+
+它们曾使我屏息——
+
+都不过像天上流云
+
+
+
+随着地平线隐去，
+
+或像暗下去的阴影，
+
+小鸟的一声倦啼。
+
+
+
+
+
+[1]  1917年初，叶芝购买了中世纪诺曼人建造的一所塔楼，命名为贝列里塔。
+
+
+
+
+
+[2]  缪思：希腊神话中掌管文学艺术的九位女神的总称，亦作“缪斯”。
+
+
+
+
+
+[3]  普洛提诺斯（205—275）：古罗马哲学家。
+
+
+
+
+
+[4]  罕拉汉：一个虚构的人物。
+
+
+
+
+
+[5]  叶芝认为宇宙中存在着代代相传的大记忆， 类似荣格所谓“集体无意识”。
+
+
+
+
+
+[6]  艾德蒙·勃克（1729—1797）：爱尔兰出生的英国政治家，支持天主教徒；亨利·格拉丹（1746—1820）：支持天主教徒独立的爱尔兰政治家。
+
+
+
+
+
+[7]  普洛提诺斯（205—270）：新柏拉图主义哲学家，认为物质世界乃精神所创造，并无真实性。叶芝反对这种主张，认为精神和物质是同一体。
+
+
+
+
+
+[8]  指钓鱼和从事诗创作之类静止不动的行为。
+
+
+
+
+
+Meditations in Time of Civil War
+
+
+I
+
+Ancestral Houses
+
+Surely among a rich man's flowering lawns,
+
+Amid the rustle of his planted hills,
+
+Life overflows without ambitious pains;
+
+And rains down life until the basin spills,
+
+And mounts more dizzy high the more it rains
+
+As though to choose whatever shape it wills
+
+And never stoop to a mechanical
+
+Or servile shape, at others' beck and call.
+
+
+
+
+
+Mere dreams, mere dreams! Yet Homer had not sung
+
+Had he not found it certain beyond dreams
+
+That out of life's own self-delight had sprung
+
+The abounding glittering jet; though now it seems
+
+As if some marvellous empty sea-shell flung
+
+Out of the obscure dark of the rich streams,
+
+And not a fountain, were the symbol which
+
+Shadows the inherited glory of the rich.
+
+
+
+
+
+Some violent bitter man, some powerful man
+
+
+
+Called architect and artist in, that they,
+
+Bitter and violent men, might rear in stone
+
+The sweetness that all longed for night and day,
+
+The gentleness none there had ever known;
+
+But when the master's buried mice can play,
+
+And maybe the great-grandson of that house,
+
+For all its bronze and marble, 's but a mouse.
+
+
+
+
+
+O what if gardens where the peacock strays
+
+With delicate feet upon old terraces,
+
+Or else all Juno from an urn displays
+
+Before the indifferent garden deities;
+
+O what if levelled lawns and gravelled ways
+
+Where slippered Contemplation finds his ease
+
+And Childhood a delight for every sense,
+
+But take our greatness with our violence?
+
+
+
+
+
+What if the glory of escutcheoned doors,
+
+And buildings that a haughtier age designed,
+
+The pacing to and fro on polished floors
+
+Amid great chambers and long galleries, lined
+
+With famous portraits of our ancestors;
+
+What if those things the greatest of mankind
+
+Consider most to magnify, or to bless,
+
+But take our greatness with our bitterness?
+
+
+
+II
+
+My House
+
+An ancient bridge, and a more ancient tower,
+
+A farmhouse that is sheltered by its wall,
+
+An acre of stony ground,
+
+Where the symbolic rose can break in flower,
+
+Old ragged elms, old thorns innumerable,
+
+The sound of the rain or sound
+
+Of every wind that blows;
+
+The stilted water-hen
+
+Crossing stream again
+
+Scared by the splashing of a dozen cows;
+
+
+
+
+
+A winding stair, a chamber arched with stone,
+
+A grey stone fireplace with an open hearth,
+
+A candle and written page.
+
+Il Penseroso's Platonist toiled on
+
+In some like chamber, shadowing forth
+
+How the daemonic rage
+
+Imagined everything.
+
+Benighted travellers
+
+From markets and from fairs
+
+Have seen his midnight candle glimmering.
+
+
+
+
+
+Two men have founded here. A man-at-arms
+
+Gathered a score of horse and spent his days
+
+In this tumultuous spot,
+
+Where through long wars and sudden night alarms
+
+
+
+His dwindling score and he seemed castaways
+
+Forgetting and forgot;
+
+And I, that after me
+
+My bodily heirs may find,
+
+To exalt a lonely mind,
+
+Befitting emblems of adversity.
+
+III
+
+My Table
+
+Two heavy trestles, and a board
+
+Where Sato's gift, a changeless sword,
+
+By pen and paper lies,
+
+That it may moralise
+
+My days out of their aimlessness.
+
+A bit of an embroidered dress
+
+Covers its wooden sheath.
+
+Chaucer had not drawn breath
+
+When it was forged. In Sato's house,
+
+Curved like new moon, moon-luminous,
+
+It lay five hundred years.
+
+Yet if no change appears
+
+No moon; only an aching heart
+
+Conceives a changeless work of art.
+
+Our learned men have urged
+
+That when and where 'twas forged
+
+A marvellous accomplishment,
+
+In painting or in pottery, went
+
+
+
+From father unto son
+
+And through the centuries ran
+
+And seemed unchanging like the sword.
+
+Soul's beauty being most adored,
+
+Men and their business took
+
+The soul's unchanging look;
+
+For the most rich inheritor,
+
+Knowing that none could pass Heaven's door
+
+That loved inferior art,
+
+Had such an aching heart
+
+That he, although a country's talk
+
+For silken clothes and stately walk,
+
+Had waking wits; it seemed
+
+Juno's peacock screamed.
+
+IV
+
+My Descendants
+
+Having inherited a vigorous mind
+
+From my old fathers, I must nourish dreams
+
+And leave a woman and a man behind
+
+As vigorous of mind, and yet it seems
+
+Life scarce can cast a fragrance on the wind,
+
+Scarce spread a glory to the morning beams,
+
+But the torn petals strew the garden plot;
+
+And there's but common greenness after that.
+
+
+
+
+
+And what if my descendants lose the flower
+
+
+
+Through natural declension of the soul,
+
+Through too much business with the passing hour,
+
+Through too much play, or marriage with a fool?
+
+May this laborious stair and this stark tower
+
+Become a roofless ruin that the owl
+
+May build in the cracked masonry and cry
+
+Her desolation to the desolate sky.
+
+
+
+
+
+The Primum Mobile that fashioned us
+
+Has made the very owls in circles move;
+
+And I, that count myself most prosperous,
+
+Seeing that love and friendship are enough,
+
+For an old neighbour's friendship chose the house
+
+And decked and altered it for a girl's love,
+
+And know whatever flourish and decline
+
+These stones remain their monument and mine.
+
+V
+
+The Road at My Door
+
+An affable Irregular,
+
+A heavily-built Falstaffian man,
+
+Comes cracking jokes of civil war
+
+As though to die by gunshot were
+
+The finest play under the sun.
+
+
+
+
+
+A brown Lieutenant and his men,
+
+Half dressed in national uniform,
+
+
+
+Stand at my door, and I complain
+
+Of the foul weather, hail and rain,
+
+A pear-tree broken by the storm.
+
+
+
+
+
+I count those feathered balls of soot
+
+The moor-hen guides upon the stream,
+
+To silence the envy in my thought;
+
+And turn towards my chamber, caught
+
+In the cold snows of a dream.
+
+VI
+
+The Stare's Nest by My Window
+
+The bees build in the crevices
+
+Of loosening masonry, and there
+
+The mother birds bring grubs and flies.
+
+My wall is loosening; honey-bees,
+
+Come build in the empty house of the stare.
+
+
+
+
+
+We are closed in, and the key is turned
+
+On our uncertainty; somewhere
+
+A man is killed, or a house burned,
+
+Yet no clear fact to be discerned:
+
+Come build in the empty house of the stare.
+
+
+
+
+
+A barricade of stone or of wood;
+
+Some fourteen days of civil war;
+
+Last night they trundled down the road
+
+
+
+That dead young soldier in his blood:
+
+Come build in the empty house of the stare.
+
+
+
+
+
+We had fed the heart on fantasies,
+
+The heart's grown brutal from the fare;
+
+More substance in our enmities
+
+Than in our love; O honey-bees,
+
+Come build in the empty house of the stare.
+
+VII
+
+I see Phantoms of Hatred and of the Heart's
+
+Fullness and of the Coming Emptiness
+
+I climb to the tower-top and lean upon broken stone,
+
+A mist that is like blown snow is sweeping over all,
+
+Valley, river, and elms, under the light of a moon
+
+That seems unlike itself, that seems unchangeable,
+
+A glittering sword out of the east. A puff of wind
+
+And those white glimmering fragments of the mist sweep by.
+
+Frenzies bewilder, reveries perturb the mind;
+
+Monstrous familiar images swim to the mind's eye.
+
+
+
+
+
+'Vengeance upon the murderers,' the cry goes up,
+
+'Vengeance for Jacques Molay.' In cloud-pale rags, or in lace,
+
+The rage-driven, rage-tormented, and rage-hungry troop,
+
+Trooper belabouring trooper, biting at arm or at face,
+
+Plunges towards nothing, arms and fingers spreading wide
+
+For the embrace of nothing; and I, my wits astray
+
+
+
+Because of all that senseless tumult, all but cried
+
+For vengeance on the murderers of Jacques Molay.
+
+
+
+
+
+Their legs long, delicate and slender, aquamarine their eyes,
+
+Magical unicorns bear ladies on their backs.
+
+The ladies close their musing eyes. No prophecies,
+
+Remembered out of Babylonian almanacs,
+
+Have closed the ladies' eyes, their minds are but a pool
+
+Where even longing drowns under its own excess;
+
+Nothing but stillness can remain when hearts are full
+
+Of their own sweetness, bodies of their loveliness.
+
+
+
+
+
+The cloud-pale unicorns, the eyes of aquamarine,
+
+The quivering half-closed eyelids, the rags of cloud or of lace,
+
+Or eyes that rage has brightened, arms it has made lean,
+
+Give place to an indifferent multitude, give place
+
+To brazen hawks. Nor self-delighting reverie,
+
+Nor hate of what's to come, nor pity for what's gone,
+
+Nothing but grip of claw, and the eye's complacency,
+
+The innumerable clanging wings that have put out the moon.
+
+
+
+
+
+I turn away and shut the door, and on the stair
+
+Wonder how many times I could have proved my worth
+
+In something that all others understand or share;
+
+But O! ambitious heart, had such a proof drawn forth
+
+A company of friends, a conscience set at ease,
+
+It had but made us pine the more. The abstract joy,
+
+The half-read wisdom of daemonic images,
+
+Suffice the ageing man as once the growing boy.
+
+
+
+
+
+1923
+
+
+
+
+
+内战时期的沉思[1]
+
+
+
+Ⅰ
+
+祖先的住宅
+
+当然在一个富人百花盛开的草地上，
+
+在他山丘树林的瑟缩声中，
+
+生命洋溢着，不带巨大的痛苦；
+
+生命雨般流下直到基地满溢，
+
+下得越多，跳到更眩目的高度
+
+似乎任何形状由它自主选，
+
+从不屈就一种机械的
+
+或奴役的形式，听别人呼唤。
+
+
+
+
+
+梦想而已，梦想而已！但荷马
+
+如不曾发现梦之外有真实——
+
+丰沛闪亮的喷泉来自生命的自娱，
+
+他就不会歌唱，虽然如今奇妙的空贝壳
+
+从丰盈溪流而非泉水的幽暗中
+
+迸出，成为掩盖
+
+富人继承光荣的象征。
+
+
+
+
+
+有些暴烈而痛苦的人，有权势的人
+
+请来了建筑家和艺术师，使他们
+
+痛苦而暴烈的人能在石头上培育出
+
+众人昼夜渴望的优美形象
+
+和谁也没听说过的温柔品性；
+
+但主子一埋掉，老鼠便可嬉戏，
+
+也许那所房子的曾孙，
+
+不管其中遍陈铜铸石雕，也不过是只鼠。
+
+
+
+
+
+啊，如果孔雀用她纤巧的脚爪，
+
+在花园的古老台地上踏步，
+
+
+
+
+
+如朱诺在神情淡漠的花园诸神面前，[2]
+
+
+
+把一尊瓷瓦的一切展现，
+
+啊，如平坦的草地，铺石的道路，
+
+一个人穿着拖鞋悠然沉思，
+
+儿童从每种感官得到乐趣，
+
+不过是用暴力夺去我们的伟大，又如何？
+
+
+
+
+
+如果这些雕饰的门扉的光荣，
+
+那些更高傲时代设计的建筑，
+
+有人在巨室长廊的光滑地板上漫步
+
+两边是我们祖先的著名画像，
+
+如果人类中的最伟大者
+
+认为这些东西最应发扬光大或祝福，
+
+不过是用痛苦夺去我们的伟大，又如何？
+
+
+
+Ⅱ
+
+我的房子
+
+一条古桥，一座更古老的塔楼，
+
+一所农舍，为墙荫盖，
+
+一亩石头地，
+
+在那儿，象征性的玫瑰会开花，
+
+粗厉的老榆树，数不尽的老荆棘，
+
+雨声或者四面
+
+刮来的各种风声；
+
+昂首挺立的水鸡，
+
+为一群牛的溅水声所吓，
+
+又一次跨过小溪；
+
+
+
+
+
+一个盘旋的楼梯，一间石拱顶的房子，
+
+一个炉膛敞开的灰石炉，
+
+一支蜡烛和一页文稿，
+
+
+
+
+
+《沉思的人》中柏拉图主义者，[3]
+
+
+
+在类似的房间中劳作，
+
+投影出恶魔式的狂暴
+
+如何想象一切。
+
+从市场或集市
+
+夜归的游客们
+
+曾目睹他午夜的烛光。
+
+
+
+
+
+有两个人在这里待过。一个持枪者
+
+聚集了二十匹马，在这动乱之地
+
+过他的日子，
+
+
+
+长期的战争和突然的夜袭，
+
+他减少的马匹，使他成了被逐者，
+
+忘了别人，也被别人忘记；
+
+而我，在我身后，
+
+我肉体的继承人会发现，
+
+我歌颂一个孤独心灵，
+
+是一个苦难的合适表征。
+
+Ⅲ
+
+我的桌子
+
+两个沉重的支架和一块木板，
+
+
+
+
+
+上面放着佐藤的礼物，一把不变的剑，[4]
+
+
+
+笔和纸在旁边
+
+使我警惕
+
+不要虚度岁月。
+
+有一小件绣过的外套，
+
+套住了它的木鞘。
+
+
+
+
+
+它铸就时乔叟尚未出生。[5]
+
+
+
+在佐藤家中，
+
+它弯如新月，月般明亮，
+
+躺了五百年。
+
+但如没有变化出现，
+
+就没有月亮，只有一颗痛楚的心
+
+酝酿一件不变的艺术品。
+
+我们的学者强调
+
+
+
+何时何地它被铸造，
+
+一个了不起的成就，
+
+在绘画或陶器中出现，
+
+就会像不变的剑
+
+由父传子代代相传
+
+经过许多个世纪。
+
+灵魂之美最受崇拜，
+
+人们和他们的业绩
+
+呈现心灵不变的容貌；
+
+最富有的传人知道
+
+爱粗劣艺术的人
+
+谁也过不了天堂之门，
+
+他有一颗痛楚的心
+
+虽然全国人称颂
+
+他的丝衣和高贵步容，
+
+他的神志清醒：
+
+
+
+
+
+好像朱诺的孔雀尖鸣。[6]
+
+
+
+Ⅳ
+
+我的后代
+
+从祖先承接了一个活跃的头脑，
+
+我必须培育许多的幻想，
+
+
+
+
+
+在身后留下一男一女，[7]
+
+
+
+也同样头脑活跃，但生命
+
+很少给风送去芳香，
+
+
+
+很少使晨光照耀万丈，
+
+而是满园充塞落下的花瓣，
+
+随后不过是平凡的青草一片。
+
+
+
+
+
+怎么办，如我后代丧失了花朵，
+
+由于天生的衰落的心灵，
+
+过多的瞬间即逝的俗务，
+
+过多的玩乐，或与蠢人结婚？
+
+愿这累人的楼梯，这黑暗的塔楼，
+
+成为无顶的废墟，让猫头鹰
+
+在破裂的墙垣间筑巢，
+
+为她的孤寂向孤寂的天空哀号。
+
+
+
+
+
+那个缔造我们的原动天，[8]
+
+
+
+它使猫头鹰成圈飞行，
+
+而我，自以为最成功，
+
+既然有了足够的友谊爱情，
+
+选了这住宅是为了老邻居的情谊，
+
+装修改建是为了一个女子的爱情，
+
+我知道不管将来兴盛或败衰，
+
+这些石头仍是他们和我的纪念碑。
+
+Ⅴ
+
+我门边的路
+
+一个和善的非正规军，
+
+
+
+
+
+胖胖的福尔斯塔夫人物，[9]
+
+
+
+走过来，讲着内战的笑容，
+
+好像，给枪弹打死
+
+是太阳下最好玩的事。
+
+
+
+
+
+黑棕色的中尉和兵士
+
+半身穿着国军制服，
+
+站在我门口，我抱怨
+
+坏天气、霰和雨，
+
+梨树根被风暴打断。
+
+
+
+
+
+我计算那些有羽毛的黑煤球，
+
+溪中漫游的赤松鸡
+
+以平息我心中的妒嫉；
+
+转身走向卧室，卷入
+
+一场梦的冰天雪地。
+
+Ⅵ
+
+我窗边的燕八哥巢
+
+
+
+蜂群在松散的墙垣空隙
+
+筑巢，那里母鸟们
+
+弄来虫子和枝条。
+
+我的墙松散了，蜜蜂们
+
+来燕八哥的空屋筑巢吧。
+
+
+
+
+
+我们给关在里面，
+
+钥匙何时转，我们不知道，
+
+什么地方人被杀，房被烧，
+
+无清楚事实可以知晓；
+
+来燕八哥的空屋筑巢吧。
+
+
+
+
+
+一道石头或木头的路障，
+
+十四天左右的内战，
+
+昨夜他们推着车运来
+
+一个青年士兵血迹斑斑；
+
+来燕八哥的空屋筑巢吧。
+
+
+
+
+
+我们的心为狂想哺养，
+
+这种食粮使心残暴，
+
+我们仇恨的质量
+
+超过了我们的爱；蜜蜂啊，
+
+来燕八哥的空屋筑巢吧。
+
+Ⅶ
+
+我看见仇恨的幻影，
+
+内心充实和未来空虚的幻影
+
+
+
+我爬上塔顶，倚靠着破碎的石头，
+
+一阵雾像灰暗的雪正横扫一切，
+
+月光下的山，河，榆树，
+
+月亮不像它自己，像是不可改变的
+
+从东方伸出的闪亮的剑，一阵风
+
+把雾的又白又亮的碎片吹过去。
+
+
+
+狂想惊心，奇思迷魂，
+
+古怪熟悉的意象涌到心灵的眼前。
+
+
+
+
+
+“向谋杀者报仇！”呼声起来了，
+
+
+
+
+
+“为雅克·莫雷报仇！”身穿白衣或白纱，[10]
+
+
+
+被狂怒驱策、折磨、刺激的群众，
+
+群众攻打群众，咬手臂和脸，
+
+扑向虚无，臂和指到处横伸，
+
+拥抱虚无，而我神昏志迷，
+
+因为这些无聊的动乱，也几乎大叫：
+
+为杀害雅克·莫雷者复仇。
+
+
+
+
+
+他们的腿修长纤细，眼睛蔚蓝，
+
+神奇的独角兽背上驮着姑娘，
+
+姑娘们合上沉思的眼。没有预言，
+
+从巴比伦历史中回想起来的，
+
+已使她们合上眼，她们的心灵不过是
+
+池子，在那里渴望因过重而淹死。
+
+寂静外什么也留不住，当心灵
+
+充满本身的温柔，肉体充满自己的健美。
+
+
+
+
+
+淡白色的独角兽，蔚蓝的眼睛，
+
+颤动的半闭的眼睑，云或纱的残片，
+
+因狂怒而发亮的眼睛，而变瘦的臂膀，
+
+让位给不关心的群众，让位给
+
+凶恶的鹰。不是自得其乐的幻想，
+
+不是对未来的仇恨、对过去的怜悯，
+
+只有爪子的紧抓、眼中的自满，
+
+
+
+无尽铿锵的翅膀声遮住了月亮。
+
+
+
+
+
+我转过身关上门，楼梯上我怀疑
+
+多少次在别人都了解或分担的事中
+
+我可能证明我的价值；
+
+可是，雄心啊，如这种证明
+
+吸引了一批朋友，一颗自在的良心，
+
+它只会给我们添懊恼。抽象的欢乐，
+
+魔鬼形象的半谙的智慧，
+
+可以满足老人就像过去满足过成长的小孩。
+
+
+
+
+
+[1] 《 英爱条约》于1921年12月6日在伦敦签订后，爱尔兰共和派拒不接受，因此爆发了1922—1923年共和派与爱尔兰自由邦政府之间的内战。
+
+
+
+
+
+[2]  朱诺：罗马神话中的天后兼妇女保护神。
+
+
+
+
+
+[3] 《 沉思的人》：英国诗人约翰·弥尔顿（1608—1674）的一首长诗。
+
+
+
+
+
+[4]  日本外交官佐藤纯造（1897—？）于1920年3月赠送叶芝一把家传宝剑。
+
+
+
+
+
+[5]  杰弗里·乔叟（约1340—1400）：英国诗人。
+
+
+
+
+
+[6]  孔雀象征长生不老，孔雀哀鸣则表示一个文明时代即将结束。
+
+
+
+
+
+[7]  一男一女：指女儿安和儿子麦克尔。
+
+
+
+
+
+[8]  原动天：古埃及天文学家托勒密天动说中第十层天，带动所有天体运转。
+
+
+
+
+
+[9]  福尔斯塔夫人物：莎士比亚喜剧中的人物。
+
+
+
+
+
+[10]  由于圣殿骑士团团长被害而要求复仇的呼声，叶芝认为是出于仇恨但劳而无功之举。
+
+
+
+
+
+Leda and the Swan
+
+
+A sudden blow: the great wings beating still
+
+Above the staggering girl, her thighs caressed
+
+By the dark webs, her nape caught in his bill,
+
+He holds her helpless breast upon his breast.
+
+
+
+
+
+How can those terrified vague fingers push
+
+The feathered glory from her loosening thighs?
+
+And how can body, laid in that white rush,
+
+But feel the strange heart beating where it lies?
+
+
+
+
+
+A shudder in the loins engenders there
+
+The broken wall, the burning roof and tower
+
+And Agamemnon dead.
+
+          Being so caught up,
+
+So mastered by the brute blood of the air,
+
+Did she put on his knowledge with his power
+
+Before the indifferent beak could let her drop?
+
+
+
+
+
+1923
+
+
+
+
+
+丽达和天鹅[1]
+
+
+
+猛然一击，那摇晃的女子身上
+
+巨翅仍在拍打，黑羽压上
+
+她的大腿，他的喙咬住她脐心
+
+他用胸顶住她无助的乳房。
+
+
+
+
+
+这些受惊的无措的指头怎能
+
+从她松开的大腿推走茂盛的羽毛？
+
+那肉体，躺在一片洁白中
+
+怎能不感到奇异心脏的搏跳？
+
+
+
+
+
+腰股间的一阵颤栗带来
+
+墙坍，房顶和塔楼燃烧，
+
+
+
+
+
+阿伽门农死了。[2]
+
+
+
+   如此被抓获，
+
+被空中飞来的野种所制伏？
+
+在无情的喙放开她之前
+
+她是否从他的力量获得了知识？
+
+
+
+
+
+[1]  据古希腊神话记载，斯巴达王后丽达被化成天鹅的宙斯强奸而生下海伦，后海伦和帕里斯私奔，引起特洛伊战争和城邦的毁灭。
+
+
+
+
+
+[2]  希腊联军统帅阿伽门农归国后被其妻谋杀。
+
+
+
+
+
+Among School Children
+
+
+I
+
+I walk through the long schoolroom questioning;
+
+A kind old nun in a white hood replies;
+
+The children learn to cipher and to sing,
+
+To study reading-books and histories,
+
+To cut and sew, be neat in everything
+
+In the best modern way—the children's eyes
+
+In momentary wonder stare upon
+
+A sixty-year-old smiling public man.
+
+II
+
+I dream of a Ledaean body, bent
+
+Above a sinking fire. a tale that she
+
+Told of a harsh reproof, or trivial event
+
+That changed some childish day to tragedy—
+
+Told, and it seemed that our two natures blent
+
+Into a sphere from youthful sympathy,
+
+Or else, to alter Plato's parable,
+
+Into the yolk and white of the one shell.
+
+
+
+III
+
+And thinking of that fit of grief or rage
+
+I look upon one child or t'other there
+
+And wonder if she stood so at that age—
+
+For even daughters of the swan can share
+
+Something of every paddler's heritage—
+
+And had that colour upon cheek or hair,
+
+And thereupon my heart is driven wild:
+
+She stands before me as a living child.
+
+IV
+
+Her present image floats into the mind—
+
+Did Quattrocento finger fashion it
+
+Hollow of cheek as though it drank the wind
+
+And took a mess of shadows for its meat?
+
+And I though never of Ledaean kind
+
+Had pretty plumage once—enough of that,
+
+Better to smile on all that smile, and show
+
+There is a comfortable kind of old scarecrow.
+
+V
+
+What youthful mother, a shape upon her lap
+
+Honey of generation had betrayed,
+
+
+
+And that must sleep, shriek, struggle to escape
+
+As recollection or the drug decide,
+
+Would think her son, did she but see that shape
+
+With sixty or more winters on its head,
+
+A compensation for the pang of his birth,
+
+Or the uncertainty of his setting forth?
+
+VI
+
+Plato thought nature but a spume that plays
+
+Upon a ghostly paradigm of things;
+
+Solider Aristotle played the taws
+
+Upon the bottom of a king of kings;
+
+World-famous golden-thighed Pythagoras
+
+Fingered upon a fiddle-stick or strings
+
+What a star sang and careless Muses heard:
+
+Old clothes upon old sticks to scare a bird.
+
+VII
+
+Both nuns and mothers worship images,
+
+But those the candles light are not as those
+
+That animate a mother's reveries,
+
+But keep a marble or a bronze repose.
+
+And yet they too break hearts—O Presences
+
+That passion, piety or affection knows,
+
+
+
+And that all heavenly glory symbolise—
+
+O self-born mockers of man's enterprise;
+
+VIII
+
+Labour is blossoming or dancing where
+
+The body is not bruised to pleasure soul,
+
+Nor beauty born out of its own despair,
+
+Nor blear-eyed wisdom out of midnight oil.
+
+O chestnut-tree, great-rooted blossomer,
+
+Are you the leaf, the blossom or the bole?
+
+O body swayed to music, O brightening glance,
+
+How can we know the dancer from the dance?
+
+
+
+
+
+在学童中间[1]
+
+
+
+1
+
+我走过漫长的教室，问东问西，
+
+戴白头巾的好心老修女来答问：
+
+儿童要学习唱歌和书写的技艺，
+
+还要学历史和各种的读本，
+
+要学习剪裁和缝纫，一切要整齐，
+
+最摩登的样式——孩子们的眼神
+
+出于那一时的好奇，目不转睛
+
+注视这六十岁微笑的名人。
+
+2
+
+
+
+
+
+我梦见有一个丽达那样的身子，[2]
+
+
+
+俯伏在快要熄灭的炉子上，
+
+让一个挨臭骂或者无聊的故事，
+
+使童年的一天变成了忧伤——
+
+仿佛为年轻人那种同情所驱使，
+
+
+
+我们的两颗心交融成一颗，
+
+
+
+
+
+或者改一下柏拉图的那一个比方，[3]
+
+
+
+化成了蛋壳中的蛋白和蛋黄。
+
+3
+
+想起了那一阵我们的悲伤和气愤，
+
+我瞧瞧这孩子，望望那儿童，
+
+猜想她当年可也是那一副神情，
+
+有那种颜色的头发和脸容——
+
+
+
+
+
+因为即使是天鹅的女儿也有份，[4]
+
+
+
+每一个摇摆而行者的习性。
+
+这时刻我的心灵狂乱地跳动：
+
+她就在我眼前，一个活儿童。
+
+4
+
+她目前的形象飘进了我的心中，
+
+是十五世纪艺术家的造型，
+
+她两颊深陷好似吸着一股风，
+
+
+
+
+
+把一堆阴影当作了食品？[5]
+
+
+
+虽说我从不是丽达那样的品种，
+
+
+
+也有过美丽的羽毛——算了吧，
+
+还不如对所有微笑的人们微笑，
+
+显示出老稻草人也过得很好。
+
+5
+
+哪一个年轻的母亲膝上抱个人，
+
+
+
+
+
+他就是生殖之蜜的产品，[6]
+
+
+
+他必须睡呀，叫呀，挣扎着求存，
+
+
+
+
+
+按照那记忆或药物的决定；[7]
+
+
+
+她要是看到堆积在那人的头顶，
+
+六十个或更多个冬天的白雪，
+
+会不会感到她儿子如今已报偿
+
+生他的痛苦和前途的渺茫？
+
+6
+
+柏拉图认为自然不过是泡沫，
+
+
+
+
+
+在事物的幽灵般的变幻图中嬉戏，[8]
+
+
+
+亚里士多德更实际，拿起了鞭子，
+
+
+
+
+
+抽打那王者之王的下体，[9]
+
+
+
+全球闻名的长着金股骨的毕达哥拉斯，
+
+用手指拉动提琴弓、弦乐器，
+
+
+
+
+
+奏出星之歌，被无心的诗神听到：[10]
+
+
+
+
+
+老拐杖披着破衣裳吓唬小鸟。[11]
+
+
+
+7
+
+修女们，母亲们，她们都崇拜形象，
+
+但烛光照亮的形象并不能
+
+激发起一个母亲的奇思和狂想，
+
+而只使大理石像或铜像安生。
+
+但它们也叫人心碎——种种形象，
+
+为爱情、虔诚和母爱所熟知。
+
+还有为一切至上的光荣所象征——
+
+
+
+
+
+啊，对人类自身的嘲弄。[12]
+
+
+
+
+
+8
+
+
+
+
+
+劳作也就是开花或者舞蹈，[13]
+
+
+
+躯体不为讨好灵魂而受害，
+
+美丽也不是自我绝望所制造，
+
+
+
+
+
+夜读不产生两眼模糊的智慧。[14]
+
+
+
+栗树啊，树根粗壮的花朵开放着，
+
+你就是叶子，花朵，或树身？
+
+随乐曲晃动的躯体，明亮的眼神，
+
+
+
+
+
+怎叫人把舞者和舞蹈分清？[15]
+
+
+
+
+
+[1]  1926年，叶芝以议员身份视察了华脱福特地方一所修女学校，他想起自己一生追求的毛特·冈当年可能也就像这些学童中的一个，由此联想翩翩，写成此诗。
+
+
+
+
+
+[2]  丽达：希腊神话中美女海伦之母，影射毛特·冈。
+
+
+
+
+
+[3]  在柏拉图的《对话录》中，有人在解释爱情的起源时引述了一个传说：据说在宙斯以前，一个人的形体是现时的两倍，由于宙斯害怕他们体力过强，决定将人分成两半，从此这一半永远追求着那一半。
+
+
+
+
+
+[4]  天鹅：据希腊神话，宙斯化作天鹅向丽达求爱，后生海伦，叶芝以此比喻毛特·冈。
+
+
+
+
+
+[5]  指毛特年老后双颊深陷的情状。
+
+
+
+
+
+[6]  叶芝在本诗注文中说：我是从波弗里俄斯（古希腊哲学家，约公元232—305）的文章《仙女洞》采用“生殖之蜜”一词的，但没有找到他根据什么把它看作摧毁关于生前自由的“记忆”的“药物”。
+
+
+
+
+
+[7]  按照“记忆”，他有生前的自由；按照“药物”，这种“记忆”就被摧毁，他没有生前的自由。
+
+
+
+
+
+[8]  柏拉图认为事物不过是永恒理念的影子。
+
+
+
+
+
+[9]  亚里士多德重视对现象的考察，他曾任美索不达米亚腓力普王之子（即后来的亚历山大大帝）的教习。
+
+
+
+
+
+[10]  古希腊哲学家毕达哥拉斯据说长着金股骨。他认为宇宙具有数学的规律性，例如音乐的和谐就表现出精确的数字规律。“无心的诗神”可能指叶芝自己。
+
+
+
+
+
+[11]  哲学家不管创造了什么理论，不过是吓唬鸟儿的稻草人。
+
+
+
+
+
+[12]  烛照亮的雕像不过是“真实”的影子，并非真实本身，因此不能激动人心，只能叫人心碎，对人类起嘲弄的作用。
+
+
+
+
+
+[13]  意谓血肉之躯的生活也是人生整体不可缺少的部分，它和精神生活统一，就像花与枝叶、舞者与舞蹈合为一体。
+
+
+
+
+
+[14]  这三句极言灵与肉、精神与物质必须统一。肉体不应为灵魂而受损，精神绝望不会产生肉体的美丽，夜读使两眼模糊也不可能带来智慧。
+
+
+
+
+
+[15]  栗树的叶子、花朵和树身不可分，就如灵与肉不可分，舞者与舞蹈不可分。
+
+
+
+
+
+A Man Young and Old
+
+
+I
+
+First Love
+
+Though nurtured like the sailing moon
+
+In beauty's murderous brood,
+
+She walked awhile and blushed awhile
+
+And on my pathway stood
+
+Until I thought her body bore
+
+A heart of flesh and blood.
+
+
+
+
+
+But since I laid a hand thereon
+
+And found a heart of stone
+
+I have attempted many things
+
+And not a thing is done,
+
+For every hand is lunatic
+
+That travels on the moon.
+
+
+
+
+
+She smiled and that transfigured me
+
+And left me but a lout,
+
+Maundering here, and maundering there,
+
+Emptier of thought
+
+Than the heavenly circuit of its stars
+
+
+
+When the moon sails out.
+
+II
+
+Human Dignity
+
+Like the moon her kindness is,
+
+If kindness I may call
+
+What has no comprehension in't,
+
+But is the same for all
+
+As though my sorrow were a scene
+
+Upon a painted wall.
+
+
+
+
+
+So like a bit of stone I lie
+
+Under a broken tree.
+
+I could recover if I shrieked
+
+My heart's agony
+
+To passing bird, but I am dumb
+
+From human dignity.
+
+III
+
+The Mermaid
+
+A mermaid found a swimming lad,
+
+Picked him for her own,
+
+Pressed her body to his body,
+
+Laughed; and plunging down
+
+
+
+Forgot in cruel happiness
+
+That even lovers drown.
+
+IV
+
+The Death of the Hare
+
+I have pointed out the yelling pack,
+
+The hare leap to the wood,
+
+And when I pass a compliment
+
+Rejoice as lover should
+
+At the drooping of an eye,
+
+At the mantling of the blood.
+
+
+
+
+
+Then suddenly my heart is wrung
+
+By her distracted air
+
+And I remember wildness lost
+
+And after, swept from there,
+
+Am set down standing in the wood
+
+At the death of the hare.
+
+V
+
+The Empty Cup
+
+A crazy man that found a cup,
+
+When all but dead of thirst,
+
+Hardly dared to wet his mouth
+
+
+
+Imagining, moon-accursed,
+
+That another mouthful
+
+And his beating heart would burst.
+
+October last I found it too
+
+But found it dry as bone,
+
+And for that reason am I crazed
+
+And my sleep is gone.
+
+VI
+
+His Memories
+
+We should be hidden from their eyes,
+
+Being but holy shows
+
+And bodies broken like a thorn
+
+Whereon the bleak north blows,
+
+To think of buried Hector
+
+And that none living knows.
+
+
+
+
+
+The women take so little stock
+
+In what I do or say
+
+They'd sooner leave their cosseting
+
+To hear a jackass bray;
+
+My arms are like the twisted thorn
+
+And yet there beauty lay;
+
+
+
+
+
+The first of all the tribe lay there
+
+And did such pleasure take—
+
+She who had brought great Hector down
+
+
+
+And put all Troy to wreck—
+
+That she cried into this ear,
+
+'Strike me if I shriek.'
+
+VII
+
+The Friends of his Youth
+
+Laughter not time destroyed my voice
+
+And put that crack in it,
+
+And when the moon's pot-bellied
+
+I get a laughing fit,
+
+For that old Madge comes down the lane,
+
+A stone upon her breast,
+
+And a cloak wrapped about the stone,
+
+And she can get no rest
+
+With singing hush and hush-a-bye;
+
+She that has been wild
+
+And barren as a breaking wave
+
+Thinks that the stone's a child.
+
+
+
+
+
+And Peter that had great affairs
+
+And was a pushing man
+
+Shrieks, 'I am King of the Peacocks,'
+
+And perches on a stone;
+
+And then I laugh till tears run down
+
+And the heart thumps at my side,
+
+Remembering that her shriek was love
+
+And that he shrieks from pride.
+
+
+
+VIII
+
+Summer and Spring
+
+We sat under an old thorn-tree
+
+And talked away the night,
+
+Told all that had been said or done
+
+Since first we saw the light,
+
+And when we talked of growing up
+
+Knew that we'd halved a soul
+
+And fell the one in t'other's arms
+
+That we might make it whole;
+
+Then Peter had a murdering look,
+
+For it seemed that he and she
+
+Had spoken of their childish days
+
+Under that very tree.
+
+O what a bursting out there was,
+
+And what a blossoming,
+
+When we had all the summer-time
+
+And she had all the spring!
+
+IX
+
+The Secrets of the Old
+
+I have old women's secrets now
+
+That had those of the young;
+
+Madge tells me what I dared not think
+
+When my blood was strong,
+
+And what had drowned a lover once
+
+
+
+Sounds like an old song.
+
+
+
+
+
+Though Margery is stricken dumb
+
+If thrown in Madge's way,
+
+We three make up a solitude;
+
+For none alive to-day
+
+Can know the stories that we know
+
+Or say the things we say:
+
+
+
+
+
+How such a man pleased women most
+
+Of all that are gone,
+
+How such a pair loved many years
+
+And such a pair but one,
+
+Stories of the bed of straw
+
+Or the bed of down.
+
+X
+
+His Wildness
+
+O bid me mount and sail up there
+
+Amid the cloudy wrack,
+
+For Peg and Meg and Paris' love
+
+That had so straight a back,
+
+Are gone away, and some that stay
+
+Have changed their silk for sack.
+
+
+
+
+
+Were I but there and none to hear
+
+I'd have a peacock cry,
+
+
+
+For that is natural to a man
+
+That lives in memory,
+
+Being all alone I'd nurse a stone
+
+And sing it lullaby.
+
+
+
+
+
+一个男人：青年和老年
+
+Ⅰ
+
+初恋
+
+虽然像飘行的月亮
+
+她受美之残酷的孕育，
+
+她一会儿走路，一会儿脸红，
+
+在我小路上站着，
+
+直到我以为她的身上
+
+长着一颗心，有血有肉。
+
+
+
+
+
+自从我把手往上一放，
+
+发现一副铁石心肠，
+
+我试图做许多事情，
+
+没有一件成功，
+
+因为在月亮上摸索，
+
+每只手都会发疯。
+
+
+
+
+
+她一笑使我起了变化，
+
+只成为一个蠢人，
+
+这里晃晃，那里荡荡，
+
+与月亮逝去后的群星
+
+在天上的运转相比，
+
+
+
+我的思想更空虚。
+
+Ⅱ
+
+人的自尊
+
+
+
+她的善良如月亮
+
+如果我可以把没内容的
+
+东西叫做善良，
+
+它对谁都一个样，
+
+好像我的痛苦如一幅画
+
+挂上了粉刷过的墙。
+
+
+
+
+
+因此我像一小块石头
+
+躺在断树下面，
+
+我能复原如我
+
+对飞过的鸟叫鸣
+
+我心中的苦恼，但我哑了，
+
+出于人的自尊。
+
+
+
+
+
+Ⅲ
+
+美人鱼
+
+
+
+美人鱼找到了游水的少年，
+
+把他当作自己的东西，
+
+用她身子紧紧抱他，
+
+笑着，直往水中跳去，
+
+在残忍的快乐中忘了
+
+即使情人也会溺毙。
+
+
+
+Ⅳ
+
+野兔之死
+
+我向吼叫的人群指出，
+
+一只野兔跳入丛林，
+
+我说了句奉承话，
+
+一个情人就会高兴，
+
+看到眼睛低垂，
+
+看到血液上升。
+
+
+
+
+
+突然我的心紧缩，
+
+由于她失神的模样，
+
+我想起失去的狂野，
+
+然后匆匆离开那地方，
+
+在树林中安心站定，
+
+寻思那野兔的死亡。
+
+Ⅴ
+
+空杯
+
+
+
+几乎干渴得要死，
+
+一个疯子找到了杯子，
+
+却不敢让嘴唇沾湿，
+
+想象着，受月亮诅咒，
+
+再喝一大口，
+
+他跳着的心会破裂。
+
+去年十月我也找到一个，
+
+发现它干涸如骨头，
+
+
+
+为此我发了疯，
+
+再也睡不成。
+
+Ⅵ
+
+他的记忆
+
+我们该藏起来，不让他们见，
+
+不过是神圣的展现
+
+像被凄厉的北风吹打
+
+断裂的荆棘的枝干，
+
+去思念被埋葬的赫克托尔
+
+和活人谁也不知的事件。
+
+
+
+
+
+女人们并不看重
+
+我做的或说的事情，
+
+她们宁可丢下宠物，
+
+去听一只公驴嘶鸣，
+
+我的胳臂如弯曲的荆棘，
+
+但美人就在那里安寝。
+
+
+
+
+
+全部落第一美人在那儿安寝，
+
+如此大的欢乐她得到——
+
+她打倒了伟大的赫克托尔，
+
+把整个特洛伊城毁掉—
+
+“如我尖叫，你就打我！”
+
+她向我这只耳朵喊道。
+
+
+
+Ⅶ
+
+他青年时代的朋友
+
+是欢笑而非时间毁了我的嗓子，
+
+使它带着嘶哑之声，
+
+当月亮鼓起肚子，
+
+我就会大笑不停，
+
+因为老梅琪从巷子下来，
+
+胸前抱着一块石头，
+
+一件外衣裹着石头，
+
+她唱着宝宝睡呀睡，
+
+唱个无止无休；
+
+她曾经狂而不育，
+
+像散裂的波浪，
+
+以为石头就是儿郎。
+
+
+
+
+
+彼得有过惊人的艳遇，
+
+他敢打敢闯，
+
+他叫道：“我乃孔雀之王，”
+
+然后栖身石上；
+
+那时我笑得眼泪直流，
+
+胸膛的心儿直跳，
+
+想到她叫是为了爱情，
+
+他叫是为了骄傲。
+
+Ⅷ
+
+夏和春
+
+
+
+用谈话将夜晚消磨，
+
+我们坐在老荆棘树下，
+
+讲到自我们诞生以来，
+
+做过的事，说过的话；
+
+我们讲到长大成人
+
+知道已把灵魂对分，
+
+两双臂互相拥抱，
+
+以求整合为一个心灵；
+
+接着彼得脸有难色，
+
+因为看来他和她
+
+谈到了他们的幼年，
+
+曾在那一棵树下，
+
+呵，那时节多欢畅奔放，
+
+多么繁花如妍，
+
+当我们拥有全部盛夏，
+
+她拥有整个春天。
+
+Ⅸ
+
+老年人的秘密
+
+如今我懂得老妇人的秘密，
+
+我曾知道年轻人的勾当，
+
+梅琪告诉我不敢想的事。
+
+当我还年轻血气旺，
+
+我淹死过一个情人，
+
+这听来像一支老歌在唱。
+
+
+
+
+
+玛吉莱要是碰上了梅琪，
+
+
+
+她会吓得一口哑，
+
+我们三个沉寂无话；
+
+今天活着的没有谁
+
+能知道我们知道的故事，
+
+或讲我们讲过的话。
+
+
+
+
+
+在所有过去的人中，
+
+这样的男人怎样最使女人欢畅，
+
+这样的一对怎样相爱多少年，
+
+也就这么一双；
+
+稻草垫床的故事，
+
+或用羽毛垫床。
+
+Ⅹ
+
+他的狂劲儿
+
+呵，让我跳上或飘升
+
+到散乱的云层，
+
+因为伯格、麦格或帕里斯的情人
+
+腰板直挺挺，
+
+他们都已逝去，
+
+留下的把丝绸换了麻巾。
+
+
+
+
+
+要是我在场，无人听见，
+
+我会让孔雀嘶鸣，
+
+对一个生活在记忆中的人，
+
+这是自然的事情，
+
+孤独中，我会养育一块石头，
+
+
+
+唱安眠曲给它听。
+
+
+
+
+
+⋯⋯⋯⋯
+
+
+
+
+
+Spilt Milk
+
+
+We that have done and thought,
+
+That have thought and done,
+
+Must ramble, and thin out
+
+Like milk spilt on a stone.
+
+
+
+
+
+撒了的奶
+
+我们有所为、有所思的人，
+
+我们有所思、有所为的人，
+
+必须慢慢走，越来越稀罕，
+
+就像一碗奶，抛撒岩石间。
+
+
+
+
+
+Coole Park and Ballylee, 1931
+
+
+Under my window-ledge the waters race,
+
+Otters below and moor-hens on the top,
+
+Run for a mile undimmed in Heaven's face
+
+Then darkening through 'dark' Raftery's 'cellar' drop,
+
+Run underground, rise in a rocky place
+
+In Coole demesne, and there to finish up
+
+Spread to a lake and drop into a hole.
+
+What's water but the generated soul?
+
+
+
+
+
+Upon the border of that lake's a wood
+
+Now all dry sticks under a wintry sun,
+
+And in a copse of beeches there I stood,
+
+For Nature's pulled her tragic buskin on
+
+And all the rant's a mirror of my mood:
+
+At sudden thunder of the mounting swan
+
+I turned about and looked where branches break
+
+The glittering reaches of the flooded lake.
+
+
+
+
+
+Another emblem there! That stormy white
+
+But seems a concentration of the sky;
+
+And, like the soul, it sails into the sight
+
+And in the morning's gone, no man knows why;
+
+And is so lovely that it sets to right
+
+What knowledge or its lack had set awry,
+
+So arrogantly pure, a child might think
+
+
+
+It can be murdered with a spot of ink.
+
+
+
+
+
+Sound of a stick upon the floor, a sound
+
+From somebody that toils from chair to chair;
+
+Beloved books that famous hands have bound,
+
+Old marble heads, old pictures everywhere;
+
+Great rooms where travelled men and children found
+
+Content or joy; a last inheritor
+
+Where none has reigned that lacked a name and fame
+
+Or out of folly into folly came.
+
+
+
+
+
+A spot whereon the founders lived and died
+
+Seemed once more dear than life; ancestral trees,
+
+Or gardens rich in memory glorified
+
+Marriages, alliances and families,
+
+And every bride's ambition satisfied.
+
+Where fashion or mere fantasy decrees
+
+We shift about—all that great glory spent—
+
+Like some poor Arab tribesman and his tent.
+
+
+
+
+
+We were the last romantics—chose for theme
+
+Traditional sanctity and loveliness;
+
+Whatever's written in what poets name
+
+The book of the people; whatever most can bless
+
+The mind of man or elevate a rhyme;
+
+But all is changed, that high horse riderless,
+
+Though mounted in that saddle Homer rode
+
+Where the swan drifts upon a darkening flood.
+
+
+
+
+
+柯尔庄园和贝列里，1931年[1]
+
+
+
+我窗架之下河水奔流，
+
+下面有水獭，上面有红松鸡，
+
+在苍天面前明亮地流了一里地，
+
+然后暗下来流经雷夫第雷“黑”地窖，
+
+流过地下，在山岩间升上来
+
+进入柯尔界内结束，
+
+扩展为湖，流入一个洞穴，
+
+这河水不就是繁殖而生的灵魂？
+
+
+
+
+
+那湖的丛林的边上，
+
+冬日下如今成了一堆干枝，
+
+我站在山毛榉的小林中，
+
+大自然已在扮演悲剧，
+
+一切狂叫都反映我的心情：
+
+飞升的天鹅一阵突兀的轰鸣，
+
+我转过身，望着树枝断裂
+
+泛滥湖水的闪烁的波纹。
+
+
+
+
+
+那是又一个表征！那一片凶猛的白色
+
+看来不过像一片天空的凝集，
+
+像灵魂，它驶入视界，
+
+无人知晓，一到早晨消失；
+
+如此可爱，它校正了
+
+
+
+知识有无造成的偏执，
+
+如此高傲地纯洁，一个孩子会想
+
+用一滴墨水把它消灭。
+
+
+
+
+
+地面上一根手杖的声音，那声音
+
+来自从椅子到椅子劳作不息的人；
+
+著名的手工装订的可爱书籍，
+
+到处是古老的大理石头像，古老的画；
+
+豪华的房间，在其中游人和孩子们
+
+得到满足和快乐，一位最后继承人，
+
+那里的统治者无不有英名和荣名，
+
+或者是走出愚昧又进入愚昧的人。
+
+
+
+
+
+这建设者生活或死亡的地方
+
+一度被看作比生命更宝贵；祖先的树，
+
+或富有纪念意义的园庭
+
+使婚姻、联盟和家族荣耀，
+
+满足了每个新娘的野心。
+
+而时尚或仅仅幻想促使我们
+
+东奔西走——失去了所有的巨大光荣——
+
+就像可怜的阿拉伯部族和帐篷。
+
+
+
+
+
+我们是最后的浪漫派了——选择
+
+传统的圣洁和优美为主题，
+
+写诗人称为人民之书的一切作品，
+
+做最有益于人类心智的事物
+
+或改进一个脚韵；
+
+但一切都改变了，而高马已无骑手，
+
+虽然登上了荷马坐过的马鞍，
+
+
+
+当天鹅在越来越暗的波涛中漂流。
+
+
+
+
+
+[1]  叶芝称自己的塔楼为“贝列里”，坐落在柯尔庄园附近。
+
+
+
+
+
+Byzantium
+
+
+The unpurged images of day recede;
+
+The Emperor's drunken soldiery are abed;
+
+Night resonance recedes, night-walkers' song
+
+After great cathedral gong;
+
+A starlit or a moonlit dome disdains
+
+All that man is,
+
+All mere complexities,
+
+The fury and the mire of human veins.
+
+
+
+
+
+Before me floats an image, man or shade,
+
+Shade more than man, more image than a shade;
+
+For Hades' bobbin bound in mummy-cloth
+
+May unwind the winding path;
+
+A mouth that has no moisture and no breath
+
+Breathless mouths may summon;
+
+I hail the superhuman;
+
+I call it death-in-life and life-in-death.
+
+
+
+
+
+Miracle, bird or golden handiwork,
+
+More miracle than bird or handiwork,
+
+Planted on the star-lit golden bough,
+
+Can like the cocks of Hades crow,
+
+Or, by the moon embittered, scorn aloud
+
+In glory of changeless metal
+
+Common bird or petal
+
+
+
+And all complexities of mire or blood.
+
+
+
+
+
+At midnight on the Emperor's pavement flit
+
+Flames that no faggot feeds, nor steel has lit,
+
+Nor storm disturbs, flames begotten of flame,
+
+Where blood-begotten spirits come
+
+And all complexities of fury leave,
+
+Dying into a dance,
+
+An agony of trance,
+
+An agony of flame that cannot singe a sleeve.
+
+
+
+
+
+Astraddle on the dolphin's mire and blood,
+
+Spirit after spirit! The smithies break the flood,
+
+The golden smithies of the Emperor!
+
+Marbles of the dancing floor
+
+Break bitter furies of complexity,
+
+Those images that yet
+
+Fresh images beget,
+
+That dolphin-torn, that gong-tormented sea.
+
+
+
+
+
+1930
+
+
+
+
+
+拜占庭[1]
+
+
+
+白昼的未被净化的意象后退，
+
+皇帝和喝醉了的士兵上床睡，
+
+夜声消散，夜行者的歌声
+
+跟随在大教堂的钟声后面；
+
+一个星光或月光照亮的穹顶
+
+蔑视人的一切，
+
+全部无谓的乱七八糟，
+
+人类血气的污泥和狂躁。
+
+
+
+
+
+我面前飘过一个意象，人或阴影，
+
+比人更像阴影，比阴影更像意象；
+
+冥王的裹着尸衣的线轴
+
+
+
+
+
+也许能解开那缠来绕去的路，[2]
+
+
+
+一张没有水气或呼吸的嘴，
+
+没有呼吸的嘴也许会召唤；
+
+我向超人打招呼，
+
+称它为生中之死，死中之生。
+
+
+
+
+
+奇迹，鸟或金制的手工艺品，
+
+比鸟和手工艺更像是奇迹，
+
+放在星光照亮的金枝上，
+
+
+
+能像冥王的公鸡啼叫，
+
+或者被月亮激怒，
+
+以不变的金属的光荣
+
+大声嘲笑普通的鸟和花瓣，
+
+和全部污泥和血的混合物。
+
+
+
+
+
+午夜，皇帝的通道闪烁着火焰[3]
+
+
+
+那不是柴火哺育或钢铁点燃，
+
+也不是风暴惊扰，而是火焰产生火焰，
+
+那里血液产生的精灵来到，
+
+狂躁的全部混合物离开，
+
+
+
+
+
+消失于一个舞蹈中，[4]
+
+
+
+出神的一阵悲痛，
+
+不能烧焦衣袖之火的悲痛。
+
+
+
+
+
+骑上海豚的污血之躯，
+
+神灵接着神灵，铸锻坊截断了洪水，
+
+那皇帝的黄金铸锻坊！
+
+舞厅地面的大理石，
+
+打碎了混合体剧烈的狂躁；
+
+那些意象
+
+还在产生新意象，
+
+那个被海豚撕裂，钟声蹂躏的海洋。
+
+
+
+
+
+[1]  在叶芝眼中，拜占庭象征灵魂不朽、艺术永存的理想境地。他相信轮回学说，认为人的灵魂必须经过一而再的死亡和净化才能进入永存不朽的境界。
+
+
+
+
+
+[2]  冥王的线轴比喻灵魂，它降生于人世便为“经验”所束缚，不得自由。解开生的束缚，就是脱离尘世，走向永恒。
+
+
+
+
+
+[3]  传说拜占庭街角有磷火可净化死者的灵魂。
+
+
+
+
+
+[4]  日本歌剧中有少女在想象的罪恶之火中舞蹈的场景。
+
+
+
+
+
+Vacillation
+
+
+I
+
+Between extremities
+
+Man runs his course;
+
+A brand, or flaming breath,
+
+Comes to destroy
+
+All those antinomies
+
+Of day and night;
+
+The body calls it death,
+
+The heart remorse.
+
+But if these be right
+
+What is joy?
+
+II
+
+A tree there is that from its topmost bough
+
+Is half all glittering flame and half all green
+
+Abounding foliage moistened with the dew;
+
+And half is half and yet is all the scene;
+
+And half and half consume what they renew,
+
+And he that Attis' image hangs between
+
+
+
+That staring fury and the blind lush leaf
+
+May know not what he knows, but knows not grief.
+
+III
+
+Get all the gold and silver that you can,
+
+Satisfy ambition, animate
+
+The trivial days and ram them with the sun,
+
+And yet upon these maxims meditate:
+
+All women dote upon an idle man
+
+Although their children need a rich estate;
+
+No man has ever lived that had enough
+
+Of children's gratitude or woman's love.
+
+
+
+
+
+No longer in Lethean foliage caught
+
+Begin the preparation for your death
+
+And from the fortieth winter by that thought
+
+Test every work of intellect or faith,
+
+And everything that your own hands have wrought,
+
+And call those works extravagance of breath
+
+That are not suited for such men as come
+
+Proud, open-eyed and laughing to the tomb.
+
+IV
+
+My fiftieth year had come and gone,
+
+
+
+I sat, a solitary man,
+
+In a crowded London shop,
+
+An open book and empty cup
+
+On the marble table-top.
+
+
+
+
+
+While on the shop and street I gazed
+
+My body of a sudden blazed;
+
+And twenty minutes more or less
+
+It seemed, so great my happiness,
+
+That I was blessèd and could bless.
+
+V
+
+Although the summer sunlight gild
+
+Cloudy leafage of the sky,
+
+Or wintry moonlight sink the field
+
+In storm-scattered intricacy,
+
+I cannot look thereon,
+
+Responsibility so weighs me down.
+
+
+
+
+
+Things said or done long years ago,
+
+Or things I did not do or say
+
+But thought that I might say or do,
+
+Weigh me down, and not a day
+
+But something is recalled,
+
+My conscience or my vanity appalled.
+
+
+
+VI
+
+A rivery field spread out below,
+
+An odour of the new-mown hay
+
+In his nostrils, the great lord of Chou
+
+Cried, casting off the mountain snow,
+
+'Let all things pass away.'
+
+
+
+
+
+Wheels by milk-white asses drawn
+
+Where Babylon or Nineveh
+
+Rose; some conqueror or drew rein
+
+And cried to battle-weary men,
+
+'Let all things pass away.'
+
+
+
+
+
+From man's blood-sodden heart are sprung
+
+Those branches of the night and day
+
+Where the gaudy moon is hung.
+
+What's the meaning of all song?
+
+'Let all things pass away.'
+
+VII
+
+The Soul. Seek out reality, leave things that seem.
+
+The Heart. What, be a singer born and lack a theme?
+
+The Soul. Isaiah's coal, what more can man desire?
+
+The Heart. Struck dumb in the simplicity of fire!
+
+The Soul. Look on that fire, salvation walks within.
+
+The Heart. What theme had Homer but original sin?
+
+
+
+VIII
+
+Must we part, Von Hügel, though much alike, for we
+
+Accept the miracles of the saints and honour sanctity?
+
+The body of Saint Teresa lies undecayed in tomb,
+
+Bathed in miraculous oil, sweet odours from it come,
+
+Healing from its lettered slab. Those self-same hands
+
+  perchance
+
+Eternalised the body of a modern saint that once
+
+Had scooped out Pharaoh's mummy. I—though heart
+
+  might find relief
+
+Did I become a Christian man and choose for my belief
+
+What seems most welcome in the tomb—play a predestined
+
+  part.
+
+Homer is my example and his unchristened heart.
+
+The lion and the honeycomb, what has Scripture said?
+
+So get you gone, Von Hügel, though with blessings on your
+
+  head.
+
+
+
+
+
+1932
+
+
+
+
+
+摇 摆
+
+1
+
+一个人走他的路
+
+在许多极端之间，
+
+一个火炬，或灼燃的气息
+
+把这些黑夜和白天
+
+所有的对立物消灭；
+
+肉体称之为死亡，
+
+心灵称之为懊丧，
+
+如果这些都正确，
+
+什么才是欢乐？
+
+2
+
+一棵树从它最高的顶梢起，
+
+一半是闪烁的火焰，一半是绿荫，
+
+丰盛的树叶被露水沾湿，
+
+一半是一半，但又是全景，
+
+一半和一半把再生的耗尽，
+
+
+
+
+
+那个人把阿提斯形象挂在[1]
+
+
+
+瞪着眼的愤怒和盲目的绿荫当中，
+
+他可能不知其所知，但不知道忧心。
+
+3
+
+尽你所能去获得全部金银，
+
+满足野心，使无聊的日子生气勃勃，
+
+使它们充满阳光，
+
+但要把这些格言思索：
+
+所有女人都宠爱懒散的男人，
+
+虽然她们的子女需要丰裕的产业，
+
+没有一个生活过的男人享有过
+
+足够的女人的爱和子女的感激。
+
+
+
+
+
+别再缠身于忘川的枝叶之间，[2]
+
+
+
+开始准备你死亡的来临，
+
+从第四十个冬天起用那个思想
+
+考验智能和信仰的每一件作品，
+
+以及你亲手制造的一切东西，
+
+把这些作品看作浪费生命，
+
+对那些骄傲地，睁着眼，
+
+大笑着来到坟地的人不适应。
+
+
+
+4
+
+我的第五十个年头来了又去了，
+
+我坐着，一个孤独的人，
+
+在一个拥挤的伦敦铺子里，
+
+一本打开的书，一只空杯子
+
+放在玛瑙石的桌面上。
+
+
+
+
+
+当我凝视着店铺和街道，
+
+我的身体突然燃烧；
+
+有二十分钟，或多或少
+
+我感到极大的快乐，
+
+似乎得了福，也可为别人祝福。
+
+5
+
+虽然夏天的阳光
+
+为天空多云的枝叶镀了金，
+
+或者冬天的月光
+
+把大地陷入风暴造成的复杂图形，
+
+我不能注视他们，
+
+重重压抑我的是责任心。
+
+
+
+
+
+多年前说过或做过的事情，
+
+或者我没有做过或说过的
+
+却以为可能说或做的事情
+
+压抑着我，没有一天
+
+不回想起某些事情
+
+
+
+使我的良心或虚荣心吃惊。
+
+6
+
+河流纵横的原野在下面展开，
+
+鼻孔里有一股新割的草香味飘来，
+
+
+
+
+
+伟大的周公，抖去山雪，唱道：[3]
+
+
+
+“让一切逝去。”
+
+
+
+
+
+巴比伦或尼尼微兴起之处，[4]
+
+
+
+奶白色的驴子拉着车轮前行，
+
+有个征服者勒紧缰绳，
+
+向疲于打仗的士兵喊道：
+
+“让一切逝去。”
+
+
+
+
+
+这些白天黑夜的枝叶
+
+从人的浸透了血的心中长出，
+
+那里挂着光华的月亮。
+
+所有歌曲又有什么意义？
+
+“让一切逝去。”
+
+7
+
+灵魂：找出真实，留下表面的东西。
+
+
+
+心：什么，生为歌手而缺乏主题？
+
+
+
+
+
+灵魂：以赛亚的煤，人还能有更多的希盼？[5]
+
+
+
+心：在火的简朴里哑然无言。
+
+灵魂：注意那火，救星在里面走动。
+
+心：除了原罪，荷马还有什么主题可用？
+
+8
+
+
+
+
+
+我们必须分手吗？冯·许戈尔，虽然很相近，[6]
+
+
+
+我们都接受圣徒的神迹，尊重神圣的品性？
+
+
+
+
+
+没有腐败的圣忒瑞莎的躯体，躺在坟墓里，[7]
+
+
+
+浸在神奇的油中发出芬芳的香气。
+
+那刻字的棺板使它不败，
+
+那曾经挖制法老木乃伊的同一双手
+
+也许使一位现代圣徒的躯体不朽，
+
+我——虽然心里会感到轻松，若我变成一个基督徒，
+
+选择坟墓中最受欢迎的教义作信仰——扮演命定的角色。
+
+荷马和他未受洗的心是我的楷模。
+
+那狮子和蜂窝，《圣经》上怎么说？
+
+那么你走吧，冯·许戈尔，虽然我为你祝福。
+
+
+
+
+
+[1]  阿提斯：希腊神话中的植物神，他自阉后化为一株松树。
+
+
+
+
+
+[2]  忘川：希腊神话中的冥河，亡灵饮其水可忘却前生。
+
+
+
+
+
+[3]  周公：即中国西周的周公姬旦，卒于公元前1105年。
+
+
+
+
+
+[4]  巴比伦：古代亚洲西南部巴比伦王国首都；尼尼微：西亚亚述帝国首都。
+
+
+
+
+
+[5] 《 圣经旧约·以赛亚书》载，天使以燃烧的煤块接触先知以赛亚的嘴唇使他净化。
+
+
+
+
+
+[6]  弗里德里希·冯·许戈尔（1852—1925）：天主教哲学家，他认为基督徒的幻观即艺术家的幻观，这不合叶芝的观点。
+
+
+
+
+
+[7]  圣女忒瑞莎（1515—1582）：西班牙天主教会主要圣徒之一。
+
+
+
+
+
+Words for Music Perhaps
+
+
+I
+
+Crazy Jane and the Bishop
+
+Bring me to the blasted oak
+
+That I, midnight upon the stroke,
+
+(All find safety in the tomb.)
+
+May call down curses on his head
+
+Because of my dear Jack that's dead.
+
+Coxcomb was the least he said:
+
+The solid man and the coxcomb.
+
+
+
+
+
+Nor was he Bishop when his ban
+
+Banished Jack the Journeyman,
+
+(All find safety in the tomb.)
+
+Nor so much as parish priest,
+
+Yet he, an old book in his fist,
+
+Cried that we lived like beast and beast:
+
+The solid man and the coxcomb.
+
+
+
+
+
+The Bishop has a skin, God knows,
+
+Wrinkled like the foot of a goose,
+
+(All find safety in the tomb.)
+
+
+
+Nor can he hide in holy black
+
+The heron's hunch upon his back,
+
+But a birch-tree stood my Jack:
+
+The solid man and the coxcomb.
+
+Jack had my virginity,
+
+And bids me to the oak, for he
+
+(All find safety in the tomb.)
+
+Wanders out into the night
+
+And there is shelter under it,
+
+But should that other come, I spit:
+
+The solid man and the coxcomb.
+
+II
+
+Crazy Jane Reproved
+
+I Care not what the sailors say:
+
+All those dreadful thunder-stones,
+
+All that storm that blots the day
+
+Can but show that Heaven yawns;
+
+Great Europa played the fool
+
+That changed a lover for a bull.
+
+Fol de rol, fol de rol.
+
+
+
+
+
+To round that shell's elaborate whorl,
+
+Adorning every secret track
+
+With the delicate mother-of-pearl,
+
+Made the joints of Heaven crack:
+
+So never hang your heart upon
+
+
+
+A roaring, ranting journeyman.
+
+Fol de rol, fol de rol.
+
+III
+
+Crazy Jane on the Day of Judgment
+
+'Love is all
+
+Unsatisfied
+
+That cannot take the whole
+
+Body and soul';
+
+And that is what Jane said.
+
+
+
+
+
+'Take the sour
+
+If you take me,
+
+I can scoff and lour
+
+And scold for an hour.'
+
+'That's certainly the case,' said he.
+
+
+
+
+
+'Naked I lay,
+
+The grass my bed;
+
+Naked and hidden away,
+
+That black day';
+
+And that is what Jane said.
+
+
+
+
+
+'What can be shown?
+
+What true love be?
+
+All could be known or shown
+
+If Time were but gone.'
+
+
+
+'That's certainly the case,' said he.
+
+
+
+
+
+......
+
+V
+
+Crazy Jane on God
+
+That lover of a night
+
+Came when he would,
+
+Went in the dawning light
+
+Whether I would or no;
+
+Men come, men go;
+
+All things remain in God.
+
+
+
+
+
+Banners choke the sky;
+
+Men-at-arms tread;
+
+Armoured horses neigh
+
+Where the great battle was
+
+In the narrow pass:
+
+All things remain in God.
+
+
+
+
+
+Before their eyes a house
+
+That from childhood stood
+
+Uninhabited, ruinous,
+
+Suddenly lit up
+
+From door to top:
+
+All things remain in God.
+
+
+
+
+
+I had wild Jack for a lover;
+
+Though like a road
+
+That men pass over
+
+My body makes no moan
+
+But sings on:
+
+All things remain in God.
+
+VI
+
+Crazy Jane Talks with the Bishop
+
+I met the Bishop on the road
+
+And much said he and I.
+
+'Those breasts are flat and fallen now,
+
+Those veins must soon be dry;
+
+Live in a heavenly mansion,
+
+Not in some foul sty.'
+
+
+
+
+
+'Fair and foul are near of kin,
+
+And fair needs foul,' I cried.
+
+'My friends are gone, but that's a truth
+
+Nor grave nor bed denied,
+
+Learned in bodily lowliness
+
+And in the heart's pride.
+
+
+
+
+
+'A woman can be proud and stiff
+
+When on love intent;
+
+But Love has pitched his mansion in
+
+The place of excrement;
+
+
+
+For nothing can be sole or whole
+
+That has not been rent.'
+
+
+
+
+
+......
+
+X
+
+Her Anxiety
+
+Earth in beauty dressed
+
+Awaits returning spring.
+
+All true love must die,
+
+Alter at the best
+
+Into some lesser thing.
+
+Prove that I lie.
+
+
+
+
+
+Such body lovers have,
+
+Such exacting breath,
+
+That they touch or sigh.
+
+Every touch they give,
+
+Love is nearer death.
+
+Prove that I lie.
+
+XI
+
+His Confidence
+
+Undying love to buy
+
+
+
+I wrote upon
+
+The corners of this eye
+
+All wrongs done.
+
+What payment were enough
+
+For undying love?
+
+
+
+
+
+I broke my heart in two
+
+So hard I struck.
+
+What matter? for I know
+
+That out of rock,
+
+Out of a desolate source,
+
+Love leaps upon its course.
+
+
+
+
+
+......
+
+XV
+
+Three Things
+
+'O Cruel Death, give three things back,'
+
+Sang a bone upon the shore;
+
+'A child found all a child can lack,
+
+Whether of pleasure or of rest,
+
+Upon the abundance of my breast':
+
+A bone wave-whitened and dried in the wind.
+
+
+
+
+
+'Three dear things that women know,'
+
+Sang a bone upon the shore;
+
+'A man if I but held him so
+
+
+
+When my body was alive
+
+Found all the pleasure that life gave':
+
+A bone wave-whitened and dried in the wind.
+
+
+
+
+
+'The third thing that I think of yet,'
+
+Sang a bone upon the shore,
+
+'Is that morning when I met
+
+Face to face my rightful man
+
+And did after stretch and yawn':
+
+A bone wave-whitened and dried in the wind.
+
+XVI
+
+Lullaby
+
+Beloved, may your sleep be sound
+
+That have found it where you fed.
+
+What were all the world's alarms
+
+To mighty Paris when he found
+
+Sleep upon a golden bed
+
+That first dawn in Helen's arms?
+
+
+
+
+
+Sleep, beloved, such a sleep
+
+As did that wild Tristram know
+
+When, the potion's work being done,
+
+Roe could run or doe could leap
+
+Under oak and beechen bough,
+
+Roe could leap or doe could run;
+
+
+
+
+
+Such a sleep and sound as fell
+
+Upon Eurotas' grassy bank
+
+When the holy bird, that there
+
+Accomplished his predestined will,
+
+From the limbs of Leda sank
+
+But not from her protecting care.
+
+XVII
+
+After Long Silence
+
+Speech after long silence; it is right,
+
+All other lovers being estranged or dead,
+
+Unfriendly lamplight hid under its shade,
+
+The curtains drawn upon unfriendly night,
+
+That we descant and yet again descant
+
+Upon the supreme theme of Art and Song:
+
+Bodily decrepitude is wisdom; young
+
+We loved each other and were ignorant.
+
+XVIII
+
+Mad as the Mist and Snow
+
+Bolt and bar the shutter,
+
+For the foul winds blow:
+
+Our minds are at their best this night,
+
+And I seem to know
+
+
+
+That everything outside us is
+
+Mad as the mist and snow.
+
+
+
+
+
+Horace there by Homer stands,
+
+Plato stands below,
+
+And here is Tully's open page.
+
+How many years ago
+
+Were you and I unlettered lads
+
+Mad as the mist and snow?
+
+
+
+
+
+You ask what makes me sigh, old friend,
+
+What makes me shudder so?
+
+I shudder and I sigh to think
+
+That even Cicero
+
+And many-minded Homer were
+
+Mad as the mist and snow.
+
+XIX
+
+Those Dancing Days are Gone
+
+Come, let me sing into your ear;
+
+Those dancing days are gone,
+
+All that silk and satin gear;
+
+Crouch upon a stone,
+
+Wrapping that foul body up
+
+In as foul a rag:
+
+I carry the sun in a golden cup,
+
+The moon in a silver bag.
+
+
+
+
+
+Curse as you may I sing it through;
+
+What matter if the knave
+
+That the most could pleasure you,
+
+The children that he gave,
+
+Are somewhere sleeping like a top
+
+Under a marble flag?
+
+I carry the sun in a golden cup,
+
+The moon in a silver bag.
+
+
+
+
+
+I thought it out this very day,
+
+Noon upon the clock,
+
+A man may put pretence away
+
+Who leans upon a stick,
+
+May sing, and sing until he drop,
+
+Whether to maid or hag:
+
+I carry the sun in a golden cup,
+
+The moon in a silver bag.
+
+XX
+
+'I am of Ireland'
+
+I am of Ireland,
+
+And the Holy Land of Ireland,
+
+And time runs on,' cried she.
+
+'Come out of charity,
+
+Come dance with me in Ireland.'
+
+
+
+
+
+One man, one man alone
+
+In that outlandish gear,
+
+One solitary man
+
+Of all that rambled there
+
+Had turned his stately head.
+
+'That is a long way off,
+
+And time runs on,' he said,
+
+'And the night grows rough.'
+
+
+
+
+
+'I am of Ireland,
+
+And the Holy Land of Ireland,
+
+And time runs on,' cried she.
+
+'Come out of charity
+
+And dance with me in Ireland.'
+
+
+
+
+
+'The fiddlers are all thumbs,
+
+Or the fiddle-string accursed,
+
+The drums and the kettledrums
+
+And the trumpets all are burst,
+
+And the trombone,' cried he,
+
+'The trumpet and trombone,'
+
+
+
+
+
+And cocked a malicious eye,
+
+'But time runs on, runs on.'
+
+
+
+
+
+'I am of Ireland,
+
+And the Holy Land of Ireland,
+
+And time runs on,' cried she.
+
+'Come out of charity
+
+And dance with me in Ireland.'
+
+
+
+
+
+......
+
+
+
+
+
+August 19, 1931
+
+
+
+
+
+也许可谱曲的歌词（选段）
+
+I
+
+疯简和主教
+
+带我到断裂的橡树那里，
+
+使我，当午夜的钟声敲起，
+
+（谁都在坟墓里找到安全 ），
+
+能祈求灾祸降临他头上，
+
+为了我亲爱的杰克他已死亡，
+
+花花公子最不足道，他说，
+
+那壮汉和那花花公子。
+
+
+
+
+
+当他的禁令把杰克赶掉，
+
+那时他还不是主教，
+
+（谁都在坟墓里找到安全 ）
+
+甚至还不是教区牧师，
+
+但他一本古书在手，
+
+就斥我们活得像狗，像狗，
+
+那壮汉和那花花公子。
+
+
+
+
+
+主教有一张皮，天知道，
+
+就像鹅蹼又皱又老
+
+（谁都在坟墓里找到安全 ），
+
+
+
+他的黑法衣也不能遮盖
+
+他身上鹭鸶似的驼背，
+
+我的杰克却如白桦树挺立，
+
+那壮汉和那花花公子。
+
+杰克占有了我的童贞，
+
+叫我到橡树那里藏身，
+
+（谁都在坟墓里找到安全 ），
+
+自己向黑夜里游荡，
+
+那树下有地方躲藏，
+
+要是另一个来了，我唾骂；
+
+那壮汉和那花花公子。
+
+Ⅱ
+
+被责骂的疯简
+
+我不管水手们说些什么，
+
+所有那些可怕的响雷闪电，
+
+所有那些蔽日遮空的风暴
+
+都只能显示老天打呵欠；
+
+伟大的欧罗巴当了蠢人，
+
+
+
+
+
+她用一头公牛换了个情人。[1]
+
+
+
+
+
+呼尔得乐尔，呼尔得乐尔。[2]
+
+
+
+
+
+用那灵巧的珍珠母螺
+
+磨圆那贝壳精细的螺纹，
+
+装饰每一条秘密的途径
+
+
+
+终使天穹的接合处开裂，
+
+所以绝不要把你的心挂在
+
+一个又叫又嚷的雇工身上。
+
+呼尔得乐尔，呼尔得乐尔。
+
+
+
+Ⅲ
+
+疯简论末日裁判
+
+“爱情不会
+
+满足
+
+如它不包括
+
+整个灵和肉。”
+
+简这么说。
+
+
+
+
+
+“你要了我，
+
+你就触霉头，
+
+我会嘲弄、皱眉
+
+咒骂你个把钟头。”
+
+“准是那样。”他说。
+
+
+
+
+
+“我赤身躺下，
+
+把草地当床，
+
+在那个黑天
+
+赤身隐藏。”
+
+简这么说。
+
+
+
+
+
+“什么能呈现？
+
+什么是真爱？
+
+
+
+一切都可知可见，
+
+只要没有了时间。”
+
+“准是那样。”他说。
+
+
+
+
+
+⋯⋯⋯⋯
+
+Ⅴ
+
+疯简论上帝
+
+那个晚上的情人，
+
+如他愿意他会来。
+
+不管我是否愿意，
+
+天一亮他就走开，
+
+人去，人来，
+
+万物与上帝同在。
+
+
+
+
+
+旗帜掩蔽了天空，
+
+持枪者在行进；
+
+武装的马群嘶鸣
+
+伟大的战争
+
+在狭窄的关隘进行；
+
+万物与上帝同在。
+
+
+
+
+
+眼前有一所房子，
+
+没人住的废墟
+
+自幼年直到如今；
+
+它突然亮了起来，
+
+从门户到屋顶，
+
+
+
+万物与上帝同在。
+
+
+
+
+
+我有野杰克做情人，
+
+虽说像一条路径，
+
+人们来来往往，
+
+我身躯从不哀伤，
+
+而是不断歌唱：
+
+万物与上帝同在。
+
+Ⅵ
+
+疯简和主教谈话
+
+我在路上遇到了主教，
+
+他和我谈了又谈。
+
+“这对乳房已松弛下陷，
+
+那血管很快会枯干；
+
+到天堂的高院大宅去住，
+
+别去那肮脏的猪栏。”
+
+
+
+
+
+“美与丑本来是一对近亲，
+
+美需要丑，”我大声叫道，
+
+“朋友们散了，这个真理，
+
+坟墓床榻否定不了，
+
+懂得它，要靠肉体下贱，
+
+也要靠心灵高傲。”
+
+
+
+
+
+“妇人会变得骄傲顽强
+
+当她对谁动了情，
+
+爱情却筑起她的殿堂，
+
+在排污泄浊之境，
+
+啥也不会独立或完整，
+
+
+
+除非已开缝裂纹。”
+
+
+
+
+
+⋯⋯⋯⋯
+
+
+
+
+
+Ⅹ
+
+她的焦虑
+
+大地艳妆相待
+
+等候春天再来，
+
+一切真爱必死亡，
+
+最好的也会变为
+
+某些次等货色，
+
+请证明我在说谎。
+
+
+
+
+
+情人们有这等肉体，
+
+这等苛刻的气息，
+
+他们抚摸或叹气，
+
+他们每抚摸一次，
+
+爱情就更靠拢死亡，
+
+请证明我在说谎。
+
+
+
+
+
+Ⅺ
+
+他的信心
+
+
+
+为卖不死的爱情
+
+在我这只眼角
+
+写上
+
+所有的委屈之心。
+
+不死的爱情
+
+要多少报酬才付得清？
+
+
+
+
+
+我把心粉碎为二
+
+我打得太凶狠，
+
+又怎样？因为我知道
+
+从石头中间
+
+从孤寂的源头，
+
+爱情跳上大道。
+
+
+
+
+
+⋯⋯⋯⋯
+
+XV
+
+三样东西
+
+
+
+“残酷的死啊，还我三样东西，”
+
+海滩上一根骨头在歌唱。
+
+“一个婴儿得到他需要的乐趣。
+
+或缺少的休息
+
+在我丰满的胸上。”
+
+浪漂白了、风吹干了的骨头在歌唱。
+
+
+
+
+
+“妇人能有的三样好东西，”
+
+海滩上一根骨头在歌唱。
+
+
+
+“男人得到人生的大乐趣，
+
+要是我身子健壮，
+
+把他这样紧紧抱上。”
+
+浪漂白了、风吹干了的骨头在歌唱。
+
+
+
+
+
+“我想到还有第三样东西，”
+
+海滩上一根骨头在歌唱。
+
+“早晨我和丈夫相遇，
+
+打过呵欠，伸过懒腰，
+
+
+
+
+
+两个人面面相觑。[3]
+
+
+
+浪漂白了、风吹干了的骨头在歌唱。
+
+XVI
+
+摇篮曲
+
+
+
+亲爱的，愿你睡得香，
+
+在你发现吸奶的地方，
+
+对强大的帕里斯来说，
+
+第一个黎明，睡在金床上，
+
+
+
+
+
+枕在海伦的臂挽里，[4]
+
+
+
+他又愁什么全世界的惊慌？
+
+
+
+
+
+睡吧，亲爱的，睡那么一觉，
+
+
+
+
+
+如那狂野的特里斯坦所知道，[5]
+
+
+
+
+
+在迷药的作用生了效
+
+雄鹿会奔跑，雌鹿会蹦跳，
+
+在橡树、榉树的枝条下，
+
+雄鹿会蹦跳，雌鹿会奔跑。
+
+
+
+
+
+这样的香甜，这样的一晚，
+
+
+
+
+
+就像在欧罗塔斯萋萋河边拥有，[6]
+
+
+
+
+
+当那神圣之鸟在那里[7]
+
+
+
+完成了生前注定的希求，
+
+从丽达的四肢下沉
+
+而不放弃她的保佑。
+
+XVII
+
+长期缄默后
+
+
+
+长期缄默后开口：这很好，
+
+别的情人们已疏远或死亡，
+
+窗帘把不友好的夜挡外面，
+
+无情的灯光在灯罩下隐藏；
+
+艺术和诗歌的崇拜题材，
+
+我们讨论过一次又一次，
+
+年轻时相爱，无识无知，
+
+如今肉体衰老智慧开。
+
+
+
+XVIII
+
+像雾像雪一般狂
+
+恶风刮了起来，
+
+关上、拴好百叶窗；
+
+今晚咱心灵最清澈，
+
+似乎看得清爽，
+
+咱身外的万事万物
+
+像雾像雪一般狂。
+
+
+
+
+
+贺拉斯站在荷马旁[8]
+
+
+
+柏拉图站在下方，
+
+
+
+
+
+特莱书打开在眼前[9]
+
+
+
+度过了长长的时光，
+
+你和我还是无知少年，
+
+像雾像雪一般狂。
+
+
+
+
+
+老朋友，你问我何所叹？
+
+为什么发颤心慌？
+
+我发颤叹息，我想到
+
+即使西塞罗加上
+
+聪明智慧的荷马，
+
+像雾像雪一般狂。
+
+
+
+XIX
+
+舞蹈的日子已尽
+
+来，让我唱给你听；
+
+舞蹈的日子已尽，
+
+不再有那些丝衣绸裳；
+
+蹲伏在一块石头上
+
+用一块破烂布
+
+裹起你那臭皮囊。
+
+我用金杯装太阳，
+
+我用银袋装月亮。
+
+
+
+
+
+尽管你咒骂，我把歌唱完；
+
+那个无赖有什么要紧？
+
+他给了你最大的快乐，
+
+他给的孩子如今
+
+在大理石旗下，
+
+陀螺般睡得深沉；
+
+我用金杯装太阳，
+
+我用银袋装月亮。
+
+
+
+
+
+就在今天我明白了，
+
+钟上正是午时，
+
+一个人靠拐杖走路，
+
+就不必再装腔作势；
+
+他可以唱呀唱到他跌下，
+
+不管是唱给姑娘或老妇；
+
+我用金杯装太阳，
+
+我用银袋装月亮。
+
+
+
+
+
+XX
+
+“我属于爱尔兰”
+
+
+
+“我属于爱尔兰，
+
+那神圣的国土爱尔兰，
+
+时间在前进，”她喊。
+
+“行个好，
+
+跟我在爱尔兰舞蹈。”
+
+
+
+
+
+一个人，只有一个人
+
+穿着外地人服装，
+
+只有一个人孤伶伶
+
+来自漫步的一大群，
+
+转过他高贵的头来，
+
+“这是很久前的事了，
+
+时光在前进，”他说道，
+
+“而且夜晚有风暴。”
+
+
+
+
+
+“我属于爱尔兰，
+
+那神圣的国土爱尔兰，
+
+时间在前进，”她喊。
+
+“行个好，
+
+跟我在爱尔兰舞蹈。”
+
+
+
+
+
+“演奏者手指僵又硬，
+
+琴弦哑然沉寂，
+
+手鼓和定音鼓不再响，
+
+小号也都已破裂，
+
+还有长号！”他喊道，
+
+
+
+“小号和长号没声音，”
+
+他恶意地斜眼瞅人，
+
+“而时间在前进，前进。”
+
+
+
+
+
+“我属于爱尔兰，
+
+那神圣的国土爱尔兰，
+
+时间在前进，”她喊，
+
+“行个好，
+
+跟我在爱尔兰舞蹈。”
+
+
+
+
+
+⋯⋯⋯⋯
+
+
+
+
+
+[1]  据希腊神话，腓尼基公主欧罗巴被宙斯化作白牛拐走。
+
+
+
+
+
+[2]  译音，表示轻蔑无聊之意。
+
+
+
+
+
+[3]  暗示女方昨晚有外遇。
+
+
+
+
+
+[4]  参看第52—53页《没有第二个特洛伊》。
+
+
+
+
+
+[5]  据中古传奇，骑士特里斯坦奉命护送美女伊瑟尔德回康沃尔与马克王成婚，途中两人误服迷药而相爱。
+
+
+
+
+
+[6]  欧罗塔斯河在斯巴达以东。
+
+
+
+
+
+[7]  参见第148—149页《丽达和天鹅》。
+
+
+
+
+
+[8]  贺拉斯（公元前65—前8）：古罗马修辞学家。
+
+
+
+
+
+[9]  特莱：即西塞罗（公元前l06—前43），古罗马演说家和政治家。
+
+
+
+
+
+A Woman Young and Old
+
+
+......
+
+II
+
+Before the World was Made
+
+If I make the lashes dark
+
+And the eyes more bright
+
+And the lips more scarlet,
+
+Or ask if all be right
+
+From mirror after mirror,
+
+No vanity's displayed:
+
+I'm looking for the face I had
+
+Before the world was made.
+
+
+
+
+
+What if I look upon a man
+
+As though on my beloved,
+
+And my blood be cold the while
+
+And my heart unmoved?
+
+Why should he think me cruel
+
+Or that he is betrayed?
+
+I'd have him love the thing that was
+
+Before the world was made.
+
+
+
+III
+
+A First Confession
+
+I admit the briar
+
+Entangled in my hair
+
+Did not injure me;
+
+My blenching and trembling,
+
+Nothing but dissembling,
+
+Nothing but coquetry.
+
+
+
+
+
+I long for truth, and yet
+
+I cannot stay from that
+
+My better self disowns,
+
+For a man's attention
+
+Brings such satisfaction
+
+To the craving in my bones.
+
+
+
+
+
+Brightness that I pull back
+
+From the Zodiac,
+
+Why those questioning eyes
+
+That are fixed upon me?
+
+What can they do but shun me
+
+If empty night replies?
+
+
+
+
+
+......
+
+
+
+V
+
+Consolation
+
+O but there is wisdom
+
+In what the sages said;
+
+But stretch that body for a while
+
+And lay down that head
+
+Till I have told the sages
+
+Where man is comforted.
+
+
+
+
+
+How could passion run so deep
+
+Had I never thought
+
+That the crime of being born
+
+Blackens all our lot?
+
+But where the crime's committed
+
+The crime can be forgot.
+
+
+
+
+
+......
+
+IX
+
+A Last Confession
+
+What lively lad most pleasured me
+
+Of all that with me lay?
+
+I answer that I gave my soul
+
+And loved in misery,
+
+But had great pleasure with a lad
+
+That I loved bodily.
+
+
+
+
+
+Flinging from his arms I laughed
+
+To think his passion such
+
+He fancied that I gave a soul
+
+Did but our bodies touch,
+
+And laughed upon his breast to think
+
+Beast gave beast as much.
+
+
+
+
+
+I gave what other women gave
+
+That stepped out of their clothes,
+
+But when this soul, its body off,
+
+Naked to naked goes,
+
+He it has found shall find therein
+
+What none other knows,
+
+
+
+
+
+And give his own and take his own
+
+And rule in his own right;
+
+And though it loved in misery
+
+Close and cling so tight,
+
+There's not a bird of day that dare
+
+Extinguish that delight.
+
+
+
+
+
+......
+
+
+
+
+
+一个女人：青年和老年（选段）
+
+⋯⋯⋯⋯
+
+
+
+
+
+Ⅱ
+
+创世以前
+
+如我把睫毛抹黑，
+
+把眼睛弄得更亮，
+
+把嘴唇抹得更红，
+
+或与一面面镜子商量
+
+这样是否合适，
+
+那不是卖弄虚荣，
+
+我是在寻找
+
+创世前我的面容。
+
+
+
+
+
+如我注视一个人
+
+仿佛他是我情郎，
+
+而我的血冰冷，
+
+并不动心，又怎样？
+
+他为什么要认为我残忍，
+
+或者他遭到了遗弃？
+
+我是要他爱
+
+创世前的东西。
+
+
+
+Ⅲ
+
+第一次自白
+
+
+
+我承认纠结，
+
+我头发的荆棘
+
+并没把我伤害；
+
+我脸发白身颤摇
+
+不过是装腔作势，
+
+不过是卖俏撒娇。
+
+
+
+
+
+我渴求真理，
+
+但我不能离开
+
+我良知否认的东西：
+
+一个男人的情爱
+
+带来的满足
+
+深入我的骨髓。
+
+
+
+
+
+我从黄道宫[1]
+
+
+
+拉回来的亮光，
+
+那些怀疑的眼睛
+
+为什么集中我身上？
+
+除了他们回避我还能做什么，
+
+如空空的夜晚来答复？
+
+
+
+
+
+⋯⋯⋯⋯
+
+
+
+Ⅴ
+
+慰藉
+
+噢，圣人说的话里
+
+确实有智慧；
+
+把身子松一会，
+
+把头低下来，
+
+我会告一诉圣人
+
+男人在哪里得安慰。
+
+
+
+
+
+激情怎能这样深入，
+
+难道我从未想到
+
+
+
+
+
+给予生命的罪恶[2]
+
+
+
+把我们的命运抹黑了？
+
+但犯下罪恶的地方，
+
+罪恶也可以被忘掉。
+
+
+
+
+
+⋯⋯⋯⋯
+
+Ⅸ
+
+最后的表白
+
+跟我睡过的男人中
+
+哪个活泼的少年最讨我欢喜？
+
+我答道我给了他我的心
+
+而且爱得很苦凄，
+
+
+
+但我以肉体相爱的少年，
+
+给了我最大的乐趣。
+
+
+
+
+
+从他怀中跳出来，我大笑
+
+想到他热情洋溢，
+
+他以为我给了我的心，
+
+其实咱俩个只是肉体相接，
+
+在他怀里我大笑，
+
+牲畜对牲畜也能给这些。
+
+
+
+
+
+我给了他别个妇人能给的，
+
+当她们把衣服脱去。
+
+但当这灵魂，没有了肉体，
+
+赤裸向赤裸走去，
+
+他找到了它，会看到
+
+别个谁也不知道的东西。
+
+
+
+
+
+他给了他的，也得了他的，
+
+自有权当家作主；
+
+虽说它爱得很苦，
+
+那么紧紧地贴身相抱，
+
+没有哪一只白天的鸟，
+
+敢把那乐趣打消。
+
+
+
+
+
+⋯⋯⋯⋯
+
+
+
+
+
+[1]  黄道宫（带）：指天空中太阳行进的路线向两侧各移动8度所形成的区域，包括主要行星的运行轨道。
+
+
+
+
+
+[2]  罪恶：指基督教所谓“原罪”。
+
+
+
+
+
+The Gyres
+
+
+The gyres! the gyres! Old Rocky Face, look forth;
+
+Things thought too long can be no longer thought,
+
+For beauty dies of beauty, worth of worth,
+
+And ancient lineaments are blotted out.
+
+Irrational streams of blood are staining earth;
+
+Empedocles has thrown all things about;
+
+Hector is dead and there's a light in Troy;
+
+We that look on but laugh in tragic joy.
+
+
+
+
+
+What matter though numb nightmare ride on top,
+
+And blood and mire the sensitive body stain?
+
+What matter? Heave no sigh, let no tear drop,
+
+A greater, a more gracious time has gone;
+
+For painted forms or boxes of make-up
+
+In ancient tombs I sighed, but not again;
+
+What matter? Out of cavern comes a voice,
+
+And all it knows is that one word 'Rejoice!'
+
+Conduct and work grow coarse, and coarse the soul,
+
+What matter? Those that Rocky Face holds dear,
+
+Lovers of horses and of women, shall,
+
+From marble of a broken sepulchre,
+
+Or dark betwixt the polecat and the owl,
+
+Or any rich, dark nothing disinter
+
+The workman, noble and saint, and all things run
+
+On that unfashionable gyre again.
+
+
+
+
+
+旋锥体
+
+
+
+
+
+旋锥体！旋锥体！古老的山岩脸，向前瞧；[1]
+
+
+
+事情想得太久了不能再去想，
+
+美陨于美，价值为价值抵消，
+
+古老的面貌已被抹掉。
+
+无理性的血玷污了大地，
+
+
+
+
+
+恩皮多克勒斯把事物抛撒一地，[2]
+
+
+
+
+
+赫克托尔死了，特洛伊有光相照；[3]
+
+
+
+我们观望着，只为悲剧的欢乐而笑。
+
+
+
+
+
+又怎样？麻木的梦魇在头上横行，
+
+血和泥弄脏了敏感的身躯；
+
+又怎样？不要掉泪，不要叹气，
+
+一个更伟大、更优雅的时代已成过去；
+
+我曾为墓中的画和成箱的化妆品
+
+而叹息，现在不再这样干了；
+
+那又怎样？从洞穴传来个声音，
+
+它所知只有一个词“欢欣”！
+
+行为和工作变得粗厉，心灵也粗俗，
+
+又怎样？山岩脸喜爱的种种一切，
+
+骏马和女人的钟爱者，
+
+将从破墓的大理石间，
+
+或鸡貂和猫头鹰之间的黑暗中，
+
+
+
+或任何丰富的黑暗的乌有中
+
+发掘出工匠、贵族和圣人，
+
+一切又将在那过时的旋锥体上运行。
+
+
+
+
+
+[1] 《 叶芝读者指南》的作者认为此指控制旋锥体的月亮。
+
+
+
+
+
+[2]  恩皮多克勒斯（公元前493—前433）：希腊哲学家。
+
+
+
+
+
+[3]  参看第148—149页《丽达和天鹅》。
+
+
+
+
+
+Lapis Lazuli
+
+(For Harry Clifton)
+
+
+I have heard that hysterical women say
+
+They are sick of the palette and fiddle-bow,
+
+Of poets that are always gay,
+
+For everybody knows or else should know
+
+That if nothing drastic is done
+
+Aeroplane and Zeppelin will come out,
+
+Pitch like King Billy bomb-balls in
+
+Until the town lie beaten flat.
+
+
+
+
+
+All perform their tragic play,
+
+There struts Hamlet, there is Lear,
+
+That's Ophelia, that Cordelia;
+
+Yet they, should the last scene be there,
+
+The great stage curtain about to drop,
+
+If worthy their prominent part in the play,
+
+Do not break up their lines to weep.
+
+They know that Hamlet and Lear are gay;
+
+Gaiety transfiguring all that dread.
+
+
+
+
+
+All men have aimed at, found and lost;
+
+Black out; Heaven blazing into the head:
+
+Tragedy wrought to its uttermost.
+
+Though Hamlet rambles and Lear rages,
+
+And all the drop-scenes drop at once
+
+Upon a hundred thousand stages,
+
+It cannot grow by an inch or an ounce.
+
+
+
+
+
+On their own feet they came, or on shipboard,
+
+Camel-back, horse-back, ass-back, mule-back,
+
+Old civilisations put to the sword.
+
+Then they and their wisdom went to rack:
+
+No handiwork of Callimachus,
+
+Who handled marble as if it were bronze,
+
+Made draperies that seemed to rise
+
+When sea-wind swept the corner, stands;
+
+His long lamp-chimney shaped like the stem
+
+Of a slender palm, stood but a day;
+
+All things fall and are built again,
+
+And those that build them again are gay.
+
+
+
+
+
+Two Chinamen, behind them a third,
+
+Are carved in lapis lazuli,
+
+Over them flies a long-legged bird,
+
+A symbol of longevity;
+
+The third, doubtless a serving-man,
+
+Carries a musical instrument.
+
+
+
+
+
+Every discoloration of the stone,
+
+
+
+Every accidental crack or dent,
+
+Seems a water-course or an avalanche,
+
+Or lofty slope where it still snows
+
+Though doubtless plum or cherry-branch
+
+Sweetens the little half-way house
+
+Those Chinamen climb towards, and I
+
+Delight to imagine them seated there;
+
+There, on the mountain and the sky,
+
+On all the tragic scene they stare.
+
+One asks for mournful melodies;
+
+Accomplished fingers begin to play.
+
+Their eyes mid many wrinkles, their eyes,
+
+Their ancient, glittering eyes, are gay.
+
+
+
+
+
+天青石雕[1]
+
+（为哈利·克里夫顿而作）
+
+我听见歇斯底里的女人们说，
+
+她们对提琴弓和调色板
+
+总是快活的诗人感到厌烦，
+
+因谁都知道或应当知道，
+
+如不采取剧烈的手段，
+
+飞机和飞艇就要来到，
+
+
+
+
+
+像比利王那样掷下炸弹[2]
+
+
+
+直到城市夷成平地。
+
+
+
+
+
+全都表演他们的悲剧，
+
+哈姆雷特傲然走着，那儿是李尔，
+
+
+
+
+
+那个是奥菲利娅，那个是考娣莉亚；[3]
+
+
+
+但他们演到最后一幕，
+
+巨大的帷幕就要落下，
+
+如配得上剧中的著名角色，
+
+他们就不会中断台词而哀哭。
+
+他们知道哈姆雷特和李尔王快活，
+
+快乐改变了所有的恐惧。
+
+
+
+
+
+人人都有过追求、发现和丧失；
+
+灯光熄灭；天光照进了头脑，
+
+悲剧演到了高潮，
+
+虽然哈姆雷特徘徊，李尔愤怒，
+
+所有吊装幕布一下子
+
+落在千千万万个舞台上
+
+它也不会再增长分毫。
+
+
+
+
+
+他们来了，或步行，或驾船，
+
+或骑马、骑骆驼、骑驴或骑骡，
+
+古老文明受到剑火的考验，
+
+他们和他们的智慧碎成片；
+
+
+
+
+
+伽里马科斯的手工艺品，[4]
+
+
+
+他刻石如铸铜，
+
+他雕刻的衣纹被海风吹着
+
+就飘飘欲动，
+
+如今没有一件伫立着；
+
+他那棕榈树形的细长灯罩
+
+也不过站立了一天。
+
+一切都毁灭了，而又重建，
+
+那些重建者又一次感到快乐。
+
+
+
+
+
+刻在天青石雕上
+
+有两个中国人，第三个在后面，
+
+他们头上一只长腿鸟飞翔，
+
+象征着长生不老，
+
+第三个无疑是个仆人，
+
+带着一件乐器。
+
+
+
+石头上每一块褪色斑痕，
+
+每一个偶然的裂缝和凹纹，
+
+似是一道河流或一场雪崩，
+
+或高耸的山坡雪花莹莹；
+
+杏子或樱桃枝
+
+美化了小小的半路凉亭，
+
+这些中国人正向上爬去，
+
+我乐意想象他们坐在那里，
+
+注视着山峦和天空，
+
+和一切悲剧的情景。
+
+有一个要听一支悲曲，
+
+熟练的手指开始拨动，
+
+他们的眼睛四周布满皱纹，他们那眼睛，
+
+他们那古老的、闪光的眼睛真欢欣。
+
+
+
+
+
+[1]  1935年7月4日，叶芝收到友人哈利·克里夫顿赠送的一件生日礼品——一块中国乾隆年间制作的天青石雕，上有山峦、庙宇、树木、小径和正在登山的隐士和弟子。
+
+
+
+
+
+[2]  比利：即威廉的昵称。在1690年的波义尼战役中，英王威廉三世使用过炸弹。第一次世界大战中，德皇威廉二世使用齐伯林飞艇袭击伦敦。
+
+
+
+
+
+[3]  均系莎士比亚剧中的人物。
+
+
+
+
+
+[4]  伽里马科斯：公元前5世纪希腊雕刻家，以旋凿雕刻衣纹出名。
+
+
+
+
+
+The Spur
+
+
+You think it horrible that lust and rage
+
+Should dance attention upon my old age;
+
+They were not such a plague when I was young;
+
+What else have I to spur me into song?
+
+
+
+
+
+激 刺
+
+你道这可怕，欲念和激愤
+
+居然得到我晚年的心；
+
+年轻时我可没遭这个殃；
+
+还有啥别的能激刺我歌唱？
+
+
+
+
+
+Those Images
+
+
+What if I bade you leave
+
+The cavern of the mind?
+
+There's better exercise
+
+In the sunlight and wind.
+
+
+
+
+
+I never bade you go
+
+To Moscow or to Rome.
+
+Renounce that drudgery,
+
+Call the Muses home.
+
+
+
+
+
+Seek those images
+
+That constitute the wild,
+
+The lion and the virgin,
+
+The harlot and the child.
+
+
+
+
+
+Find in middle air
+
+An eagle on the wing,
+
+Recognise the five
+
+That make the Muses sing.
+
+
+
+
+
+那样的意象[1]
+
+
+
+要是我叫你离开，
+
+你那心智的洞穴？
+
+在那阳光下，风里，
+
+得到更好的培育。
+
+
+
+
+
+我可从不曾叫你，
+
+前往莫斯科、罗马，
+
+别理那一套傻事，
+
+你去叫缪思回家。
+
+
+
+
+
+寻找那样的意象，
+
+构成狂人和处女，
+
+构成狮子和婴儿，
+
+还有街头的娼妓。
+
+
+
+
+
+你到半空中寻找，
+
+展翅而飞的雄鹰，
+
+承认那五种东西，
+
+它们使缪思唱吟。
+
+
+
+
+
+[1]  叶芝最后一个时期的抒情诗。在诗歌创作上，叶芝反对抽象的说教，主张从感性生活深处，特别是原始的、粗犷的事物中汲取艺术形象，本诗表达了这种思想。
+
+
+
+
+
+The Municipal Gallery Revisited
+
+
+I
+
+Around me the images of thirty years:
+
+An ambush; pilgrims at the water-side;
+
+Casement upon trial, half hidden by the bars,
+
+Guarded; Griffith staring in hysterical pride;
+
+Kevin O'Higgins' countenance that wears
+
+A gentle questioning look that cannot hide
+
+A soul incapable of remorse or rest;
+
+A revolutionary soldier kneeling to be blessed;
+
+II
+
+An Abbot or Archbishop with an upraised hand
+
+Blessing the Tricolour. 'This is not,' I say,
+
+'The dead Ireland of my youth, but an Ireland
+
+The poets have imagined, terrible and gay.'
+
+Before a woman's portrait suddenly I stand,
+
+Beautiful and gentle in her Venetian way.
+
+I met her all but fifty years ago
+
+For twenty minutes in some studio.
+
+
+
+III
+
+Heart-smitten with emotion I sink down,
+
+My heart recovering with covered eyes;
+
+Wherever I had looked I had looked upon
+
+My permanent or impermanent images:
+
+Augusta Gregory's son; her sister's son,
+
+Hugh Lane, 'onlie begetter' of all these;
+
+Hazel Lavery living and dying, that tale
+
+As though some ballad-singer had sung it all;
+
+IV
+
+Mancini's portrait of Augusta Gregory,
+
+'Greatest since Rembrandt,' according to John Synge;
+
+A great ebullient portrait certainly;
+
+But where is the brush that could show anything
+
+Of all that pride and that humility?
+
+And I am in despair that time may bring
+
+Approved patterns of women or of men
+
+But not that selfsame excellence again.
+
+V
+
+My mediaeval knees lack health until they bend,
+
+But in that woman, in that household where
+
+
+
+Honour had lived so long, all lacking found.
+
+Childless I thought, 'My children may find here
+
+Deep-rooted things,' but never foresaw its end,
+
+And now that end has come I have not wept;
+
+No fox can foul the lair the badger swept—
+
+VI
+
+(An image out of Spenser and the common tongue).
+
+John Synge, I and Augusta Gregory, thought
+
+All that we did, all that we said or sang
+
+Must come from contact with the soil, from that
+
+Contact everything Antaeus-like grew strong.
+
+We three alone in modern times had brought
+
+Everything down to that sole test again,
+
+Dream of the noble and the beggar-man.
+
+VII
+
+And here's John Synge himself, that rooted man,
+
+'Forgetting human words,' a grave deep face.
+
+You that would judge me, do not judge alone
+
+This book or that, come to this hallowed place
+
+Where my friends' portraits hang and look thereon;
+
+Ireland's history in their lineaments trace;
+
+Think where man's glory most begins and ends,
+
+
+
+And say my glory was I had such friends.
+
+
+
+
+
+重访市立美术馆[1]
+
+
+
+1
+
+三十年的画像陈列在我四周，
+
+河边的朝圣者；一次埋伏；
+
+
+
+
+
+凯斯门特受审，半隐在围栏之后，[2]
+
+
+
+
+
+有人看守着；格瑞菲斯狂傲的注目；[3]
+
+
+
+
+
+凯文·欧希金斯带着疑问的[4]
+
+
+
+温和的脸容遮不住
+
+一个无意悔恨或休憩的灵魂；
+
+一个革命战士跪下接受福音。
+
+2
+
+一位主持或大主教举起手
+
+祝福三色旗。“这不是，”我说，
+
+“我年轻时死了的爱尔兰，
+
+而是诗人们想象的爱尔兰，可怕而快乐。”
+
+
+
+我突然站在一个女子的画像前，
+
+美丽而温柔的威尼斯风度，
+
+不过五十年前我们相遇
+
+二十分钟，在某个画室里。
+
+3
+
+我心下沉，情感咬啮我的心，
+
+我心平复，用手掩住眼睛；
+
+不论我看何处，我都看见
+
+我永恒的或暂时的形影：
+
+奥古斯塔·格雷戈里的儿子；他姐姐的儿子，
+
+休·雷恩，这些画的“唯一父亲”，
+
+
+
+
+
+活着的或死去的黑泽尔·拉佛瑞，那故事[5]
+
+
+
+仿佛某个民歌手已全部唱尽。
+
+4
+
+
+
+
+
+曼西尼画的格雷戈里像，[6]
+
+
+
+
+
+“伦勃朗以来最伟大的”，据辛格讲，[7]
+
+
+
+无疑是一幅伟大辉煌的像，
+
+但能表现出全部豪情
+
+和谦逊的万分之一的画笔又在哪里？
+
+
+
+我感到失望，将来可能带来
+
+为人赞赏的女人或男人的模样，
+
+但不会重现同样的光彩。
+
+5
+
+我那中古的双膝曲了才壮，
+
+但在那个女人，那个家庭
+
+久负荣名，什么欠缺都补上。
+
+没有子女，我想，“我的孩子们会在这里，
+
+找到根深柢固的东西，”从未预见它死亡，
+
+
+
+
+
+如今末日已到，我不会哭叫，
+
+
+
+
+
+没有狐狸能弄脏獾子清扫过的巢。[8]
+
+
+
+6
+
+（从斯宾塞和通俗语言得来的意象）。
+
+约翰·辛格、我、奥古斯塔·格雷戈里认为，
+
+一切我们做的，一切我们说的唱的，
+
+必须来自与土地的联系，有此联系在，
+
+
+
+
+
+一切东西就会像安泰一样茁壮成长，[9]
+
+
+
+在现代只有我们三个又一次
+
+
+
+用这唯一标准来考验种种，
+
+
+
+
+
+那个贵族和叫化子的梦。[10]
+
+
+
+7
+
+这儿是约翰·辛格自己，那个有根柢的人，
+
+
+
+
+
+“忘了人类的语言”，一张庄重深沉的脸；[11]
+
+
+
+你们要评判我，不要单独评这本书那本书，
+
+而要到这神圣的地方来看，
+
+挂在那里的我的朋友们的画像，
+
+在他们的脸容上追溯爱尔兰历史，
+
+想一想人的光荣大都何处始，何处终，
+
+而且说我有这样的朋友是我的光荣。
+
+
+
+
+
+[1]  即都柏林市立现代艺术美术馆。
+
+
+
+
+
+[2]  罗杰·凯斯门特（1864—1916）：因协助爱尔兰复活节起义，被英国政府处决。
+
+
+
+
+
+[3]  阿瑟·格瑞菲斯（1871—1922）：爱尔兰政治领袖。
+
+
+
+
+
+[4]  凯文·欧希金斯（1892—1927）：爱尔兰司法部兼外交部长。
+
+
+
+
+
+[5]  黑泽尔·拉佛瑞（1886—1935）：爱尔兰现代画家。
+
+
+
+
+
+[6]  安东尼奥·曼西尼（1852—1930）：意大利画家。
+
+
+
+
+
+[7]  伦勃朗·范·莱因（1600—1669）：荷兰画家；约翰·辛格（1871—1909）：爱尔兰现代剧作家。
+
+
+
+
+
+[8]  英国诗人埃德蒙·斯宾塞（1552—1599）在悼念其保证人莱塞斯特伯爵时曾说：“他如今去了，正当狐狸钻进／獾子清扫干净的巢。”
+
+
+
+
+
+[9]  据希腊传说，巨人安泰与土地接触才强壮有力。
+
+
+
+
+
+[10]  叶芝等人认为伟大的艺术以普通人（农民、叫化子）生活为基础表现出不随俗的（贵族）精神。
+
+
+
+
+
+[11]  辛格诗《序曲》：“只半记得人类的语言”。
+
+
+
+
+
+Long-legged Fly
+
+
+That civilisation may not sink,
+
+Its great battle lost,
+
+Quiet the dog, tether the pony
+
+To a distant post;
+
+Our master Caesar is in the tent
+
+Where the maps are spread,
+
+His eyes fixed upon nothing,
+
+A hand under his head.
+
+Like a long-legged fly upon the stream
+
+His mind moves upon silence.
+
+
+
+
+
+That the topless towers be burnt
+
+And men recall that face,
+
+Move most gently if move you must
+
+In this lonely place.
+
+She thinks, part woman, three parts a child,
+
+That nobody looks; her feet
+
+Practise a tinker shuffle
+
+Picked up on a street.
+
+Like a long-legged fly upon the stream
+
+Her mind moves upon silence.
+
+
+
+
+
+That girls at puberty may find
+
+The first Adam in their thought,
+
+Shut the door of the Pope's chapel,
+
+
+
+Keep those children out.
+
+There on that scaffolding reclines
+
+Michael Angelo.
+
+With no more sound than the mice make
+
+His hand moves to and fro.
+
+Like a long-legged fly upon the stream
+
+His mind moves upon silence.
+
+
+
+
+
+长脚蚊
+
+为使文明不沉沦，
+
+伟大战役不输掉，
+
+叫狗安静，把小马
+
+在远处木桩拴好；
+
+咱主子凯撒帐幕中，
+
+地图在面前摊开，
+
+他双目无所专注，
+
+一只手支着脑袋。
+
+像长脚蚊飞越水面，
+
+他脑子沉寂中运转。
+
+
+
+
+
+为把无顶楼烧掉，
+
+
+
+
+
+让人们追念那脸庞，[1]
+
+
+
+轻轻走动，如需要
+
+在这孤寂的地方。
+
+她以为没有人瞧见
+
+——小半妇人大半孩——
+
+她跳起笨拙的曳步舞，
+
+她从街头学来。
+
+像长脚蚊飞越水面，
+
+她脑子沉寂中运转。
+
+
+
+
+
+为使怀春女思念中
+
+
+
+见到第一个亚当，
+
+不让孩子们进门，
+
+把教堂大门关上，
+
+米开朗基罗
+
+趴在鹰架上，
+
+轻轻如老鼠爬过，
+
+
+
+
+
+他的手移下移上，[2]
+
+
+
+像长脚蚊飞越水面，
+
+他脑子沉寂中运转。
+
+
+
+
+
+[1]  指希腊美人海伦，传说她弃夫私奔，因此引起了特洛伊战争，“为把无顶楼烧掉”即指此战役。
+
+
+
+
+
+[2]  指米开朗基罗在西斯廷教堂绘制《创世记》一事。
+
+
+
+
+
+Why should not Old Men be Mad?
+
+
+Why should not old men be mad?
+
+Some have known a likely lad
+
+That had a sound fly-fisher's wrist
+
+Turn to a drunken journalist;
+
+A girl that knew all Dante once
+
+Live to bear children to a dunce;
+
+A Helen of social welfare dream,
+
+Climb on a wagonette to scream.
+
+Some think it a matter of course that chance
+
+Should starve good men and bad advance,
+
+That if their neighbours figured plain,
+
+As though upon a lighted screen,
+
+No single story would they find
+
+Of an unbroken happy mind,
+
+A finish worthy of the start.
+
+Young men know nothing of this sort,
+
+Observant old men know it well;
+
+And when they know what old books tell,
+
+And that no better can be had,
+
+Know why an old man should be mad.
+
+
+
+
+
+为什么老年人不该癫狂？
+
+为什么老年人不该癫狂？
+
+有人知道一个好样的少年郎，
+
+他有好手腕善于捕蝇，
+
+变成了一个酗酒的暴人；
+
+一个读过但丁全集的姑娘，
+
+活下来为一个笨伯把儿女养；
+
+
+
+
+
+海伦怀着社会福利的梦想，[1]
+
+
+
+爬上一个小篷车尖声叫嚷。
+
+有人认为这是理所当然，
+
+机会使好人饿死，坏人升迁，
+
+如果他们邻居们扮相平常，
+
+就像在一个明亮的幕布上，
+
+他们会发现一个完整快乐的心
+
+并没有什么故事可听，
+
+它的结局与开场相称。
+
+年轻人不了解这些事情，
+
+留心世事的老年人却很熟谙；
+
+当他们知道古籍讲的道理，
+
+没有更好的下场，
+
+就明白老年人为何该癫狂。
+
+
+
+
+
+[1]  指积极宣传爱尔兰独立的毛特·冈。
+
+
+
+
+
+The Circus Animals' Desertion
+
+
+I
+
+I sought a theme and sought for it in vain,
+
+I sought it daily for six weeks or so.
+
+Maybe at last, being but a broken man,
+
+I must be satisfied with my heart, although
+
+Winter and summer till old age began
+
+My circus animals were all on show,
+
+Those stilted boys, that burnished chariot,
+
+Lion and woman and the Lord knows what.
+
+II
+
+What can I but enumerate old themes?
+
+First that sea-rider Oisin led by the nose
+
+Through three enchanted islands, allegorical dreams,
+
+Vain gaiety, vain battle, vain repose,
+
+Themes of the embittered heart, or so it seems,
+
+That might adorn old songs or courtly shows;
+
+But what cared I that set him on to ride,
+
+I, starved for the bosom of his faery bride?
+
+
+
+
+
+And then a counter-truth filled out its play,
+
+The Countess Cathleen was the name I gave it;
+
+She, pity-crazed, had given her soul away,
+
+But masterful Heaven had intervened to save it.
+
+I thought my dear must her own soul destroy,
+
+So did fanaticism and hate enslave it,
+
+And this brought forth a dream and soon enough
+
+This dream itself had all my thought and love.
+
+
+
+
+
+And when the Fool and Blind Man stole the bread
+
+Cuchulain fought the ungovernable sea;
+
+Heart-mysteries there, and yet when all is said
+
+It was the dream itself enchanted me:
+
+Character isolated by a deed
+
+To engross the present and dominate memory.
+
+Players and painted stage took all my love,
+
+And not those things that they were emblems of.
+
+III
+
+Those masterful images because complete
+
+Grew in pure mind, but out of what began?
+
+A mound of refuse or the sweepings of a street,
+
+Old kettles, old bottles, and a broken can,
+
+Old iron, old bones, old rags, that raving slut
+
+Who keeps the till. Now that my ladder's gone,
+
+I must lie down where all the ladders start,
+
+
+
+In the foul rag-and-bone shop of the heart.
+
+
+
+
+
+马戏团驯兽的逃遁
+
+I
+
+我寻找一个主题，白找了一通，
+
+我每天找它，大约有六个星期。
+
+也许到最后，我是个穷光蛋，
+
+我必须满足于自己的心意；
+
+虽然从冬到夏直至我年老，
+
+我的马戏团驯兽一直把戏演好，
+
+那些骄傲少年，那车座油光闪闪，
+
+狮子和女人以及那一套。
+
+II
+
+我能做什么，除了叙说旧题材？
+
+先是海之骑士奥辛牵着我鼻头
+
+
+
+
+
+经过迷人的三岛，传奇般的梦，[1]
+
+
+
+徒然的欢乐，徒然的休憩，徒然的战斗，
+
+那是或似乎是痛苦之心的题材，
+
+可以装饰古老的歌或宫中的戏，
+
+
+
+但我促他驰骋又有何虑，
+
+我渴望他新娘的胸脯，她如仙女？
+
+
+
+
+
+接着一个相反的真理写成了戏，
+
+我给它取名《女伯爵凯瑟琳》，
+
+她出于极度的怜悯，丢掉了自己的灵魂，
+
+
+
+
+
+但有力的上苍插手救了她的命。[2]
+
+
+
+我以为我的爱必然自毁其灵魂，
+
+狂热和仇恨曾奴役过她的心。
+
+这就产生了一个梦，而且快得很，
+
+
+
+
+
+这个梦本身就赢得了我全部思想和爱情。[3]
+
+
+
+
+
+当蠢蛋和盲人偷走了面包，
+
+
+
+
+
+大战不可控制的大海者是库胡林，[4]
+
+
+
+那里有心的秘密，但一切说尽，
+
+是那梦本身迷住了我的心；
+
+性格专注与一桩事业，
+
+它独占现状，控制记忆。
+
+演员和彩绘的舞台得了我全部的爱，
+
+而不是那些他们所表征的东西。
+
+III
+
+那些雄伟的形象由于完整性
+
+在纯洁的心智中成长，但从何开始？
+
+
+
+从一堆垃圾或街头的残渣，
+
+一个破桶，旧锅，旧瓶子，
+
+老铁器，老骨头，老破烂，那怒叫的老婊子，
+
+她掌着钱柜，如今我已撤了梯子，
+
+我必须躺下，在一切梯子的底部，
+
+在我心田的污秽的破骨烂肉铺。
+
+
+
+
+
+[1]  叶芝叙事诗《奥辛的漫游》叙说奥辛受诱去三个仙岛：青春之岛、黑塔之岛和遗忘之岛。
+
+
+
+
+
+[2]  叶芝剧本《女伯爵凯瑟琳》叙说她为拯救爱尔兰饥民把灵魂出卖给魔鬼，最终得上帝拯救。
+
+
+
+
+
+[3]  以戏剧艺术来振兴爱尔兰，即叶芝所领导的文艺复兴运动。
+
+
+
+
+
+[4]  叶芝的剧本《波伊拉海滩》叙说库胡林与海浪搏斗时，一个蠢蛋和盲人却偷吃了面包。
+
+
+
+
+
+Politics
+
+
+'In our time the destiny of man presents its meaning
+
+in political terms.' —Thomas Mann
+
+
+
+
+
+How can I, that girl standing there,
+
+My attention fix
+
+On Roman or on Russian
+
+Or on Spanish politics?
+
+Yet here's a travelled man that knows
+
+What he talks about,
+
+And there's a politician
+
+That has read and thought,
+
+And maybe what they say is true
+
+Of war and war's alarms,
+
+But O that I were young again
+
+And held her in my arms!
+
+
+
+
+
+政 治
+
+“在我们的时代，人类命运透过政治表现它的意义。”
+
+
+
+
+
+——汤马斯·曼[1]
+
+
+
+
+
+那姑娘站在那里，
+
+我怎能集中神志
+
+去考虑罗马或俄国
+
+或者西班牙的政治？
+
+但此公曾周游列国，
+
+知道说的是什么话，
+
+那一个博爱而且多思，
+
+还是个政治家。
+
+战争和警报已来临，
+
+他们也讲得有理，
+
+不过但愿我还年轻，
+
+把她抱在我怀里！
+
+
+
+
+
+[1]  汤马斯·曼（1875—1955）：德国作家，1929年获诺贝尔文学奖。
+
+
+
+
+
+Under Ben Bulben
+
+
+I
+
+Swear by what the sages spoke
+
+Round the Mareotic Lake
+
+That the Witch of Atlas knew,
+
+Spoke and set the cocks a-crow.
+
+
+
+
+
+Swear by those horsemen, by those women
+
+Complexion and form prove superhuman,
+
+That pale, long-visaged company
+
+That air in immortality
+
+Completeness of their passions won;
+
+Now they ride the wintry dawn
+
+Where Ben Bulben sets the scene.
+
+
+
+
+
+Here's the gist of what they mean.
+
+II
+
+Many times man lives and dies
+
+Between his two eternities,
+
+
+
+That of race and that of soul,
+
+And ancient Ireland knew it all.
+
+Whether man die in his bed
+
+Or the rifle knocks him dead,
+
+A brief parting from those dear
+
+Is the worst man has to fear.
+
+Though grave-diggers' toil is long,
+
+Sharp their spades, their muscles strong,
+
+They but thrust their buried men
+
+Back in the human mind again.
+
+III
+
+You that Mitchel's prayer have heard,
+
+'Send war in our time, O Lord!'
+
+Know that when all words are said
+
+And a man is fighting mad,
+
+Something drops from eyes long blind,
+
+He completes his partial mind,
+
+For an instant stands at ease,
+
+Laughs aloud, his heart at peace.
+
+Even the wisest man grows tense
+
+With some sort of violence
+
+Before he can accomplish fate,
+
+Know his work or choose his mate.
+
+
+
+IV
+
+Poet and sculptor, do the work,
+
+Nor let the modish painter shirk
+
+What his great forefathers did,
+
+Bring the soul of man to God,
+
+Make him fill the cradles right.
+
+
+
+
+
+Measurement began our might:
+
+Forms a stark Egyptian thought,
+
+Forms that gentler Phidias wrought.
+
+Michael Angelo left a proof
+
+On the Sistine Chapel roof,
+
+Where but half-awakened Adam
+
+Can disturb globe-trotting Madam
+
+Till her bowels are in heat,
+
+Proof that there's a purpose set
+
+Before the secret working mind:
+
+Profane perfection of mankind.
+
+
+
+
+
+Quattrocento put in paint
+
+On backgrounds for a God or Saint
+
+Gardens where a soul's at ease;
+
+Where everything that meets the eye,
+
+Flowers and grass and cloudless sky,
+
+Resemble forms that are or seem
+
+When sleepers wake and yet still dream,
+
+And when it's vanished still declare,
+
+With only bed and bedstead there,
+
+
+
+That heavens had opened.
+
+            Gyres run on;
+
+When that greater dream had gone
+
+Calvert and Wilson, Blake and Claude,
+
+Prepared a rest for the people of God,
+
+Palmer's phrase, but after that
+
+Confusion fell upon our thought.
+
+V
+
+Irish poets, learn your trade,
+
+Sing whatever is well made,
+
+Scorn the sort now growing up
+
+All out of shape from toe to top,
+
+Their unremembering hearts and heads
+
+Base-born products of base beds.
+
+Sing the peasantry, and then
+
+Hard-riding country gentlemen,
+
+The holiness of monks, and after
+
+Porter-drinkers' randy laughter;
+
+Sing the lords and ladies gay
+
+That were beaten into the clay
+
+Through seven heroic centuries;
+
+Cast your mind on other days
+
+That we in coming days may be
+
+Still the indomitable Irishry.
+
+
+
+VI
+
+Under bare Ben Bulben's head
+
+In Drumcliff churchyard Yeats is laid.
+
+An ancestor was rector there
+
+Long years ago, a church stands near,
+
+By the road an ancient cross.
+
+No marble, no conventional phrase;
+
+On limestone quarried near the spot
+
+By his command these words are cut:
+
+       Cast a cold eye
+
+
+
+       On life, on death.
+
+
+
+       Horseman, pass by!
+
+
+
+
+
+September 4, 1938
+
+
+
+
+
+本·布尔本山下[1]
+
+
+
+1
+
+
+
+
+
+凭下面这些起誓吧：[2]
+
+
+
+麦罗铁克湖周围圣人的话，
+
+阿特拉斯女巫的见闻，
+
+他们的话使公鸡啼鸣。
+
+
+
+
+
+凭这些骑士，这些女人起誓，
+
+他们有超人的形体和神姿，
+
+那一群有苍白长脸的人们，
+
+那种永垂不朽的神情，
+
+那种赢得的完美的激情；
+
+如今他们在冬天的黎明，
+
+骑马驰过本·布尔本山景。
+
+
+
+
+
+下面是他们讲话的要领。
+
+
+
+2
+
+一个人活着、死去许多回，
+
+在两种永恒之间变去又变来，
+
+
+
+
+
+一头是种族，一头是灵魂，[3]
+
+
+
+古代爱尔兰对这一切很熟谙。
+
+一个人不管死在床笫，
+
+或是被枪弹击毙，
+
+一瞬间离开亲人
+
+是他最害怕的事情，
+
+虽然掘坟者长时间工作，
+
+磨利铁锨，强壮肌肉，
+
+他们不过是把埋葬的人，
+
+
+
+
+
+又一次送回人类的心灵。[4]
+
+
+
+3
+
+
+
+
+
+你们听说过密契尔祝寿的话：[5]
+
+
+
+“老天爷！就让我们的时代开仗吧”，
+
+就明白，当一个人无话可讲，
+
+当他拼死拼活打仗，
+
+久已失明的眼睛会发出光来，
+
+他残缺的心灵会变得完美，
+
+
+
+刹那间他变得自由自在，
+
+大声笑着，心头宽慰。
+
+当他要完成自己的命运，
+
+了解自己的工作，或选择爱人，
+
+最明智的人也会
+
+紧张，猛一下激动起来。
+
+4
+
+诗人、雕塑家，做你的工作，
+
+不要让赶时髦的画匠逃脱
+
+他伟大先辈的事业，
+
+使人的灵魂皈依上帝
+
+使他与摇篮相称。
+
+
+
+
+
+我们的威力在于均衡，
+
+形式是埃及人的严肃思想，
+
+
+
+
+
+更温和的斐德阿斯的造像[6]
+
+
+
+在西斯廷教堂的屋顶，
+
+
+
+
+
+米开朗基罗留下了证明；[7]
+
+
+
+那半睡半醒的亚当
+
+居然惊动了环球旅行的婆娘，
+
+使她肠内发热心痒痒，
+
+证明秘密中工作的心灵
+
+确立了一个目标：
+
+世俗地把完美的人创造。
+
+
+
+
+
+十五世纪意大利的艺术品，
+
+以上帝或圣徒做背景，
+
+画出灵魂安息的乐园；
+
+眼睛所见的种种
+
+花和草，无云的天空，
+
+就像睡眠者半醒半梦
+
+所见或恍惚见到的景状，
+
+眼前只有床架和床，
+
+一切已消失却还在宣告
+
+已打开了天堂。
+
+旋锥体继续转，
+
+那场伟大的梦已经消亡，
+
+
+
+
+
+卡尔佛、威尔逊、布莱克和克洛德[8]
+
+
+
+为上帝的子民备好了休息的地方，
+
+
+
+
+
+帕尔默的话，这以后的时光[9]
+
+
+
+我们的思想混乱而迷茫。
+
+5
+
+爱尔兰诗人们要学好本领，
+
+只把制作精美的歌唱吟，
+
+蔑视正在涌现的那种
+
+
+
+从头到脚不成样子的作品，
+
+他们数典忘祖的头脑心灵
+
+是卑劣床榻的卑劣产品。
+
+歌咏农民和拼命
+
+骑马奔驰的乡村士绅，
+
+歌咏神圣的僧人
+
+和饮酒者的狂笑豪情；
+
+把欢乐的老爷太太歌咏，
+
+他们已被埋入土中
+
+
+
+
+
+长达七个英雄的世纪；[10]
+
+
+
+用过去的模子来铸造自己
+
+使未来时代的我们这些人
+
+依然是不可征服的爱尔兰人。
+
+6
+
+在本·布尔本秃山下面，
+
+叶芝在鼓崖坟地安眠。
+
+许多年前，他的祖先
+
+
+
+
+
+曾经是牧师，教堂在近边，[11]
+
+
+
+路旁还有古老十字架；
+
+不要大理石，不用俗套话，
+
+在当地采来的石碑上方，
+
+他嘱咐把这些话刻上：
+
+  冷眼看待
+
+
+
+  生与死
+
+  骑士们，前进！
+
+
+
+
+
+[1]  本·布尔本山位于叶芝故乡斯拉哥附近，叶芝死后葬于离此不远的鼓崖墓园，碑上刻有此诗最后三行。
+
+
+
+
+
+[2]  以上两段表明叶芝生平的两大信仰：一是神秘教，即雪莱诗《阿特拉斯女巫》所代表的智慧，她曾经过麦罗铁克湖（位于埃及亚历山大，古代新柏拉图学派的中心）；二是爱尔兰民间传说中策马驰过本·布尔本山的英雄人物。
+
+
+
+
+
+[3]  叶芝认为“人站在两个永恒之间，他的家族和他的灵魂之间”，所谓“家族”指父母赐予的血肉之躯。
+
+
+
+
+
+[4]  叶芝相信灵魂转世之说，认为人死后，进入人类大记忆，可重获生命。
+
+
+
+
+
+[5]  约翰·密契尔（1825—1875）：爱尔兰民族主义者。此系他《狱中日记》中的话。他在被流放澳大利亚后，逃到美国，1874年返回爱尔兰。
+
+
+
+
+
+[6]  斐德阿斯（公元前500年出生）：希腊雕塑家，以形式完美严谨著称。
+
+
+
+
+
+[7]  米开朗基罗在罗马西斯廷教堂作画《创世记》，有亚当像，英武俊美。
+
+
+
+
+
+[8]  爱德华·卡尔佛（1799—1883）：英国画家，威廉·布莱克（1757—1827）的追随者；理查·威尔逊（1714—1782）：英国画家，是法国风景画家克洛德·洛阑（1600—l682）的弟子。
+
+
+
+
+
+[9]  萨缪尔·帕尔默（1805—1881）：英国风景画家。他在讲到布莱克为维吉尔所作插图时说：“它们像这位了不起的画家的所有作品一样，把肉体的帷幕拉开，使人们看到留给上帝子民的安息，那是一切最神圣、最勤勉的圣人贤者所见到的”。
+
+
+
+
+
+[10]  自12世纪诺曼人征服爱尔兰算起。叶芝崇拜农庄主和士绅，因为他们明礼仪、有文化；崇拜高僧，因为他们虔诚；崇拜酒汉狂人，因为他们有激情。
+
+
+
+
+
+[11]  叶芝祖父约翰·叶芝（1774—l846）曾任鼓崖地区的牧师。
+
+
+
+
+
