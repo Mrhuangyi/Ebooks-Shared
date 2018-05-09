@@ -102,7 +102,7 @@
   
   嘻嘻，放上我web老师的网站[http://dill.zjtcm.net]
   
-  不要脸的放上自己博客[www.huangyiblog.com]
+  不要脸的放上自己博客[http://www.huangyiblog.com]
   
 ### 实用工具
 
