@@ -90,7 +90,21 @@
 
   [https://coolshell.cn/]
   
-  阮一峰老师[http://www.ruanyifeng.com/home.html]
+  孟岩老大[https://my.csdn.net/myan]
+  
+  g9大大[https://my.csdn.net/g9yuayon]
+  
+  一个杂文网[http://chinese.joelonsoftware.com/]
+  
+  Chadflower[http://chadfowler.com/]
+  
+  又一个杂文网[http://www.norvig.com/]
+  
+  刘未鹏大大[http://mindhacks.cn/]
+  
+  淘宝沈询[http://blog.sina.com.cn/s/blog_693f08470102vibt.html]
+  
+  阮一峰老师[http://www.ruanyifeng.com/home.html]
   
   阮老师的书[http://es6.ruanyifeng.com/]
   
