@@ -1,0 +1,103 @@
+Source Files
+------------
+
+	All the source files (including this file) assume tab stops every
+4 positions, not every 8 (the default).  Just ":set tabstop=4" in vi,
+for example.  Yo no habla emacs, but I'm sure its doable in emacs.
+
+What to do
+----------
+
+0.	Read this entire file.  Read the "DISCLAIMER" file.
+
+1.	If you're using either SunOS 4.1.x, SVR4, or BSD/386, copy one of the
+	files "Make.def.sun", "Make.def.svr4", or "Make.def.44" into the file
+	"Make.defines".  This file ("Make.defines") is included by all the
+	Makefiles in the individual directories.  Edit "Make.defines" as
+	appropriate for your system.  Note that *YOU MUST MODIFY* "Make.defines"
+	with the pathname of the "libmisc.a" library, any special compiler
+	flags, etc.
+
+	If you aren't using one of these three systems, start with one of these
+	three "Make.def.*" files and edit is as appropriate.  I am interested
+	in receiving any new versions of this file for additional Unix systems,
+	as long as I can include them in future releases of this tar distribution.
+
+2.	If you're using either SunOS 4.1.x, SVR4, or BSD/386, go into one of
+	the directories "lib.sun", "lib.svr4", or "lib.44" and type "make" or
+	"gmake".  (Be sure to read the rest of this file first.)  This makes
+	the library "libmisc.a" that almost every other program requires.
+	This is where the error functions from Appendix B.2 reside, for example.
+
+	Note that 90% of the files in these three lib directories are just
+	hard links to each other, as the source file is identical between
+	the three systems.
+
+	If you aren't using one of these three systems, pick the directory that
+	is closest to your system, and modify as required ...  The files with a
+	link count of 1 (i.e., those that differ between the three different
+	systems) will probably require the most work to port to other systems.
+	Note also that the file "systype.sh" is used by the Makefile in these
+	lib directories to try and determine which system we're on.  You almost
+	certainly need to modify this shell script also.
+
+3.	The file "Sourcefiles" lists which source file corresponds to each
+	Program in the book.  Go into the desired directory and make whatever
+	program you want.  There is not a master Makefile that make's everything.
+
+4.	Each Makefile may contain entries for programs other than those that
+	are distributed in this source release.  These are probably for small
+	test programs that I wrote while writing the book.  Since these programs
+	aren't in the book, and since it would take too much time to go through
+	and figure out what each one does and document it adequately, they are
+	not in this release.
+
+5.	Please let me know of any generic problems you encounter.  I may be able
+	to answer questions if you're having problems, but questions of the form
+	"what does it take to compile X under FOOix" I probably can't answer,
+	since I don't have access (and time) to try all these programs under
+	every Unix system in existence.
+
+Using make
+----------
+
+	Each directory with source code has a Makefile in it.  Each Makefile
+includes "../Make.defines".  Unfortunately on all three systems the make
+program is a little different:
+
+	- Under SunOS I use "make", although GNU make also seems to work.
+
+	- Under SVR4 I use "make".  I've never gotten GNU make to compile
+	  correctly under SVR4.  Fortunately the vanilla SVR4 make is OK.
+
+	- Under BSD/386 I use GNU make.  The standard BSD make is quite different
+	  and would require that the include line at the beginning of every
+	  Makefile be different.  (Guy Harris posted patches to the BSD make
+	  that let it handle "normal" include lines, to one of the Usenet
+	  newsgroups in May 1992.)
+
+POSIX.1 Compatibility
+---------------------
+
+	Be aware that *none* of the systems used (SVR4, 386BSD, SunOS 4.1.2)
+is POSIX.1-1990 compatible--they all conform to the earlier 1988 POSIX.1
+spec.  This means that you will get some compiler warnings for some of
+the files.  The main difference between the two is that the 1990 POSIX.1
+standard introduced the ssize_t return value for read and write.  The
+SVR4 function prototypes in <unistd.h> still say "int write(...)".
+
+	*YOU WILL ALMOST CERTAINLY* get a compiler error on the "ourhdr.h"
+file the first time you try and compile anything, unless your system
+supports the ssize_t primitive system data type that appeared with the
+1990 POSIX.1 standard.  I've just added the typdef of ssize_t to the
+appropriate headers on my systems.  Without root privilege you need
+another solution.  The easiest solution might be to typedef ssize_t
+in "ourhdr.h" to be an int.
+
+C Compilers
+-----------
+
+	The only ANSI C compilers that I've compiled these programs under
+are GNU C (Versions 1.39 and 1.40) under SunOS and BSD/386, and the SVR4
+Standard C Development Environment 5.0.  I have not tried Sun's ANSI C
+compiler (acc) on the Sparc.

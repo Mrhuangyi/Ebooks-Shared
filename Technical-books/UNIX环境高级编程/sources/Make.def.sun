@@ -1,0 +1,32 @@
+# Common make definitions for SunOS make under SunOS 4.1.[12].
+
+# Definitions required in all program directories to compile and link
+# C programs using gcc.  We also have to get rid of Sun's "-target" options,
+# as gcc doesn't grok it.
+
+CC=gcc
+COMPILE.c=$(CC) $(CFLAGS) $(CPPFLAGS) -c
+NOANSICOMPILE.c=$(CC) $(NOANSICFLAGS) $(CPPFLAGS) -c
+LINK.c=$(CC) $(CFLAGS) $(CPPFLAGS) $(LDFLAGS)
+LDLIBS=../libmisc.a
+S5LIB=/usr/5lib/libc.a
+# to get the System 5 versions of some system calls (getpgrp)
+
+# Common definitions
+
+CFLAGS	= -ansi -I/home/stevens/include -I/usr/include -Wall -Dsun
+CFLAGSO	= -ansi -I/home/stevens/include -I/usr/include -Wall -Dsun -O
+# We don't normally use -O with gcc on the sparc.
+# -I/home/stevens/include is to find the Sun headers that I've modified
+#		to be more ANSI & POSIX-1990 compliant.
+# We need the -I/usr/include so that gcc goes there for files
+#		such as <limits.h> which are also in the gcc-include/
+#		directory (which aren't correct for ANSI C).
+NOANSICFLAGS = -I/home/stevens/include -I/usr/include
+# We need this because Sun's <sys/wait.h> ain't ANSI C.
+
+LIB	= ../libmisc.a
+# Our library that almost every program needs.
+
+TEMPFILES = core core.* *.o temp.* *.out typescript*
+# Common temp files to delete from each directory.

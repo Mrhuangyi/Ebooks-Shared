@@ -1,0 +1,21 @@
+# Common make definitions for SVR4 make.
+
+# Definitions required in all program directories to compile and link
+# C programs.
+
+CC=cc
+LDFLAGS=/home/stevens/libmisc.a
+LDLIBS=$(LDFLAGS)
+NOANSICOMPILE.c=$(CC) $(NOANSICFLAGS) $(CPPFLAGS) -c
+LINK.c=$(CC) $(CFLAGS) $(CPPFLAGS) $(LDFLAGS)
+
+# Common definitions
+
+CFLAGS	= 
+CFLAGSO	= -O
+
+LIB	= /home/stevens/libmisc.a
+# Our library that almost every program needs.
+
+TEMPFILES = core core.* *.o temp.* *.out typescript*
+# Common temp files to delete from each directory.

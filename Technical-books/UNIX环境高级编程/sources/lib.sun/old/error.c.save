@@ -1,0 +1,126 @@
+#include	<errno.h>		/* for definition of errno */
+#include	<stdarg.h>		/* ANSI C header file */
+#include	<stdio.h>
+#include	<stdlib.h>
+#include	<string.h>		/* for strerror() */
+#include	"ourhdr.h"
+
+char	*pname = NULL;		/* caller can set this from argv[0] */
+
+/* Recoverable error.  Print a message based on the system's
+ * errno value, and return to caller.
+ */
+
+/* $[err_ret]~function$ */
+void
+err_ret(const char *fmt, ...)
+{
+	va_list		ap;
+	int			errno_save;
+
+	errno_save = errno;		/* value caller wants printed */
+	fflush(stdout);
+	va_start(ap, fmt);
+	if (pname != NULL)
+		fprintf(stderr, "%s: ", pname);
+	vfprintf(stderr, fmt, ap);
+	va_end(ap);
+
+	fprintf(stderr, ": %s\n", strerror(errno_save));
+	fflush(stderr);
+
+	return;
+}
+
+/* Fatal error related to a system call.  Print a message and terminate.
+ * Don't dump core, but do print the system's errno value and its
+ * associated message.
+ */
+
+/* $[err_sys]~function$ */
+void
+err_sys(const char *fmt, ...)
+{
+	va_list		ap;
+	int			errno_save;
+
+	errno_save = errno;		/* value caller wants printed */
+	fflush(stdout);
+	va_start(ap, fmt);
+	if (pname != NULL)
+		fprintf(stderr, "%s: ", pname);
+	vfprintf(stderr, fmt, ap);
+	va_end(ap);
+
+	fprintf(stderr, ": %s\n", strerror(errno_save));
+	fflush(stderr);
+
+	exit(1);
+}
+
+/* Fatal error.  Print a message, dump core (for debugging) and terminate.
+ */
+
+/* $[err_dump]~function$ */
+void
+err_dump(const char *fmt, ...)
+{
+	va_list		ap;
+	int			errno_save;
+
+	errno_save = errno;		/* value caller wants printed */
+	fflush(stdout);
+	va_start(ap, fmt);
+	if (pname != NULL)
+		fprintf(stderr, "%s: ", pname);
+	vfprintf(stderr, fmt, ap);
+	va_end(ap);
+
+	fprintf(stderr, ": %s\n", strerror(errno_save));
+	fflush(stderr);
+
+	abort();		/* dump core and terminate */
+	exit(1);		/* shouldn't get here */
+}
+
+/* Recoverable error.  Print a message, and return to caller.
+ * The system's errno value is not printed.
+ */
+
+/* $[err_msg]~function$ */
+void
+err_msg(const char *fmt, ...)
+{
+	va_list		ap;
+
+	fflush(stdout);
+	va_start(ap, fmt);
+	if (pname != NULL)
+		fprintf(stderr, "%s: ", pname);
+	vfprintf(stderr, fmt, ap);
+	va_end(ap);
+
+	fflush(stderr);
+
+	return;
+}
+
+/* Fatal error.  Print a message and terminate.
+ * Don't dump core and don't print the system's errno value.
+ */
+
+/* $[err_quit]~function$ */
+void
+err_quit(const char *fmt, ...)
+{
+	va_list		ap;
+
+	va_start(ap, fmt);
+	if (pname != NULL)
+		fprintf(stderr, "%s: ", pname);
+	vfprintf(stderr, fmt, ap);
+	putc('\n', stderr);
+	va_end(ap);
+
+	exit(1);
+}
