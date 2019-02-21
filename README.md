@@ -49,7 +49,7 @@
 | 2 | Java核心技术1，2 | Cay S. Horstmann | 基础篇 :heavy_check_mark: 高级篇 :x: |
 | 3 | 深入理解Java虚拟机 | 周志鹏 | 前7章 :heavy_check_mark: |
 | 4 | Java虚拟机规范 | 蒂姆·林霍尔姆 | :x: |
-| 5 | Head First Java | Kathy Sierra,Bert Bates | :x: |
+| 5 | Head First Java | Kathy Sierra,Bert Bates | :heavy_check_mark: |
 | 6 | Introduction to Java Programming | Liang, Y. Daniel | :x: |
 | 7 | Java并发编程实战 | 多人 | :x: |
 | 8 | Effective java 中文版 | Joshua Bloch | :x: |
