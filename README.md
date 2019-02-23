@@ -97,7 +97,7 @@
 | - | ---- | ------ | ---- |
 | 1 | 计算机网络 | 谢希仁 | :heavy_check_mark: |
 | 2 | 计算机网络（第4版） | James F.Kurose | :x: |
-| 3 | 图解HTTP | 上野轩 | :x: |
+| 3 | 图解HTTP | 上野轩 | :heavy_check_mark: |
 | 4 | TCP/IP详解 卷1：协议 | W.Richard Stevens | :x: |
 | 5 | Linux多线程服务端编程 | 陈硕 | :x: |
 | 6 | UNIX网络编程 | 史蒂文斯 | :x: |
