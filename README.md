@@ -380,6 +380,7 @@
 | 31 | 白夜行 | 东野圭吾 | :heavy_check_mark: |
 | 32 | 嫌疑人X的献身 | 东野圭吾 | :heavy_check_mark: |
 | 33 | 解忧杂货店 | 东野圭吾 | :heavy_check_mark: |
+| 34 | 漫长的告别 | 雷蒙德·钱德勒 | :heavy_check_mark: |  
 
 
 - 网络小说
