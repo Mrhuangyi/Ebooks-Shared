@@ -110,7 +110,7 @@
 | - | ---- | ------ | ---- |
 | 1 | MySQL必知必会 | Ben Forta | :x: |
 | 2 | 高性能MySQL | Baron Schwartz | :x: |
-| 3 | Redis设计与实现 | 黄健宏 | :x: |
+| 3 | Redis设计与实现 | 黄健宏 | :heavy_check_mark: |
 | 4 | Redis实战 |  Josiah Carlson | :x: |
 | 5 | 数据库系统概念 | Abraham Silberschatz | :x: |
 
