@@ -353,7 +353,7 @@
 | 4 | 大唐狄公案 | 高罗佩 | :x: |
 | 5 | 苍白 | 凑佳苗 | :heavy_check_mark: |
 | 6 | 长夜难明 | 紫金陈 | :heavy_check_mark: |
-| 7 | 法医秦明系列 | 法医秦明 | :x: |
+| 7 | 法医秦明系列 | 法医秦明 | :heavy_check_mark: |
 | 8 | 谋杀官员系列 | 紫金陈 | :heavy_check_mark: |
 | 9 | 推理之王系列 | 紫金陈 | :heavy_check_mark: |
 | 10 | 禁忌之地 | 紫金陈 | :heavy_check_mark: |
