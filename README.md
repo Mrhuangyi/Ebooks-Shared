@@ -567,7 +567,7 @@
 | 3 | 我的晃荡的青春 | 东野圭吾 | :heavy_check_mark: |
 | 4 | 红顶商人胡雪岩 | 高阳 | :heavy_check_mark: |
 | 5 | 慈禧全传 | 高阳 | :x: |
-| 6 | 卓别林的最后一支舞 | :heavy_check_mark: |
+| 6 | 卓别林的最后一支舞 | [意]法比欧·史塔西（Fabio Stassi） | :heavy_check_mark: |
 | 7 | 陈寅恪的最后20年 | 陆建东 |  :heavy_check_mark: |
 | 8 | 杨绛传 | 罗银胜 | :heavy_check_mark: |
 | 9 | 钱钟书传 | 张文江 | :heavy_check_mark: |
