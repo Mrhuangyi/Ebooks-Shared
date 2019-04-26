@@ -38,8 +38,7 @@
 | 6 | 算法设计与分析基础 | 美 莱维丁 | :x: |
 | 7 | 算法艺术与信息学竞赛 | 刘汝佳 黄亮 | :x: |
 | 8 | 算法导论 | Thomas H.Cormen、Charles E.Leiserson等 | :x: |
-| 9 | 编程珠玑 | Jon Bentley | :x: |
-|10 | 剑指offer | 何海涛 | :heavy_check_mark: |
+| 9 | 剑指offer | 何海涛 | :heavy_check_mark: |
 
 - Java
 
