@@ -552,7 +552,7 @@
 | 65 | 宋词三百首 | 上疆村民 | :heavy_check_mark: |  
 | 66 | 暗时间 | 刘未鹏 | :heavy_check_mark: |  
 | 67 | 黑箱——日本之耻 | 伊藤詩織 | :heavy_check_mark: |  
-
+| 68 | 木心诗选 | 木心 | :heavy_check_mark: |  
 
 ## 漫画类
 
