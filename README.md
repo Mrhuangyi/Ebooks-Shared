@@ -116,8 +116,9 @@
 | 2 | 高性能MySQL | Baron Schwartz | :x: |
 | 3 | Redis设计与实现 | 黄健宏 | :heavy_check_mark: |
 | 4 | Redis实战 |  Josiah Carlson | :x: |
-| 5 | 数据库系统概念 | Abraham Silberschatz | :x: |
-
+| 5 | 数据库系统概念 | Abraham Silberschatz | :x: |  
+| 6 | MySQL技术内幕InnoDB存储引擎 | 姜承尧 | :x: |  
+| 7 | MySQL技术内幕SQL编程 | 姜承尧 | :x: |  
 
 ### 其他技术类
 
