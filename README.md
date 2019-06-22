@@ -128,7 +128,7 @@
 | 1 | Maven权威指南 | Sonatype, Inc. |  :heavy_check_mark: |  
 | 2 | Mybatis3教程 | --- |   :heavy_check_mark: |
 | 3 | Docker容器与容器云 | 浙江大学 | :x: |  
-
+| 4 | Head First 设计模式 | 弗里曼 | :x: |  
 
 ## 文学与小说
 
