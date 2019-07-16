@@ -240,7 +240,7 @@
 | 56 | 许三观卖血记 | 余华 |  :heavy_check_mark: |
 | 57 | 草房子 | 曹文轩 |  :heavy_check_mark: |
 | 58 | 一句顶一万句 | 刘震云 |  :heavy_check_mark: |
-
+| 59 | 第七天 | 余华 | :heavy_check_mark: |  
 
 # 国外经典
 
