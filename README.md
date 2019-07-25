@@ -108,7 +108,8 @@
 | 3 | 图解HTTP | 上野轩 | :heavy_check_mark: |
 | 4 | TCP/IP详解 卷1：协议 | W.Richard Stevens | :x: |
 | 5 | Linux多线程服务端编程 | 陈硕 | :x: |
-| 6 | UNIX网络编程 | 史蒂文斯 | :x: |
+| 6 | UNIX网络编程 | 史蒂文斯 | :x: |  
+| 7 | HTTP权威指南 |   | :x: |  
 
 ### 数据库
 
@@ -130,6 +131,9 @@
 | 2 | Mybatis3教程 | --- |   :heavy_check_mark: |
 | 3 | Docker容器与容器云 | 浙江大学 | :x: |  
 | 4 | Head First 设计模式 | 弗里曼 | :x: |  
+| 5 | 大型网站技术架构核心原理与案例分析 |  李智慧 | :heavy_check_mark: |  
+| 6 | 大型网站系统与Java中间件实践 | 曾宪杰 | :x: |  
+
 
 ## 文学与小说
 
@@ -556,6 +560,8 @@
 | 66 | 暗时间 | 刘未鹏 | :heavy_check_mark: |  
 | 67 | 黑箱——日本之耻 | 伊藤詩織 | :heavy_check_mark: |  
 | 68 | 木心诗选 | 木心 | :heavy_check_mark: |  
+| 69 | 二十首情诗和一首绝望的歌 |  巴勃罗·聂鲁达 | :heavy_check_mark: |   
+
 
 ## 漫画类
 
