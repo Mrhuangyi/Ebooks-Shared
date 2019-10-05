@@ -554,7 +554,7 @@
 | 49 | 文化苦旅 | 余秋雨 | :heavy_check_mark: |
 | 50 | 千年一叹 | 余秋雨 | :heavy_check_mark: |
 | 51 | 小王子 | 安托万·德·圣埃克苏佩里 | :heavy_check_mark: |
-| 52 |  自由在高处 | 熊培云  | :heavy_check_mark: |
+| 52 | 自由在高处 | 熊培云  | :heavy_check_mark: |
 | 53 | 顾城诗选 | 顾城 | :heavy_check_mark: |
 | 54 | 海子诗集 | 海子 | :heavy_check_mark: |
 | 55 | 很高兴见到你 | one系列 | :heavy_check_mark: |
@@ -572,7 +572,7 @@
 | 67 | 黑箱——日本之耻 | 伊藤詩織 | :heavy_check_mark: |  
 | 68 | 木心诗选 | 木心 | :heavy_check_mark: |  
 | 69 | 二十首情诗和一首绝望的歌 |  巴勃罗·聂鲁达 | :heavy_check_mark: |   
-
+| 70 | 朱自清散文集 | 朱自清 | :heavy_check_mark: |   
 
 ## 漫画类
 
