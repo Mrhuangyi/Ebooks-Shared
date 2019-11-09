@@ -492,7 +492,7 @@
 | 47 | 失控 | [美] 凯文·凯利 | :x: |  
 | 48 | 少有人走的路 | [美] M·斯科特·派克 | :x: |  
 | 49 | 爱的艺术 | [美] 艾·弗洛姆 | :heavy_check_mark: |  
-| 50 | 毛泽东选集 | 毛泽东 | :x: |  
+| 50 | 毛泽东选集 | 毛泽东 | :heavy_check_mark: |   
 | 51 | 性心理学 | Havelock Ellis |  :x: |  
 | 52 | 改变心理学的40项研究 | 罗杰·R·霍克 |  :heavy_check_mark: |   
 | 53 | 债务危机 | 瑞·达里欧 | :heavy_check_mark: |   
@@ -556,7 +556,7 @@
 | 51 | 小王子 | 安托万·德·圣埃克苏佩里 | :heavy_check_mark: |
 | 52 | 自由在高处 | 熊培云  | :heavy_check_mark: |
 | 53 | 顾城诗选 | 顾城 | :heavy_check_mark: |
-| 54 | 海子诗集 | 海子 | :heavy_check_mark: |
+| 54 | 海子诗全集 | 海子、西川 | :heavy_check_mark: |
 | 55 | 很高兴见到你 | one系列 | :heavy_check_mark: |
 | 56 | one系列 | 韩寒监制 | 部分文章 :heavy_check_mark: |
 | 57 | 我们仨 | 杨绛 |  :heavy_check_mark: |
