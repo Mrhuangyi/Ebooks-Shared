@@ -249,6 +249,7 @@
 | 59 | 第七天 | 余华 | :heavy_check_mark: |  
 | 60 | 现实一种 | 余华 | :heavy_check_mark: |  
 | 61 | 小姨多鹤 | 严歌苓 | :heavy_check_mark: |  
+| 62 | 棋王 | 阿城 | :heavy_check_mark: |  
 
 # 国外经典
 
