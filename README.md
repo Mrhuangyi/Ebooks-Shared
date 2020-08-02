@@ -588,6 +588,9 @@
 | 68 | 木心诗选 | 木心 | :heavy_check_mark: |  
 | 69 | 二十首情诗和一首绝望的歌 |  巴勃罗·聂鲁达 | :heavy_check_mark: |   
 | 70 | 朱自清散文集 | 朱自清 | :heavy_check_mark: |   
+| 71 | 李清照诗词全集 | 李清照 | :heavy_check_mark: |   
+| 72 | 苏轼词集 | 苏轼 | :heavy_check_mark: |   
+
 
 ## 漫画类
 
