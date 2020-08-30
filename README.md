@@ -598,7 +598,8 @@
 | - | ---- | ------ | --- |
 | 1 | 一个人住第5年 | 高木直子 | :heavy_check_mark: |
 | 2 | 镖人 | 许先哲 | :heavy_check_mark: |
-| 3 | 父与子 | [德] 埃·奥·卜劳恩 | :heavy_check_mark: |
+| 3 | 父与子 | [德] 埃·奥·卜劳恩 | :heavy_check_mark: |  
+| 4 | 甲贺忍法帖 | 山田风太郎 |  :heavy_check_mark: |  
 
 ## 历史类
 
