@@ -51,15 +51,15 @@
 | 8 | Effective java 中文版 | Joshua Bloch | :x: |
 | 9 | Java性能优化权威指南 | Charlie Hunt | :x: |
 | 10 | Java网络编程 | Elliotte Rusty Harold | :x: |
-| 11 | Java 8实战 | Raoul-Gabriel Urma | :x: |
-| 12 | Java解惑 | JOSHUA BLOCH | :x: |
+| 11 | Java 8实战 | Raoul-Gabriel Urma |:heavy_check_mark: |
+| 12 | Java解惑 | JOSHUA BLOCH | :heavy_check_mark: |
 | 13 | Java性能权威指南 | Scott Oaks | :x: |
 | 14 | 精通Spring 4.x | 陈雄华 | :x: |
 | 15 | Spring揭秘 | 王福强 |  :x: |
 | 16 | SpringBoot参考指南 | 官方文档 | :x: |
 | 17 | 垃圾回收的算法与实现 | 中村成洋 川相光 | :x: |
 | 18 | Java并发编程的艺术 | 放腾飞 魏鹏 程晓明 | :heavy_check_mark: |  
-| 19 | Java多线程编程核心技术 | 高宏岩 | :x: |  
+| 19 | Java多线程编程核心技术 | 高宏岩 | :heavy_check_mark: |
 | 20 | SpringBoot揭秘：快速构建为服务体系 | 王福强 | :heavy_check_mark: |   
 | 21 | Spring源码深度解析 | 郝佳 | :x: |  
 
@@ -146,16 +146,16 @@
 | 1 | 西游记 | 吴承恩 | :heavy_check_mark: |
 | 2 | 水浒传 | 施耐庵 |:heavy_check_mark: |
 | 3 | 三国演义 | 罗贯中 |:heavy_check_mark: |
-| 4 | 史记 | 司马迁 | :x: |
+| 4 | 史记 | 司马迁 | :heavy_check_mark: |
 | 5 | 西厢记 | 王实甫 | :heavy_check_mark: |
 | 6 | 桃花扇 | 汤显祖 | :heavy_check_mark: |
 | 7 | 牡丹亭 | 孔尚任 | :heavy_check_mark: |
 | 8 | 长生殿 | 洪昇 | :heavy_check_mark: |
-| 9 | 儒林外史 | 吴敬梓 | :x: |
+| 9 | 儒林外史 | 吴敬梓 | :heavy_check_mark: |
 | 10 | 聊斋志异 | 蒲松龄 | :x: |
 | 11 | 资治通鉴 | 司马光 |:heavy_check_mark: |
 | 12 | 战国策 | 刘向 | :x: |
-| 13 | 曾国藩家书 | 曾国藩 | :x: |
+| 13 | 曾国藩家书 | 曾国藩 | :heavy_check_mark: |
 | 14 | 智囊 | 冯梦龙 |:heavy_check_mark: |  
 | 15 | 吕氏春秋 | 张双棣 | :x: |
 | 16 | 菜根谭 | 洪应明 | :heavy_check_mark: |
@@ -410,10 +410,10 @@
 
 | # | 书名  | 作者(或者主要编辑人)  | 我的阅读进度 |
 | - | ---- | ------ | --- |
-| 1 | 凡人修仙传 | 忘语 | :x: |
-| 2 | 龙族 | 江南 | :x: |
+| 1 | 凡人修仙传 | 忘语 | :heavy_check_mark: |
+| 2 | 龙族 | 江南 | :heavy_check_mark: |
 | 3 | 繁花 | 金宇澄 |  :x: |  
-| 4 | 星辰变 | 我吃西红柿 | :x: |  
+| 4 | 星辰变 | 我吃西红柿 | :heavy_check_mark: |
 | 5 | 雪中悍刀行 | 烽火戏诸侯 | :x: |
 | 6 | xxx | xxx |  :heavy_check_mark: |
 | 7 | 魔道祖师 | 墨香铜臭 | :heavy_check_mark: |
@@ -469,7 +469,7 @@
 | 30 | 人间词话 | 王国维 |  :heavy_check_mark: |
 | 31 | 人类简史 | [以色列]尤瓦尔·赫拉利 | :x: |
 | 32 | 博弈论 | 朱·弗登博格、黄涛 | :x: |
-| 33 | 国富论 | 亚当·斯密（英国） | :x: |
+| 33 | 国富论 | 亚当·斯密（英国） | :heavy_check_mark: |
 | 34 | 人月神话 | 布鲁克斯 | :x: |
 | 35 | 信息简史 | [美] 詹姆斯·格雷克 | :x: |
 | 36 | 本草纲目 | 李时珍 | :x: |
@@ -497,7 +497,7 @@
 | 3 | 与众不同的心理学 | Keith E.Stanovich | :x: |  
 | 4 | 性学与爱情心理学 | 弗洛伊德 | :heavy_check_mark: |  
 | 5 | 对"伪心理学"说不 | 基思·斯坦诺维奇 | :heavy_check_mark: |  
-| 6 | 性心理学 | Havelock Ellis |  :x: |  
+| 6 | 性心理学 | Havelock Ellis | :heavy_check_mark: |
 | 7 | 改变心理学的40项研究 | 罗杰·R·霍克 |  :heavy_check_mark: |   
 
 ### 金融理财类
