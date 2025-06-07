@@ -48,7 +48,7 @@
 | 5 | Head First Java | Kathy Sierra,Bert Bates | :heavy_check_mark: |
 | 6 | Introduction to Java Programming | Liang, Y. Daniel | :x: |
 | 7 | Java并发编程实战 | 多人 | :x: |
-| 8 | Effective java 中文版 | Joshua Bloch | :x: |
+| 8 | Effective java 中文版 | Joshua Bloch | :heavy_check_mark: |
 | 9 | Java性能优化权威指南 | Charlie Hunt | :x: |
 | 10 | Java网络编程 | Elliotte Rusty Harold | :x: |
 | 11 | Java 8实战 | Raoul-Gabriel Urma |:heavy_check_mark: |
@@ -56,12 +56,13 @@
 | 13 | Java性能权威指南 | Scott Oaks | :x: |
 | 14 | 精通Spring 4.x | 陈雄华 | :x: |
 | 15 | Spring揭秘 | 王福强 |  :x: |
-| 16 | SpringBoot参考指南 | 官方文档 | :x: |
+| 16 | SpringBoot参考指南 | 官方文档 | :heavy_check_mark: |
 | 17 | 垃圾回收的算法与实现 | 中村成洋 川相光 | :x: |
 | 18 | Java并发编程的艺术 | 放腾飞 魏鹏 程晓明 | :heavy_check_mark: |  
 | 19 | Java多线程编程核心技术 | 高宏岩 | :heavy_check_mark: |
 | 20 | SpringBoot揭秘：快速构建为服务体系 | 王福强 | :heavy_check_mark: |   
 | 21 | Spring源码深度解析 | 郝佳 | :x: |  
+| 22 | Java设计模式及实践 | Kamalmeet Singh/Adrian lanculescu/Paul Torje | :x: |
 
 ### C/C++
 
@@ -110,13 +111,14 @@
 
 | # | 书名  | 作者(或者主要编辑人)  | 我的阅读进度 |
 | - | ---- | ------ | ---- |
-| 1 | MySQL必知必会 | Ben Forta | :x: |
+| 1 | MySQL必知必会 | Ben Forta | :heavy_check_mark: |
 | 2 | 高性能MySQL | Baron Schwartz | :x: |
 | 3 | Redis设计与实现 | 黄健宏 | :heavy_check_mark: |
 | 4 | Redis实战 |  Josiah Carlson | :x: |
 | 5 | 数据库系统概念 | Abraham Silberschatz | :x: |  
 | 6 | MySQL技术内幕InnoDB存储引擎 | 姜承尧 | :x: |  
 | 7 | MySQL技术内幕SQL编程 | 姜承尧 | :x: |  
+| 8 | 设计数据密集型应用 | Martin Kleppmann | :x: |
 
 ### 其他技术类
 
@@ -128,6 +130,7 @@
 | 4 | Head First 设计模式 | 弗里曼 | :x: |  
 | 5 | 大型网站技术架构核心原理与案例分析 |  李智慧 | :heavy_check_mark: |  
 | 6 | 大型网站系统与Java中间件实践 | 曾宪杰 | :x: |  
+| 7 | 代码整洁之道 | Robert C. Martin | :heavy_check_mark: |
 
 
 ## 文学与小说
